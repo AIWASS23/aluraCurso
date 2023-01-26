@@ -11,8 +11,12 @@ body {
     padding: 30px;
 }
 
+.titlePrincipal {
+    padding-left: 20px;
+}
 
-h1 {
+
+.titleCenter {
     text-align: center;
 }
 
@@ -36,10 +40,6 @@ em strong {
     background: #ffffff;
     padding: 20px;
 
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
