@@ -1,0 +1,11 @@
+Como definir o título e os parágrafos de um texto:
+Utilizando as tags <h1> e <p>, respectivamente
+
+Como dar destaque para algumas informações do texto:
+Deixando-as em negrito, utilizando a tag <strong>
+
+Como dar ênfase para algumas informações do texto:
+Deixando-as em itálico, utilizando a tag <em>
+
+Para fechar a tag:
+</tag>
