@@ -52,4 +52,26 @@ Como representar cores no CSS:
 Através do nome da cor
 Através do seu hexadecimal
 Através do seu RGB
- 
+
+--------------------------------------------------------------------------------------------------------
+
+Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo:
+Criando um identificador para marcar especificamente um elemento id="nome"
+
+Como fazer referência a esse identificador no CSS:
+#identificador
+
+Como adicionar uma imagem à nossa página:
+<img src="imagem.formato">
+
+Como ajustar a altura do elemento:
+Através da propriedade height
+
+Como ajustar a largura do elemento:
+Através da propriedade width
+
+Como ajustar o espaçamento interno do elemento:
+Através da propriedade padding
+
+Como ajustar o espaçamento externo do elemento:
+Através da propriedade margin
