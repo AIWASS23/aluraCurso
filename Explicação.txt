@@ -75,3 +75,15 @@ Através da propriedade padding
 
 Como ajustar o espaçamento externo do elemento:
 Através da propriedade margin
+
+---------------------------------------------------------------------------------------------------
+
+Trabalhar com listas:
+não-ordenadas <ul>  
+ordenadas <ol>
+
+Para cada um dos itens da lista:
+Utilizamos a tag <li>
+
+Divisões de conteúdo:
+Utilizando a tag <div>
