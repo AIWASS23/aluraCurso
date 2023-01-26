@@ -29,4 +29,27 @@ Utilizando a tag <head>
 
 Como separar o conteúdo da página:
 Utilizando a tag <body>
+
+-----------------------------------------------------------------------------------------------------
+
+A mexer na apresentação dos textos:
+No alinhamento deles (text-align)
+No tamanho da fonte (font-size)
+Na cor de fundo (background)
+Na cor do texto (color)
+
+CSS inline:
+Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+
+A tag <style>:
+Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML
+
+Como importar um arquivo externo de CSS dentro da nossa página HTML:
+    No head: 
+         <link rel="stylesheet" href="style.css">
+
+Como representar cores no CSS:
+Através do nome da cor
+Através do seu hexadecimal
+Através do seu RGB
  
