@@ -122,3 +122,16 @@ Como posicionar o cabeçalho da nossa página:
     width: 940px;
     margin: 0 auto;
 }
+
+---------------------------------------------------------------------------------------------------------
+
+Através do CSS, aplicar bordas nos elementos: 
+box-sizing: border-box
+
+Os diferentes tipos de bordas:
+border:
+
+A deixar a borda arredondada.
+border-radius:
+
+    
