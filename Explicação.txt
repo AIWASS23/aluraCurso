@@ -104,3 +104,21 @@ font-weight: bold
 
 Como remover a decoração do texto
 text-decoration: none
+
+---------------------------------------------------------------------------------------------------
+
+Como remover os estilos que o navegador cria automaticamente:
+Com o Arquivo reset.css
+
+Posicionamentos dos elementos:
+position: static
+position: relative 
+position: absolute
+
+Como posicionar o cabeçalho da nossa página:
+<div class=""> e no css:
+.nameClass {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
