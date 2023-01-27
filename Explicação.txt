@@ -87,3 +87,20 @@ Utilizamos a tag <li>
 
 Divisões de conteúdo:
 Utilizando a tag <div>
+
+----------------------------------------------------------------------------------------------------
+
+Cria links para outras páginas, sejam elas do nosso projeto ou páginas externas:
+<a>
+
+Estilos inline e block:
+display: 
+
+Como transformar o texto para ter todas as letras maiúsculas:
+text-transform: uppercase
+
+Como deixar o texto em negrito com CSS:
+font-weight: bold
+
+Como remover a decoração do texto
+text-decoration: none
