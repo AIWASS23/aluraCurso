@@ -158,3 +158,32 @@ A label possui o display inline e o input possui display inline-block
 
 ---------------------------------------------------------------------------------------------------------
 
+Entradas de texto de mais de uma linha:
+<textarea>
+
+O input do tipo radio:
+<input type="radio">
+
+Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado:
+name="contato"
+
+O input do tipo checkbox:
+<input type="checkbox">
+
+Cria um input dentro de um label, assim associando-os:
+<label for="radio-telefone">
+<input ... id="radio-telefone"> 
+
+Como funciona a hierarquia no CSS:
+inline: peso 1000
+id: peso 100
+class: peso 10
+tag: peso 1
+
+Campo de seleção de um item, e o option, que representa cada opção do seletor:
+<select>
+	<option>
+    </option>
+</select>
+
+---------------------------------------------------------------------------------------------------------------
