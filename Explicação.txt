@@ -187,3 +187,31 @@ Campo de seleção de um item, e o option, que representa cada opção do seleto
 </select>
 
 ---------------------------------------------------------------------------------------------------------------
+
+Tipos de inputs para celular: 
+email
+tel
+number 
+password 
+date
+datetime
+month
+search
+
+Como não permitir que um campo não seja preenchido:
+Através do atributo required
+
+Como exibir uma sugestão de preenchimento para os campos:
+Através do atributo placeholder
+
+Como deixar uma opção marcada por padrão nos nossos input radio e checkbox:
+Através do atributo checked
+
+Como estruturar melhor o nosso código:
+Usando fieldset e legend
+
+Como adicionar uma alternativa à imagem, descrevendo-a:
+Com o atributo alt
+
+-----------------------------------------------------------------------------------------------------------------
+
