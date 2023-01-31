@@ -139,4 +139,22 @@ border-radius:
 Pseudo-classes CSS:
 hover (quando o usuário passa o cursor sobre o elemento)
 active (quando um elemento está sendo ativado pelo usuário)
-    
+
+---------------------------------------------------------------------------------------------------------
+
+Formulário HTML:
+A tag que o representa é a <form>
+
+Entrada de dados do usuário:
+A tag <input>
+
+A criar uma etiqueta para o input:
+A tag <label>
+
+A conectar um input com o seu label:
+Colocamos um id para o input e associamos esse id ao atributo for do label
+
+A label possui o display inline e o input possui display inline-block
+
+---------------------------------------------------------------------------------------------------------
+
