@@ -215,3 +215,11 @@ Com o atributo alt
 
 -----------------------------------------------------------------------------------------------------------------
 
+A realizar transições nos nossos elementos:
+Com a propriedade transition:
+
+A modificar o estilo do ponteiro do mouse, quando passar por cima de determinado elemento:
+Com a propriedade cursor: pointer;
+
+A realizar transformações nos nossos elementos, como aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo:
+Através da propriedade transform:
