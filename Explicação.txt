@@ -237,3 +237,13 @@ A tag <th>, que representa a célula do cabeçalho da tabela
 A tag <tfoot>, que representa o rodapé da tabela
 
 ---------------------------------------------------------------------------------------------------------------------
+
+Como funciona a flutuação dos elementos e como modificá-la:
+Com a propriedade float: do CSS
+
+Como limpar o float:
+Com a propriedade clear: do CSS
+
+---------------------------------------------------------------------------------------------------------------------
+
+
