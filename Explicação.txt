@@ -280,3 +280,29 @@ https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements
 
 -------------------------------------------------------------------------------------------------------------------------
 
+Seletores avançados CSS:
+
+Seletor > 
+Para acessar os filhos de determinado elemento. Por exemplo, para acessar todos os p dentro de main:
+
+main > p {}
+
+Seletor + 
+Para acessar o primeiro irmão de determinado elemento. Por exemplo, para acessar o primeiro p após um img:
+
+img + p {}
+
+Seletor ~ 
+Para acessar todos os irmãos de determinado elemento. Por exemplo, para acessar todos os p após um img:
+
+img ~ p {}
+
+Seletor not
+Para acessar os elementos, exceto algum. Por exemplo, para acessar todos os p dentro de main, exceto o p que tem id missao:
+
+main p:not(#missao) {}
+
+Como fazer contas com CSS:
+Com a propriedade calc()
+
+---------------------------------------------------------------------------------------------------------------------------
