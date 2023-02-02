@@ -246,4 +246,37 @@ Com a propriedade clear: do CSS
 
 ---------------------------------------------------------------------------------------------------------------------
 
+Como utilizar fontes externas nas nossas páginas:
+https://fonts.google.com 
+Escolha a fonte
+Clique no icone (View selected families)
+Copie o codigo html e cole no head
+
+Como incorporar um mapa à nossa página:
+https://www.google.com/maps
+Procure a Localização
+Clique no Botão Menu
+Vá na opção compartilhar ou incorporar mapa
+Selecione a opção incorporar
+Copie o codigo html e cole onde você quer exibir o mapa
+
+Como incorporar um vídeo à nossa página:
+https://www.youtube.com
+Procure o video que deseja colocar na pagina
+Clique no botão compartilhar
+Selecione a opção incorporar
+Copie o codigo html e cole onde você quer exibir o video
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Pseudo-classes no CSS:
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes
+
+Como aplicar um background gradiente na página:
+https://www.maujor.com/tutorial/css3-gradientes-lineares.php
+
+Pseudo-elementos no CSS:
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements
+
+-------------------------------------------------------------------------------------------------------------------------
 
