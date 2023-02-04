@@ -306,3 +306,17 @@ Como fazer contas com CSS:
 Com a propriedade calc()
 
 ---------------------------------------------------------------------------------------------------------------------------
+
+Como manipular a opacidade dos elementos no CSS:
+Propriedade opacity:
+
+Como manipular a opacidade das cores:
+Escolhendo um valor entre 0 e 1 e usando o transition:
+
+Como adicionar um sombreamento em volta dos elementos:
+Com a propriedade CSS box-shadow:
+
+Como adicionar um sombreamento em textos:
+Com a propriedade CSS text-shadow:
+
+--------------------------------------------------------------------------------------------------------------------------
