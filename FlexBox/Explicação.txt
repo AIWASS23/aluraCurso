@@ -32,3 +32,24 @@ float: left | right
     mágicos!
 
 ---------------------------------------------------------------------------------------------------------------------
+
+Podemos distribuir os elementos dentro do pai de diversas formas, podemos por exemplo:
+
+Colocar todo espaço à esquerda, jogando o conteúdo para direita:
+justify-content: flex-end;
+
+Colocar todo espaço à direita, jogando o conteúdo para esquerda:
+justify-content: flex-start; (que é o padrão).
+
+Colocar todo espaço à esquerda e à direita, jogando o conteúdo para o meio:
+justify-content: center;
+
+Colocar todo espaço entre os elementos:
+justify-content: space-between;
+
+Colocar o espaço em volta dos elementos:
+justify-content: space-around;
+
+Para o flex não transbordar o conteúdo, de forma que quando o conteúdo ultrapassar 
+o tamanho do pai, ele simplesmente quebre para uma próxima coluna:
+flex-wrap: wrap;
