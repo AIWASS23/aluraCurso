@@ -53,3 +53,32 @@ justify-content: space-around;
 Para o flex não transbordar o conteúdo, de forma que quando o conteúdo ultrapassar 
 o tamanho do pai, ele simplesmente quebre para uma próxima coluna:
 flex-wrap: wrap;
+
+--------------------------------------------------------------------------------------------
+
+O melhor a se fazer aqui é ter em mente que o ideal é sempre que necessário consultar a documentação através 
+desse site: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Lá podemos ver claramente quais propriedades são aplicadas ao container e aos flex items, não há necessidade 
+de ficar decorando, isso virá naturalmente com a prática.
+
+Seguindo a documentação temos:
+
+container:
+
+    * display: flex
+    * flex-direction
+    * justify-content
+    * flex-wrap
+    * flex-flow
+    * align-items
+    * align-content
+
+flex item:
+
+    * order
+    * flex-grow
+    * flex-shrink
+    * flex-basis
+    * flex
+    * align-self 
