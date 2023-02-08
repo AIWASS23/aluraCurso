@@ -82,3 +82,10 @@ flex item:
     * flex-basis
     * flex
     * align-self 
+
+Para praticar flexbox:  
+
+http://flexboxfroggy.com/
+http://www.flexboxdefense.com/
+
+--------------------------------------------------------------------------------------------------------------
