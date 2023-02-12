@@ -9,5 +9,20 @@ o plugin EMMET para criar blocos de código HTML
 
 -----------------------------------------------------------------------------------------------------------
 
+Algumas motivações para usar mobile-first:
 
+Grande parte dos acessos e vendas vem de dispositivos mobile
+O design é minimalista e simplificado
+Foco em conteúdo
 
+Algumas motivações para usar desktop-first:
+A interface pode ter diversas features mais ricas
+Maior capacidade de banda e processamento
+O produto é otimizado para desktop (ex: Google Docs)
+
+O initial-scale dentro do conteúdo do Viewport na tag <meta> para melhorar a responsividade;
+Como declarar e chamar variáveis CSS:
+
+:root{} e declarar a variavel usando --
+
+------------------------------------------------------------------------------------------------------
