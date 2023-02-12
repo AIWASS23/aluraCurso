@@ -1,0 +1,13 @@
+rem se refere ao tamanho da fonte raiz do documento. Isso significa que, independentemente do tamanho da 
+fonte especificada em outros elementos da página, o tamanho da fonte especificado em rem será baseado na 
+fonte raiz do documento.
+
+em se refere ao tamanho da fonte do elemento pai. Isso significa que, se você especificar uma fonte de 1em 
+para um elemento, o tamanho da fonte será baseado no tamanho da fonte do elemento pai.
+
+o plugin EMMET para criar blocos de código HTML
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
