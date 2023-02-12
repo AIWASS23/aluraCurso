@@ -26,3 +26,5 @@ Como declarar e chamar variáveis CSS:
 :root{} e declarar a variavel usando --
 
 ------------------------------------------------------------------------------------------------------
+
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
