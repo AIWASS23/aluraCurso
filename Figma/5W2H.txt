@@ -1,0 +1,32 @@
+Metodologia do 5W2H, que são várias perguntas, semelhante até às perguntas jornalísticas, mas um pouco mais 
+elaboradas, para entendermos um pouco, para saber em que contexto que nos encontramos, quem são as pessoas 
+que vão usar esse produto que estamos desenvolvendo, quais são os problemas que elas encontram no dia a dia 
+que estamos buscando resolver.
+
+WHAT, ou o “o que”, então o que estamos produzindo, o que vai ser produzido, o que essas pessoas que 
+utilizariam esse produto fazem no dia a dia, enfim, tentamos não apenas olhar uma questão fechada de cada 
+uma dessas perguntas, mas abranger ao máximo, para tirar o máximo de respostas possíveis na fase de 
+descoberta da experiência.
+
+WHY, ou “por que”, então por que isso vai ser desenvolvido, por que as pessoas que utilizariam esse produto 
+se comportam de tal maneira, enfim, podemos ir abrangendo ao máximo, para tirar o máximo de perguntas 
+possíveis de cada um desses tópicos.
+
+WHERE, ou “onde”, então onde essas pessoas se encontram, onde isso vai ser desenvolvido, onde essas pessoas 
+utilizariam esse produto, é no ônibus? É deitado na cama? Na praia? Então, mais uma pergunta para ficarmos 
+de olho.
+
+WHEN ou “quando”, então quando isso vai ser desenvolvido, quando essa pessoa utilizaria esse produto, 
+abrangendo ao máximo também a questão do when, essas perguntas.
+
+WHO, ou seja, “quem”, quem que utilizaria esse produto, quem é essa pessoa que utilizaria. Quem vai produzir, 
+quem são os profissionais envolvidos para a produção desse produto.
+
+HOW ou “como”, então como isso vai ser feito, como essas pessoas que utilizariam se comportam, tentando 
+abranger ao máximo essas perguntas.
+
+HOW MUCH. Então quanto isso vai custar, quanto tempo isso vai levar. Então é uma pergunta mais relacionada a 
+numerais. Então qual a periodicidade que isso vai levar, quanto dinheiro isso vai custar, afinal de contas, 
+todos os projetos tem orçamentos e também tem um tempo para acontecer, então é importante entendermos também 
+essas perguntas.
+
