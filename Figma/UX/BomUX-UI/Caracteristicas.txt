@@ -1,0 +1,64 @@
+Características de uma boa experiência do usuário
+
+Um bom design é fácil de detectar, mas muitas vezes difícil de definir. O que exatamente torna um produto 
+eficaz para seus usuários? É uma questão de simplicidade, estrutura ou funcionalidade? A resposta depende 
+do produto em questão. Algumas características principais de um bom UX. Essas características – utilizáveis, 
+equitativas, agradáveis e úteis – podem ajudá-lo a avaliar o design de um produto.
+
+Usable
+
+Se um produto é utilizável, significa que o design, a estrutura e a finalidade do produto são claros e 
+fáceis de usar. Ao avaliar a usabilidade de um produto, você pode fazer perguntas como: Tudo no design é 
+fácil de encontrar? A funcionalidade do design é fácil de entender? Os usuários podem realizar tarefas 
+específicas dentro do design? À medida que você avalia, essas perguntas podem ajudá-lo a determinar se o 
+design oferece uma experiência utilizável. Imagine que você está avaliando a usabilidade de um aplicativo 
+de companhia aérea. Supondo que o objetivo principal deste aplicativo seja reservar um voo, o design deve 
+fornecer uma maneira clara e fácil de concluir essa tarefa. Por exemplo, uma seção onde você pode inserir 
+facilmente os detalhes da viagem e do voo na página inicial seria um exemplo de boa usabilidade.
+
+Equitable
+
+Se um produto é equitativo, significa que o design é útil para pessoas com diversas habilidades e origens. 
+Em outras palavras, o design do produto atende às necessidades de um público diversificado e garante que uma 
+experiência de alta qualidade seja entregue a todos os usuários, independentemente de origem, gênero, raça 
+ou habilidade. Equidade significa fornecer às pessoas as ferramentas de que precisam para atingir seus 
+objetivos e apoiar a melhoria da qualidade de vida. A equidade vai além do conceito de igualdade, onde 
+todos recebem recursos iguais, porque as pessoas geralmente precisam de ferramentas e suporte diferentes 
+com base em suas necessidades. É especialmente importante ter isso em mente para aqueles em grupos comumente 
+desprivilegiados. Ao avaliar a equidade do UX de um produto, você pode fazer perguntas como: As necessidades 
+de um grupo diversificado de usuários são consideradas? O design do produto atende às necessidades de grupos 
+tradicionalmente sub-representados e excluídos? Essas perguntas podem ajudá-lo a determinar se o design 
+oferece uma experiência igualitária. Imagine que você está avaliando o quão equitativo é um aplicativo de 
+mensagens sociais. Você pode considerar o design mais igualitário se a lista de emojis do teclado incluir 
+diferentes tons de pele e opções de avatar neutras em termos de gênero.
+
+Enjoyable
+
+Se um produto é agradável, significa que o design encanta o usuário. O design reflete o que o usuário pode 
+estar pensando ou sentindo e cria uma conexão positiva com ele. O design de um produto não precisa ser 
+agradável para que funcione corretamente. Porém, um design agradável contribui para um produto já funcional 
+e pode melhorar os sentimentos do usuário sobre a experiência. Ao avaliar o quão agradável é o UX de um 
+produto, você pode fazer perguntas como: Existem aspectos do design que consideram os sentimentos do usuário? 
+O design inspira prazer no usuário? O design mantém o usuário envolvido durante toda a experiência? Essas 
+perguntas podem ajudá-lo a determinar se o design oferece uma experiência agradável. Imagine que você está 
+avaliando o quão agradável é um aplicativo de streaming de vídeo. Aspectos de design que podem aumentar o 
+quanto você gosta do produto incluem recomendações personalizadas com base em hábitos de exibição anteriores 
+ou a capacidade de personalizar a aparência de sua conta.
+
+Useful
+
+Se um produto é útil, significa que resolve os problemas do usuário. Em outras palavras, o design resolve 
+intencionalmente um problema do usuário que o designer identificou. É importante observar que, embora 
+semelhantes, úteis e usáveis possuem significados diferentes. Um produto que é útil nem sempre é utilizável. 
+O mesmo vale para o oposto. A distinção entre os dois é que a usabilidade se refere ao produto funcionando 
+bem e sendo fácil de usar, enquanto a utilidade se refere diretamente à capacidade de resolver os problemas 
+do usuário. Ao avaliar a utilidade do UX de um produto, você pode fazer perguntas como: O design agrega 
+valor à experiência do usuário? O design resolve um problema para o usuário? O design ajuda o usuário a 
+atingir um objetivo específico? Essas perguntas podem ajudá-lo a determinar se o design oferece uma 
+experiência útil. Imagine que você está avaliando a utilidade de um aplicativo bancário. Os usuários 
+geralmente baixam esses aplicativos porque precisam de um lugar para administrar seu dinheiro. Pensando 
+nisso, os aspectos do app que podem ser considerados úteis são recursos que podem ser usados para transferir 
+dinheiro entre contas e pagar contas.
+
+
+https://design.google/library/good-design/
