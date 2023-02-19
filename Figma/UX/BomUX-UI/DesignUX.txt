@@ -1,0 +1,29 @@
+Pesquisa do usuário: a pesquisa do usuário é sobre entender as pessoas que usam seu produto. Por meio da 
+pesquisa, você aprenderá sobre os antecedentes, dados demográficos, motivações, pontos problemáticos, emoções 
+e objetivos dos usuários. Seus métodos de pesquisa podem incluir pesquisas, observações e entrevistas. 
+
+Arquitetura da informação: A arquitetura da informação, ou IA para abreviar, envolve decidir como seu produto 
+é organizado e estruturado. Pense em IA como um esqueleto que descreve como os usuários interagem com seu 
+produto. Tudo no seu produto deve ser organizado de forma que faça sentido para o usuário e atenda às suas 
+expectativas.
+
+Wireframing: Um wireframe é um esboço ou esboço básico de um produto ou tela, como um aplicativo ou site. 
+Como o nome sugere, os wireframes parecem ter sido criados com fios. Eles são principalmente linhas e formas, c
+om algum texto. Os wireframes podem ser desenhados à mão ou criados digitalmente usando software. 
+O wireframing ajuda você a dar vida às suas ideias de design, para que outras pessoas em sua equipe possam 
+fornecer informações e comentários.
+
+Prototipagem: Um protótipo é um modelo inicial de um produto que demonstra sua funcionalidade. Os protótipos 
+podem estar em formatos físicos ou digitais e podem variar em complexidade. Às vezes, um protótipo é feito 
+para demonstrar um recurso específico de um produto, como a transição entre as telas ou a aparência física 
+do produto. Você fará vários protótipos para qualquer produto durante o processo de design.
+
+Design visual: o design visual se concentra na aparência do produto ou da tecnologia. Como designer de UX, 
+você precisa entender os fundamentos do design visual para comunicar a conexão entre a funcionalidade de um 
+produto e sua aparência para os usuários. Você aprenderá alguns dos princípios mais importantes do design 
+visual ao longo deste programa de certificação.
+
+Comunicação eficaz: a comunicação eficaz como designer de UX significa conectar-se com seus colegas por meio 
+de e-mails, reuniões, apresentações e software de design. O design UX é um campo muito colaborativo, 
+portanto, é importante poder se comunicar digitalmente e cara a cara com os colegas de equipe. Você precisa 
+ser um bom ouvinte, ser receptivo ao feedback e compartilhar suas ideias de maneira clara.
