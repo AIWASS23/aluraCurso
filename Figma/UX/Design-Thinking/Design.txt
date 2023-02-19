@@ -1,0 +1,94 @@
+Design Thinking
+
+No mundo do design de experiência do usuário, uma estrutura é uma ferramenta conceitual que fornece 
+orientação sobre as melhores práticas e processos para resolver problemas e criar soluções que resolvam os 
+problemas de usuários reais. As estruturas fornecem estrutura para o processo de design e promovem a 
+colaboração, o que pode estimular inovações. A maioria dos designers de experiência do usuário segue uma 
+estrutura ou processo específico ao abordar seu trabalho, desde a primeira ideia até o lançamento final de 
+um produto.
+
+A estrutura de Design Thinking é uma abordagem centrada no usuário para a resolução de problemas que 
+inclui atividades como pesquisa, prototipagem e testes para ajudá-lo a entender quem é o seu usuário, 
+quais são os problemas dele e o que seu design deve incluir.
+
+A estrutura de Design Thinking envolve as seguintes fases: empatia, definição, ideação, protótipo e teste.
+
+Embora possa soar como um processo linear, a estrutura de Design Thinking deve ser iterativa, o que 
+significa que você repetirá certas fases à medida que refina seus projetos. Por exemplo, dependendo do 
+feedback que você recebe durante os testes, você pode precisar realizar pesquisas adicionais, debater 
+novas ideias ou desenvolver novos protótipos.
+
+Empathize
+
+Durante a fase de empatia, seu principal objetivo é aprender mais sobre o usuário e seus problemas, 
+desejos e necessidades, e o ambiente ou contexto em que eles experimentarão seu design. A parte mais 
+importante da fase de empatia é se afastar de suas suposições e suposições e deixar que suas descobertas 
+de pesquisa informem sua tomada de decisão em fases posteriores de design. Sua pesquisa de usuários pode 
+incluir pesquisas de usuários, entrevistas e sessões de observação, e você também pode precisar realizar 
+algumas pesquisas sobre os produtos dos concorrentes para determinar como seu usuário enquadra os produtos 
+dos concorrentes como parte de sua vida diária e resolução diária de problemas.
+
+Define
+
+Na fase de definição, você analisará as descobertas de sua pesquisa a partir da fase de empatia e 
+determinará quais problemas do usuário são os mais importantes a serem resolvidos e por quê. Isso o 
+levará a um objetivo claro para o design do produto. O resultado mais importante desta fase é uma 
+declaração clara do problema, que é uma descrição da necessidade do usuário que seus projetos atenderão. 
+Você também pode desenvolver uma proposta de valor, que é um resumo de por que seu usuário usaria ou 
+deveria usar o produto ou serviço que você está projetando.
+
+Ideate
+
+Depois de pousar em um problema do usuário e estabelecer por que ele é importante para resolver, é hora da 
+fase ideal. O objetivo da ideação é criar o maior número possível de soluções de design - não se contente 
+com sua primeira solução porque a solução mais óbvia nem sempre é a certa. A ideação envolve um 
+brainstorming colaborativo com outros membros da sua equipe para gerar o maior número possível de soluções 
+para um problema. Isso pode incluir marketing, engenharia, gerenciamento de produtos ou quaisquer outras 
+partes interessadas para o produto ou serviço. Durante as sessões de brainstorming, você deve explorar 
+todas as soluções possíveis. Não se concentre em saber se algo é uma ideia “boa” ou “ruim”, apenas colete 
+o máximo de ideias que puder. O importante aqui é manter esse processo livre de julgamento. Após o 
+brainstorming, você analisará suas possíveis soluções e começará a fazer escolhas sobre quais são as 
+melhores opções a serem buscadas como protótipos. Você pode retornar à pesquisa de usuário ou competitiva 
+para ajudá-lo a restringir suas ideias, e também pode criar fluxos de usuários para ilustrar como o 
+usuário interagirá com sua solução.
+
+Prototype and Test
+
+Depois de ter uma ideia de como resolver o problema, você está pronto para entrar na fase de protótipo, 
+onde seu objetivo é produzir um modelo inicial de um produto que demonstre sua funcionalidade e possa ser 
+usado para testes. A fase de teste é fundamental para desenvolver a solução certa para resolver o problema 
+do seu usuário, e uma abordagem organizada para o teste pode ajudá-lo a criar experiências excepcionais do 
+usuário. A prototipagem e o teste estão interconectados, o que significa que você testará seus projetos em 
+cada estágio do desenvolvimento do protótipo, em vez de esperar para testar até que o protótipo em 
+funcionamento esteja concluído. Se o design estiver muito polido na primeira vez que você o apresentar aos 
+usuários, talvez você não obtenha tanto feedback. Pense em maneiras de incluir testes durante todo o 
+processo de design, para que você esteja iterando seus projetos com base no feedback do usuário em vez de 
+outras razões. Por exemplo, você pode testar os conceitos por trás do seu design apresentando aos usuários 
+um esboço simples, wireframe ou um mapa do site. Levando o que você aprendeu, você pode iterar esse design 
+para um design mais detalhado em papel (conhecido como protótipo de baixa fidelidade) e realizar outra 
+rodada de testes do usuário. Em algum momento, você iterará o design novamente em um modelo interativo 
+funcional usando um programa de software (também conhecido como protótipo de alta fidelidade) e testará 
+isso também. Você também pode considerar testar mais de um protótipo ao mesmo tempo para obter feedback 
+sobre várias soluções, ou testar o mesmo protótipo em várias plataformas, como um laptop, tablet e 
+smartphone. O objetivo de testar protótipos é continuar a refinar o protótipo à medida que você obtém 
+informações sobre se o design do seu produto ou serviço é fácil de usar e resolve o problema do usuário. 
+Em algum momento, você finalizará um protótipo e, em seguida, o fornecerá aos desenvolvedores, que então 
+transformarão seu design em um produto.
+
+Principais conclusões
+
+A estrutura de Design Thinking é apenas um tipo de estrutura que os designers de experiência do usuário 
+usam para organizar sua abordagem de projetos, muitas vezes com base no produto que estão projetando e na 
+organização para a qual estão trabalhando. Não importa quais estruturas você use em sua carreira, 
+todas elas têm alguns princípios fundamentais em comum:
+
+- Concentre-se no usuário.
+- Crie soluções que resolvam os problemas do usuário.
+- Colabore com colegas de equipe em todos os departamentos.
+- Valide seus projetos.
+- Itera conforme necessário para projetar a experiência certa do usuário.
+
+https://www.youtube.com/watch?v=6lmvCqvmjfE
+https://www.youtube.com/watch?v=Tvu34s8iMZw
+https://xd.adobe.com/ideas/guides/ux-design-process-steps/
+https://www.interaction-design.org/literature/topics/design-thinking
