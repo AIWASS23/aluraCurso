@@ -1,0 +1,101 @@
+Brainstorming
+
+A primeira fase do ciclo de vida do desenvolvimento do produto é a fase de brainstorming, quando a equipe 
+começa a pensar em uma ideia para um produto. Sua equipe pode já conhecer o problema do usuário que você 
+deseja resolver ao iniciar o ciclo de vida de desenvolvimento do produto. Caso contrário, criar uma lista de 
+problemas do usuário é um ótimo ponto de partida. É importante prestar atenção à diversidade de sua equipe 
+nesta fase. As equipes que têm diversidade significativa em identificadores como raça, gênero, habilidades, 
+estrutura familiar, idade e etnia geralmente são mais eficazes no brainstorming porque reúnem muitas 
+experiências vividas diferentes. Considere este exemplo: se você estiver criando um novo aplicativo para 
+ajudar pais e responsáveis que trabalham, sua equipe pode iniciar o estágio de brainstorming listando 
+problemas comuns enfrentados por pais e responsáveis que trabalham, como falta de creches confiáveis, 
+problemas de transporte ou problemas de gerenciamento horários. Sua equipe pode analisar o feedback do 
+usuário sobre outros produtos semelhantes ou os resultados de pesquisas com usuários para ajudar a orientar 
+suas ideias. Depois de fazer um brainstorming de vários problemas do usuário, sua equipe escolhe um e começa 
+a apresentar ideias para soluções para esse problema. A fase de brainstorm também é um momento ideal para 
+verificar os concorrentes do seu produto e identificar se já existem produtos similares disponíveis no 
+mercado. Você quer que seu produto preencha uma lacuna no mercado ou resolva um problema melhor do que os 
+produtos existentes. Concluir a pesquisa sobre seus concorrentes e seus usuários ajuda a determinar quais 
+problemas precisam ser resolvidos pelo design do produto. Mais uma coisa a ter em mente: um designer de UX 
+em uma grande empresa pode não estar muito envolvido no estágio de brainstorm. Mas um designer de UX em uma 
+startup ou pequena empresa pode ter um grande papel a desempenhar!
+
+Define
+
+A segunda etapa do ciclo de vida de desenvolvimento do produto reúne designers de UX, pesquisadores de UX, 
+gerentes de programa e líderes de produtos para definir o produto. O objetivo é descobrir as especificações 
+do produto respondendo a perguntas como: Para quem é o produto? O que o produto fará? E quais recursos 
+precisam ser incluídos para que o produto seja bem-sucedido? Durante o estágio de definição, sua equipe 
+restringe o foco de sua ideia. Um produto não pode resolver todos os problemas do usuário. Continuando com o 
+exemplo de um aplicativo para ajudar pais e responsáveis que trabalham, sua ideia deve se concentrar em 
+ajudar os pais e responsáveis a encontrar creches confiáveis ou gerenciar seus horários, não ambos. Nesse 
+estágio, um designer de UX pode ajudar a equipe a definir o foco da ideia, mas provavelmente será um líder 
+de produto quem definirá o escopo do projeto. A pesquisa que você concluiu no estágio de brainstorm é útil 
+agora. Usando o que aprendeu, você identificará os problemas de seus usuários em potencial. Sua equipe não 
+pode presumir que sabe quais problemas os usuários estão enfrentando sem perguntar diretamente aos usuários.
+
+Design
+
+A terceira fase do ciclo de vida do desenvolvimento do produto é o design. É quando você, como designer de UX, 
+realmente começa a brilhar! Nesta fase, os designers de UX desenvolvem as ideias para o produto. Geralmente, 
+os designers de UX começam desenhando wireframes, que são esboços ou esboços do produto, e depois passam para 
+a criação de protótipos, que são os primeiros modelos de um produto que transmitem sua funcionalidade. Os 
+escritores de UX também estão envolvidos no estágio de design e podem fazer coisas como escrever rótulos de 
+botões ou outras cópias nos wireframes e protótipos do produto. Neste ponto do ciclo de vida, os designers de 
+UX certificam-se de incluir todas as especificações do produto que foram descritas no estágio de definição. 
+Você também pode verificar se cada parte do design se encaixa de maneira intuitiva. Por exemplo, os designers 
+de UX podem verificar se as telas de um aplicativo fluem de maneira que faça sentido para o usuário. Ou que 
+cada interação, como tocar em um botão, tem uma ação correlata, como um item sendo adicionado a um carrinho. 
+Por outro lado, com um produto físico, os designers de UX podem verificar se uma peça de um objeto físico 
+corresponde à peça de conexão. Por fim, os designers de UX também garantem que cada tarefa que um usuário 
+precisa concluir seja clara e fácil de entender, como navegar da página inicial para a página de confirmação 
+de checkout em um aplicativo.
+
+Test
+
+Em seguida, seus designs passam para o estágio de teste. Os designers de UX trabalham com engenheiros para 
+desenvolver protótipos funcionais que correspondam aos designs originais, incluindo detalhes e recursos que 
+se encaixem na marca da empresa, como opções de fonte e cor. Isso também significa escrever o código e 
+finalizar a estrutura geral do produto. Ou, se você quiser testar seus designs antes, outra opção é testar 
+um protótipo funcional do produto, usando uma ferramenta de design como Figma ou Adobe XD. Nesta fase, os 
+designs passam por pelo menos três fases de testes: testes internos dentro da sua empresa, revisões com 
+stakeholders e testes externos com potenciais usuários. Uma parte interessada é uma pessoa com quem você 
+precisa trabalhar para concluir o projeto ou qualquer pessoa que tenha algum interesse no projeto, dentro 
+ou fora da empresa. A execução desses testes normalmente é responsabilidade do pesquisador de UX da sua 
+equipe, se você tiver um:
+Primeiro: A equipe testa o produto internamente para procurar falhas técnicas e 
+problemas de usabilidade. Isso geralmente é chamado de teste alfa.
+
+Segundo: O produto passa por um teste com stakeholders para garantir que o produto esteja alinhado com a 
+visão da empresa, atenda às diretrizes legais de acessibilidade e siga as regulamentações governamentais de 
+privacidade, por exemplo.
+
+Terceiro: Há um teste externo com usuários em potencial. Este é o momento de descobrir se o produto oferece 
+uma boa experiência ao usuário, o que significa que é utilizável, equitativo, agradável e útil. Isso 
+geralmente é chamado de teste beta.
+
+Coletar e implementar feedback nesta fase é absolutamente crítico. Se os usuários ficam frustrados ou 
+confusos com seu produto, os designers de UX fazem ajustes ou até mesmo criam novas versões do design. 
+Em seguida, os designs são testados novamente, até que haja pouco ou nenhum atrito entre o produto e o 
+usuário. É importante ressaltar que o ciclo de vida do desenvolvimento do produto não é um processo 
+totalmente linear. Sua equipe pode alternar entre projetar e testar algumas vezes antes de você estar pronto 
+para lançar o produto!
+
+Launch
+
+Finalmente, você chegou à quinta e última etapa do ciclo de desenvolvimento do produto: a fase de lançamento, 
+quando o produto é lançado no mundo! Isso pode envolver a listagem de um aplicativo na Google Play Store ou 
+na App Store da Apple, a ativação de um site ou a colocação de um produto físico nas prateleiras das lojas. A 
+fase de lançamento é um momento para celebrar o seu trabalho e começar a promover o produto. Os profissionais 
+de marketing de sua equipe podem postar sobre o novo produto nas mídias sociais ou publicar um comunicado à 
+imprensa. A equipe de suporte ao cliente pode se preparar para ajudar novos usuários a aprender como o 
+produto funciona. Os gerentes de programa também se reúnem com a equipe multifuncional para refletir sobre 
+todo o ciclo de vida do desenvolvimento do produto e fazer perguntas como: O que funcionou e o que poderia 
+ser melhorado? Os objetivos foram alcançados? Os prazos foram cumpridos? Reservar um tempo para essa 
+reflexão é super importante, pois pode ajudar a melhorar o processo daqui para frente. Para um produto 
+físico, o estágio de lançamento pode ser o fim do ciclo de vida de desenvolvimento do produto. Mas para um 
+produto digital, como um aplicativo ou site, lançar o produto para um público mais amplo oferece outra 
+oportunidade de melhorar a experiência do usuário. Novos usuários podem encontrar problemas com a 
+funcionalidade ou recursos do produto para melhorar que ninguém notou antes. Portanto, após o estágio de 
+lançamento, as equipes geralmente retornam aos estágios de design e teste para começar a trabalhar na 
+próxima versão de um produto digital.
