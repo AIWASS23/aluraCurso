@@ -1,0 +1,149 @@
+Compreender seus usuários é uma das partes mais essenciais do design UX. Problemas podem surgir quando os 
+designers fazem suposições sobre seus usuários e suas necessidades. Então, como você evita fazer essas 
+suposições? Fazendo pesquisas! Nesta leitura, você explorará alguns métodos de pesquisa comuns usados por 
+designers de UX.
+
+Tipos de pesquisa
+
+Existem duas maneiras de categorizar a pesquisa: quem conduz a pesquisa e o tipo de dados coletados. A 
+primeira forma de categorizar a pesquisa é baseada em quem a conduz: pesquisa primária e pesquisa secundária.
+
+A pesquisa primária é a pesquisa que você mesmo conduz. Informações de interações diretas com usuários, como 
+entrevistas, pesquisas ou estudos de usabilidade, são consideradas pesquisas primárias.
+
+A pesquisa secundária é a pesquisa que usa informações que outra pessoa reuniu. Por exemplo, usar 
+informações de fontes como livros, artigos ou periódicos é considerado pesquisa secundária.
+
+A segunda forma de categorizar a pesquisa é baseada no tipo de dados coletados: qualitativos ou quantitativos.
+
+A pesquisa qualitativa é coletada principalmente por meio de observações e conversas. A pesquisa qualitativa 
+é baseada na compreensão das necessidades dos usuários e visa responder a perguntas como “por que” ou “como 
+isso aconteceu?”
+
+A pesquisa quantitativa se concentra nos dados que podem ser coletados por contagem ou medição. A pesquisa 
+quantitativa é baseada em dados numéricos que geralmente são coletados de pesquisas em larga escala. Esse 
+tipo de pesquisa visa responder a perguntas como “quantos?” e quanto?" Todos esses quatro tipos de pesquisa 
+podem se misturar. A pesquisa primária e secundária pode ser qualitativa e quantitativa. Por exemplo, uma 
+entrevista é uma pesquisa qualitativa. Uma entrevista conduzida por você é uma pesquisa primária. Se você 
+revisar um artigo sobre uma entrevista conduzida por outra pessoa, é uma pesquisa secundária. É importante 
+ser capaz de identificar a diferença entre esses tipos de pesquisa porque os dados coletados formam a base 
+de suas decisões de design.
+
+Primary Research Methods
+
+Agora que você entende os diferentes tipos de pesquisa, vamos revisar alguns métodos comuns de pesquisa 
+primária para coletar informações.
+
+* Interviews
+
+As entrevistas são um método de pesquisa usado para coletar informações detalhadas sobre as opiniões, 
+pensamentos, experiências e sentimentos das pessoas. As entrevistas podem ser realizadas individualmente ou 
+em grupo, como um grupo focal. As entrevistas podem assumir a forma de pesquisa qualitativa e quantitativa. 
+Um método de pesquisa qualitativa inclui perguntas abertas que exigem que os participantes expliquem suas 
+respostas fornecendo mais detalhes. Um método de pesquisa quantitativo inclui apenas perguntas fechadas, 
+como perguntas que exigem apenas respostas “sim” ou “não” ou definem perguntas de múltipla escolha. A melhor 
+prática é realizar pelo menos cinco entrevistas com usuários durante sua pesquisa. Ao conduzir suas 
+entrevistas, você começará a encontrar semelhanças no feedback que os usuários fornecem sobre o que funciona 
+e o que não funciona em seu produto. Este é exatamente o tipo de feedback que você deseja!
+
+Vantagens
+
+- Você é mais capaz de entender o que um usuário pensa e por quê.
+- Você pode ajustar suas perguntas ou reorientar a discussão com base nas respostas do usuário.
+- Você tem a capacidade de fazer perguntas de acompanhamento em tempo real.
+- Você tem a capacidade de fazer perguntas específicas para as necessidades de um usuário.
+- Você receberá sugestões diretas do usuário.
+
+Desvantagens
+
+- É demorado entrevistar cada usuário.
+- É caro pagar aos participantes e alugar espaço para as entrevistas.
+- Os tamanhos das amostras são menores, devido a restrições de tempo e dinheiro.
+- As entrevistas em grupo podem ser afetadas pelo efeito bandwagon ou seguir a opinião do grupo em vez de 
+pensar criativamente, o que pode desencorajar a discussão aberta por pessoas que têm uma opinião que não se 
+alinha com a maioria do grupo.
+
+https://www.nngroup.com/articles/user-interviews/#:~:text=Topics%3A,of%20learning%20about%20that%20topic.
+
+* Survey
+
+Uma pesquisa é uma atividade em que muitas pessoas respondem às mesmas perguntas para entender o que a 
+maioria das pessoas pensa sobre um produto. As pesquisas são uma ótima maneira de medir o sucesso do seu 
+produto, durante o desenvolvimento e após o lançamento. Por exemplo, enviar pesquisas após o lançamento de 
+um produto pode ajudá-lo a medir a eficácia de seu produto e fornecer uma base para melhorias futuras. Você 
+pode criar pesquisas para incluir perguntas abertas para pesquisas qualitativas, que permitem que os 
+participantes da pesquisa esclareçam suas respostas, bem como perguntas fechadas para pesquisas 
+quantitativas, que geram dados numéricos.
+
+Vantagens
+
+- Você pode aprender mais com um tamanho de amostra maior.
+- Você é capaz de reunir resultados e insights rapidamente.
+- As pesquisas geralmente são baratas porque não levam muito tempo para os participantes concluírem e podem 
+ser feitas remotamente.
+
+Desvantagens
+
+- Muitas vezes, as pesquisas não permitem um feedback aprofundado; a maioria das perguntas terá respostas 
+extraídas de um conjunto de respostas de múltipla escolha.
+- Existem alguns tipos de perguntas de pesquisa que não funcionam em um formato de pesquisa.
+- As pesquisas geralmente não permitem personalização.
+
+https://www.usability.gov/how-to-and-tools/methods/online-surveys.html
+
+* Usability Study
+
+Um estudo de usabilidade é uma técnica usada para avaliar um produto testando-o em usuários. Os estudos de 
+usabilidade ajudam a demonstrar se um produto está no caminho certo ou se o design precisa ser ajustado. 
+Existem muitas maneiras de testar a usabilidade, tanto pessoalmente quanto online. É uma boa ideia gravar 
+suas sessões de usabilidade, seja em áudio ou vídeo, para que você possa fazer referência aos dados do 
+usuário ao tomar decisões de design posteriormente no processo. A pesquisa qualitativa é baseada em 
+observações, e uma parte crítica da condução de estudos de usabilidade é observar como os participantes 
+interagem com o produto que você projetou. O foco na pesquisa qualitativa durante os estudos de usabilidade 
+pode gerar percepções mais pessoais ao avaliar o comportamento dos usuários à medida que eles experimentam o 
+produto. A pesquisa quantitativa também pode ser usada ao conduzir estudos de usabilidade para entender as 
+impressões dos participantes sobre o produto.
+
+Vantagens
+
+- Você pode aprender com a interação e observação em primeira mão do usuário.
+- Os estudos de usabilidade podem desafiar suas suposições sobre seu produto, demonstrando um resultado 
+completamente diferente do que você esperava.
+- Os usuários podem fornecer feedback detalhado.
+
+Desvantagens
+
+- Os estudos de usabilidade medem apenas o quão fácil é usar um produto.
+- Esse tipo de pesquisa pode ser caro, especialmente se for conduzido pessoalmente.
+- Pode haver diferenças entre um estudo de usabilidade “controlado” em um laboratório versus como um usuário 
+experimenta o produto em sua vida real.
+
+https://www.nngroup.com/articles/usability-testing-101/
+
+Secondary Research Methods
+
+A pesquisa secundária pode ser concluída em qualquer fase do projeto, desde que você esteja usando 
+informações de fontes externas. Em outras palavras, a pesquisa secundária não é um resultado direto do seu 
+produto ou do usuário para o qual você está projetando. As informações que você descobre durante a pesquisa 
+secundária podem estabelecer uma base para sua pesquisa principal, para que você tenha uma ideia melhor de 
+onde concentrar seus esforços. Ou, a pesquisa secundária pode complementar as descobertas de sua pesquisa 
+principal para um projeto, para reiterar ou fortalecer suas conclusões.
+
+Vantagens
+
+- A pesquisa secundária é geralmente mais barata e mais rápida do que a pesquisa primária. Isso significa 
+que você economizará tempo e dinheiro.
+- Muitas vezes, você pode encontrar pesquisas secundárias por meio de pesquisas on-line e publicações de 
+pesquisa por assinatura.
+- A pesquisa secundária pode ser um bom complemento para as descobertas de sua pesquisa primária.
+
+Desvantagens
+
+- Você não aprenderá com nenhuma interação do usuário em primeira mão.
+- Você não receberá feedback do usuário específico para o seu produto.
+- A pesquisa secundária pode ser enganosa e generalizante se não for feita adequadamente.
+
+https://www.formpl.us/blog/secondary-research
+https://www.nngroup.com/articles/which-ux-research-methods/
+
+

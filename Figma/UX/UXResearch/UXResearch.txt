@@ -1,0 +1,106 @@
+Há duas partes principais em todo projeto de design de UX: realizar pesquisas para aprender sobre os usuários
+para os quais você está projetando e coletar feedback sobre suas perspectivas. O design UX tem tudo a ver com
+colocar o usuário em primeiro lugar, e a pesquisa ajuda os designers a entender esses usuários.
+
+A pesquisa de UX se concentra na compreensão dos comportamentos, necessidades e motivações do usuário por 
+meio de observação e feedback. O design do seu produto deve ser construído com base em pesquisas e fatos, 
+não em suposições. A pesquisa UX alinha o que você, como designer, acha que o usuário precisa com o que o 
+usuário realmente precisa.
+
+Lembra-se do ciclo de vida de desenvolvimento de produto de um curso anterior do programa? O ciclo de vida 
+do desenvolvimento do produto tem cinco estágios – brainstorm, definição, design, teste e lançamento – que 
+levam uma ideia para um aplicativo, site ou produto ao seu lançamento.
+
+Foundational research
+
+A pesquisa fundamental é sempre feita antes de você começar a projetar. Dentro do ciclo de vida de 
+desenvolvimento do produto, a pesquisa fundamental acontece durante o estágio de brainstorm (estágio um) 
+para ajudá-lo a ter empatia com os usuários, entender suas necessidades e inspirar novas direções de design. 
+Durante esta etapa, você também criará personas e histórias de usuários. Na pesquisa fundamental, seu 
+objetivo é descobrir o que o usuário precisa e como atender a essas necessidades com seu produto. Uma forte 
+pesquisa fundamental pode contradizer sua perspectiva pessoal sobre o que pode ser uma boa solução.
+
+As perguntas que você pode considerar durante a pesquisa fundamental incluem:
+
+- O que devemos construir?
+- Quais são os problemas do usuário?
+- Como podemos resolver esses problemas?
+- Estou ciente de meus próprios preconceitos e sou capaz de filtrá-los enquanto pesquiso?
+
+Existem muitos métodos de pesquisa para conduzir pesquisas fundamentais, mas muitos deles são baseados em 
+observações. Métodos comuns de pesquisa fundamental incluem:
+
+* Entrevistas: Um método de pesquisa usado para coletar informações detalhadas sobre as opiniões, 
+pensamentos, experiências e sentimentos das pessoas. Muitas vezes, você conduzirá entrevistas com seus 
+próprios usuários-alvo.
+
+* Pesquisas: uma atividade em que muitas pessoas respondem às mesmas perguntas para entender o que a maioria 
+das pessoas pensa sobre um produto.
+
+* Grupos focais: Um pequeno grupo de pessoas cujas reações são estudadas. Por exemplo, seu grupo de foco pode 
+reunir oito usuários para discutir suas perspectivas sobre novos recursos em seu design. Um grupo de foco 
+geralmente é dirigido por um moderador que orienta o grupo sobre um determinado tópico de conversa.
+
+* Auditoria competitiva: uma visão geral dos pontos fortes e fracos de seus concorrentes. Você conduzirá sua 
+própria auditoria competitiva.
+
+* Estudos de campo: Atividades de pesquisa que ocorrem no contexto do usuário ou ambiente pessoal, em vez de 
+em um escritório ou laboratório.
+
+* Estudos diários: Um método de pesquisa usado para coletar dados qualitativos sobre comportamentos, 
+atividades e experiências do usuário ao longo do tempo. Freqüentemente, um usuário registrará ou registrará 
+suas atividades diárias e fornecerá informações sobre seus comportamentos e necessidades, o que pode ajudar 
+a informar seus designs.
+
+Design Research
+
+A pesquisa de design é feita enquanto você projeta. Dentro do ciclo de vida de desenvolvimento do produto, a 
+pesquisa de design ocorre durante o estágio de design (estágio três) para ajudar a informar seus designs, 
+atender às necessidades dos usuários e reduzir riscos. Cada vez que você cria uma nova versão do seu design, 
+novas pesquisas devem ser feitas para avaliar o que funciona bem e o que precisa ser alterado. Na pesquisa 
+de design, seu objetivo é responder à pergunta: como devemos construí-lo?
+
+A quantidade de pesquisa de design que você realiza varia dependendo de onde você trabalha e do que está 
+construindo. O método mais comum usado para conduzir pesquisas de design é um estudo de usabilidade, que é 
+uma técnica para avaliar um produto testando-o em usuários. O objetivo dos estudos de usabilidade é 
+identificar os pontos problemáticos que o usuário experimenta com seus protótipos, para que os problemas 
+possam ser corrigidos antes do lançamento do produto.
+
+Métodos de pesquisa adicionais que podem ser usados para conduzir a pesquisa de design incluem:
+
+- Teste A/B: Um método de pesquisa que avalia e compara dois aspectos diferentes de um produto para 
+descobrir qual deles é mais eficaz. Por exemplo, você pode fazer com que os usuários avaliem dois layouts 
+para a página inicial do seu aplicativo para descobrir qual layout é mais eficaz.
+
+- Café ou estudos de guerrilha: um método de pesquisa em que o feedback do usuário é obtido ao levar um 
+design ou protótipo ao domínio público e pedir aos transeuntes o que pensam. Por exemplo, você pode sentar 
+em uma cafeteria local e perguntar aos clientes se eles gostariam de testar o design do seu aplicativo por 
+alguns minutos e fornecer feedback.
+
+- Classificação de cartões: Um método de pesquisa que instrui os participantes do estudo a classificar 
+rótulos individuais escritos em cartões de notas em categorias que façam sentido para eles. Esse tipo de 
+pesquisa é muito utilizado para descobrir a arquitetura da informação do seu projeto.
+
+- Intercepções: Um método de pesquisa que reúne feedback no local dos usuários conforme eles se envolvem nas 
+atividades que estão sendo pesquisadas. As interceptações geralmente são realizadas em campo, portanto, 
+esse tipo de pesquisa costuma ser considerado um subconjunto da pesquisa de campo. Um estudo de 
+interceptação pode fornecer feedback rápido e de alto nível.
+
+Post-launch research
+
+A pesquisa pós-lançamento é feita após a conclusão do design e o lançamento do produto. Dentro do ciclo de 
+vida de desenvolvimento do produto, a pesquisa pós-lançamento ocorre após o estágio de lançamento 
+(estágio cinco) para ajudar a validar se o produto está atendendo às necessidades do usuário por meio de 
+métricas estabelecidas. Na pesquisa pós-lançamento, seu objetivo é responder à pergunta: tivemos sucesso? 
+Essa pesquisa informará o desempenho do seu produto final com base em métricas estabelecidas, como adoção, 
+uso, satisfação do usuário e muito mais.
+
+Você deve usar métodos de pesquisa que forneçam informações sobre o que o usuário pensa do seu produto e 
+se a experiência dele com o produto está alinhada com a forma como você pretendia que ele funcionasse. 
+Os métodos de pesquisa que você pode usar para conduzir pesquisas pós-lançamento incluem:
+
+- teste A/B
+- estudos de usabilidade
+- pesquisas
+- Análise de logs: Um método de pesquisa usado para avaliar gravações de usuários enquanto eles interagem com 
+seu design, ferramentas, etc.

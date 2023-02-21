@@ -1,0 +1,131 @@
+O cérebro humano é uma máquina de processamento incrível e pode armazenar uma quantidade incrível de 
+informações. Uma maneira de o cérebro armazenar tanta informação é criando atalhos mentais com base em 
+padrões repetidos. Esses atalhos permitem que os humanos relacionem e agrupem informações para um 
+processamento mais rápido. Mas esses padrões repetidos de pensamento podem levar a conclusões imprecisas ou 
+irracionais que são tendenciosas - favorecer ou ter preconceito contra alguém ou alguma coisa. Os vieses 
+podem afetar seriamente a pesquisa do usuário e influenciar negativamente o design do produto final. Então, 
+vamos explorar como o viés pode afetar seu trabalho como designer de UX e como combatê-lo durante sua 
+pesquisa.
+
+Evitando o viés na coleta de dados
+
+É importante observar que todos têm preconceitos. É apenas uma parte natural de ser humano. Ser capaz de 
+reconhecer seus próprios preconceitos e evitar que eles afetem seu trabalho é o que realmente importa. Como 
+designer de UX, você precisará saber como antecipar, identificar e superar vieses em sua pesquisa, em 
+particular.
+
+* Escolha suas palavras com cuidado
+
+Escolha suas palavras com cuidado. Ao conduzir a pesquisa, é importante usar palavras que não levem o 
+usuário em uma direção ou outra. É claro que, como designer, você será parcial com os designs que criou e 
+provavelmente presumirá que os usuários também os apreciarão. É por isso que você os projetou! Mas, ao fazer 
+perguntas aos usuários sobre a experiência deles ao usar seu produto, você não quer que eles respondam de 
+uma maneira específica apenas para agradá-lo. A escolha de palavras principais pode causar o efeito de 
+enquadramento, em que os usuários tomam uma decisão ou escolha com base na forma como as informações foram 
+apresentadas a eles. Isso é especialmente crítico em estudos de usabilidade. Por exemplo, imagine que um 
+participante esteja testando seus projetos. Você pergunta ao participante: “Você gosta ou não gosta do 
+layout aprimorado desses botões?” Como você usou a palavra “melhorou”, o usuário provavelmente responderá 
+positivamente. Mas, este não é um feedback muito útil porque você formulou a pergunta de uma forma que levou 
+o participante a responder de acordo. Para melhorar seu produto, você precisa de um feedback honesto. Em vez 
+disso, uma maneira melhor de enquadrar a mesma pergunta é: “Explique como você se sente sobre o layout dos 
+botões”. Essa frase permite que o usuário tire suas próprias conclusões sem qualquer influência externa, o 
+que lhe dará melhores dados sobre seu processo de pensamento e experiência.
+
+* Promova o pensamento independente
+
+As entrevistas em grupo podem ser afetadas pelo efeito bandwagon ou seguir a opinião do grupo em vez de 
+pensar criativamente, o que pode desencorajar a discussão aberta por pessoas que têm uma opinião que não se 
+alinha com a maioria do grupo. Por exemplo, imagine que você está conduzindo uma pesquisa com um grupo de 
+cinco participantes. Você pede a cada pessoa do grupo que compartilhe seus pensamentos, uma de cada vez, 
+sobre uma escolha específica de design de produto, como a colocação de um botão na página inicial. No 
+momento em que a última pessoa compartilhar seus pensamentos, seu feedback será afetado por todas as 
+respostas que foram compartilhadas antes dela. Para combater o efeito bandwagon, peça aos participantes que 
+escrevam ou registrem seus pensamentos antes de discutir em grupo.
+
+* Evite linguagem específica
+
+É importante estar atento aos tipos de perguntas que você faz aos usuários e como essas perguntas são 
+estruturadas. Você precisará ter cuidado para evitar o viés de confirmação, que está tentando encontrar 
+evidências para provar uma hipótese que você já possui. O viés de confirmação é particularmente prevalente 
+em pesquisas online. Por exemplo, imagine que você está conduzindo uma pesquisa online com um grande grupo 
+de participantes. Uma das perguntas da pesquisa é: “Como você usa nosso produto?” Como designer, você tem 
+algumas ideias sobre como acha que as pessoas usam seu produto, então você oferece quatro opções com 
+linguagem específica que o participante deve escolher. Se nenhuma das opções que você forneceu se aplicar 
+ao usuário, ele não poderá selecionar "outro" ou pular a pergunta, então será forçado a escolher uma das 
+respostas de múltipla escolha que não corresponda à sua experiência real . Isso significa que você acabará 
+com informações falsas que distorcem seus dados de pesquisa e possivelmente fornecem evidências incorretas 
+para uma hipótese que você já tinha. Lembre-se, em uma pesquisa, você deseja resultados mensuráveis, 
+conhecidos como dados quantitativos. Você pode reformular a pergunta em sua pesquisa para pedir aos 
+participantes que avaliem suas experiências usando o produto, o que será uma maneira mais precisa de avaliar 
+como eles se sentiram ao usá-lo.
+
+* Limite a orientação que você dá aos usuários
+
+Todo mundo aprende e pensa de maneiras diferentes. Ao conduzir qualquer tipo de pesquisa de UX, você deve 
+ser cauteloso para evitar qualquer falso consenso, que é a suposição de que os outros pensarão da mesma 
+maneira que você. Se você estiver realizando um estudo de usabilidade, alguns dos participantes não seguirão 
+o fluxo do usuário do produto da maneira que você espera. Por exemplo, um usuário pode clicar no menu, 
+selecionar uma pasta e, em seguida, selecionar uma subpasta para concluir uma tarefa que você atribuiu a 
+ele, quando na verdade há um hiperlink simples na página inicial que poderia ter economizado tempo. Além 
+disso, alguns participantes podem usar tecnologia assistiva para navegar no produto e seguir um fluxo 
+totalmente diferente. É importante permitir que os participantes sigam seus próprios caminhos através do seu 
+produto, sem interrompê-los. Interromper um participante enquanto ele está experimentando seu produto irá 
+privá-lo de dados úteis que podem ajudá-lo a entender como melhorar seus designs. Em vez disso, peça aos 
+participantes para narrar ou detalhar a jornada do usuário com seu produto, à medida que avançam no fluxo. 
+Isso permitirá que você entenda melhor o processo de pensamento deles enquanto eles navegam pelos seus 
+designs.
+
+* Considere o tom e a linguagem corporal dos usuários
+
+Você trabalhará com muitos usuários e participantes diferentes ao longo de sua carreira de UX, e parte de 
+seu trabalho envolverá a interpretação de suas dicas não verbais, como tom de voz e linguagem corporal. Para 
+evitar vieses implícitos, baseados na coleção de atitudes e estereótipos que você associa às pessoas sem seu 
+conhecimento consciente, é importante esclarecer quando você acha que está recebendo sinais confusos de um 
+participante. Por exemplo, imagine que você está conduzindo uma entrevista individual e o participante está 
+com os braços cruzados sobre o peito. Isso pode ser interpretado como um sinal de sentimento defensivo ou 
+inseguro, o que pode contradizer o feedback positivo que eles estão compartilhando verbalmente sobre seu 
+produto. Este é um ótimo momento para fazer perguntas aos participantes, como “Alguma dessas coisas está 
+deixando você desconfortável?”, o que pode incentivá-los a explicar que está frio em seu escritório e eles 
+estão apenas tentando se aquecer. Sempre faça perguntas se não tiver certeza sobre a intenção do tom ou 
+linguagem corporal de um usuário! Para que esse processo de feedback funcione, no entanto, é importante 
+garantir que os participantes se sintam à vontade para compartilhar seus pensamentos com você. Antes de 
+iniciar a pesquisa, pergunte aos participantes sobre eles mesmos ou converse levemente. Começar com 
+perguntas mais fáceis pode ajudar a reduzir a ansiedade ou constrangimento ao longo do estudo.
+
+* Tenha cuidado com sua própria linguagem corporal e reações
+
+Você também deve estar atento ao seu próprio tom e linguagem corporal ao interagir com os participantes. O 
+viés de desejabilidade social pode acontecer quando um participante responde a uma pergunta com base no que 
+ele acha que você quer ouvir. Se você fizer uma pergunta a um participante e ele perceber que você está 
+exibindo uma pista visual ou audível que sugere sua própria opinião sobre a pergunta, ele poderá responder 
+de uma forma que ache que o agradará. Por exemplo, imagine que você está descrevendo um recurso do 
+aplicativo que você projetou que realmente o entusiasma e seu tom de voz muda. Se isso acontecer, é provável 
+que o participante não seja honesto sobre suas opiniões negativas sobre o recurso, já que você é tão 
+positivo quanto a isso. Se você deseja que os dados coletados sejam úteis, o usuário deve se sentir à 
+vontade para compartilhar seus sentimentos verdadeiros e não filtrados sobre o produto. É seu trabalho 
+guiá-los durante o processo sem influenciar acidentalmente suas respostas. Uma maneira de fazer isso é 
+assegurar aos participantes que suas respostas não vão ferir os sentimentos de ninguém e que você realmente 
+deseja ouvir suas opiniões honestas para melhorar seu trabalho.
+
+* Planeje sua pesquisa de forma eficaz
+
+Prazos apertados são inevitáveis. Mas, como designer de UX, é essencial que você tenha tempo suficiente 
+para recrutar os usuários certos para sua pesquisa. O viés de disponibilidade ocorre quando você apressa o 
+processo de recrutamento de usuários ou pula as perguntas do rastreador para atrair um grupo maior de 
+usuários, mesmo que eles não se encaixem nas qualificações ou características que você já determinou que 
+estão presentes em seu usuário ideal. A pesquisa que você coleta é vital para o processo de design do 
+produto. Portanto, entrevistar usuários que não se enquadram em suas personas não fornecerá os dados 
+necessários para melhorar seus designs. Se você está tendo problemas para recrutar os usuários certos antes 
+do prazo, ofereça um incentivo melhor para participar de seu estudo, ajuste sua estratégia de recrutamento 
+ou peça mais tempo ao seu gerente de projeto. Não pegue apenas qualquer usuário que esteja disponível.
+
+* Mantenha a mente aberta
+
+Mantenha a mente aberta. Mais uma dica: ao conduzir uma pesquisa, você deve trabalhar duro para tratar todas 
+as informações igualmente para evitar o viés de primazia, que lembra o primeiro usuário mais do que os 
+outros, e o viés de recência, que lembra mais facilmente a última coisa que você ouviu. Para ajudar a 
+combater esses vieses em sua própria pesquisa, é útil espaçar o agendamento das entrevistas, pedir a seus 
+colegas para acompanhá-lo durante as entrevistas para fornecer opiniões adicionais e fazer anotações 
+cuidadosas.
+
+https://npr.design/overcoming-cognitive-bias-in-user-research-e4082f4506a
