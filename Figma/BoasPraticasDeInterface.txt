@@ -1,0 +1,20 @@
+Boas práticas são: simplicidade, hierarquia, navegação facilitada, padrão visual e responsividade. 
+Sabendo disso, há abaixo algumas afirmações sobre esses tópicos:
+
+Simplicidade: para criar interfaces simples, o ideal é usar poucas famílias tipográficas e poucas cores;
+
+Hierarquia: usa os tamanhos dos elementos para atrair a atenção das pessoas para as áreas que são realmente 
+importantes;
+Navegação: auxilia a pessoa a se encontrar na plataforma e saber que caminhos pode seguir;
+
+Padronização: design systems são sistemas que padronizam elementos recorrentes em interfaces;
+
+Responsividade: é o elemento que busca a adequação das interfaces para diferentes dispositivos, 
+como celular, tablet e desktop.
+
+https://cursos.alura.com.br/formacao-design-system
+https://www.material.io/
+https://figma.com/community
+https://www.figma.com/community/file/913012193937300582
+https://material.io/components/snackbars
+https://caelum-online-public.s3.amazonaws.com/2521-figma/05/aula5-img2.png
