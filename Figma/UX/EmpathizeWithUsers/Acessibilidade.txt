@@ -1,0 +1,94 @@
+Considere a acessibilidade durante a pesquisa do usuário
+
+Acessibilidade é o design de produtos, dispositivos, serviços ou ambientes para pessoas com 
+deficiência. Projetar para acessibilidade é considerar as jornadas de todos os usuários, tendo em 
+mente suas deficiências permanentes, temporárias ou situacionais. Ao pesquisar como as pessoas com 
+deficiência interagem com produtos como o seu, você pode entender melhor como projetar para elas. 
+Não é possível adivinhar com precisão todas as maneiras pelas quais um usuário pode experimentar seu 
+produto, o que é uma das razões pelas quais incluir pessoas com deficiência em sua pesquisa é tão 
+importante.
+
+Aqui estão algumas considerações para você levar em conta ao realizar pesquisas durante a fase de 
+empatia do processo de design.
+
+Toque: Como você projetaria para usuários que usam um braço, de forma permanente, temporária ou 
+situacional?
+
+- Decida onde colocar botões dentro do seu design com base em vários tamanhos de mão diferentes.
+- Crie um recurso que permita toques duplos para evitar cliques acidentais em ícones.
+- Ative o recurso de teclado com uma mão e a compatibilidade geral do teclado.
+- Permita a personalização do botão para facilitar o acesso às informações que o usuário considera 
+mais importantes.
+
+Visao: Como você criaria para usuários que têm visão limitada, permanente, temporariamente ou 
+situacionalmente?
+
+- Use uma fonte maior para criar um design de fácil leitura do aplicativo.
+- Certifique-se de que o aplicativo e as imagens tenham texto alternativo que possa ser lido por um 
+leitor de tela.
+- Detecte se o usuário está operando um veículo a motor.
+- Projete o aplicativo com cores de alto contraste.
+- Não confie na cor do texto para explicar a navegação ou os próximos passos. Por exemplo, não use 
+apenas texto vermelho como um indicador de um aviso. Em vez disso, seu design deve incluir instruções 
+explícitas.
+
+Texto personalizável
+
+Existem algumas ferramentas adicionais de acessibilidade na web das quais indivíduos com dislexia ou 
+outras deficiências de processamento visual podem se beneficiar. Uma dessas maneiras é o texto 
+personalizável, um recurso que permite aos usuários alterar a forma como o texto é exibido para ler o 
+texto com mais facilidade. A personalização do texto envolve mudar tudo, desde a cor ou fonte até o 
+tamanho ou até mesmo o espaçamento do texto. Por exemplo, algumas fontes podem ser mais fáceis de ler 
+para os usuários, então personalizar fontes pode ser uma grande ajuda. Portanto, o texto 
+personalizável permite mais opções do que simplesmente ampliar o texto ou ampliar, tornando o conteúdo 
+mais adaptável, mas mantendo a funcionalidade.
+
+Ouça: Como você projetaria para usuários que têm audição limitada, permanentemente, temporariamente 
+ou situacionalmente?
+
+- Não confie apenas em sons para fornecer atualizações de aplicativos, como uma nova notificação de 
+mensagem. Em vez disso, ative as hápticas, que são vibrações que envolvem o senso de toque de um 
+usuário, e luzes de notificação.
+- Aplique legendas ocultas a todos os vídeos.
+- Forneça um sistema de mensagens de texto dentro do aplicativo para permitir que os usuários se 
+comuniquem por escrito.
+
+Fale: Como você criaria para usuários que não podem falar, de forma permanente, temporária ou 
+situacional?
+
+- Forneça introduções escritas, descrições e instruções para os usuários, além de conteúdo baseado em 
+vídeo.
+- Forneça mensagens de texto em tempo real durante chamadas telefônicas com usuários ou com suporte a 
+aplicativos.
+- Organize alternativas para sistemas automatizados que dependem do reconhecimento de fala.
+- Forneça um sistema de mensagens no aplicativo que permita o uso de emojis e uploads de imagens.
+
+Esta lista é apenas uma pequena fração das considerações que você deve levar em conta ao projetar 
+para usuários com deficiência. A melhor maneira de aprender sobre como melhorar seus projetos é 
+realizar pesquisas e obter feedback de pessoas com deficiência diretamente.
+
+Tecnologias de assistência
+
+Criar um design de produto que leve em conta todas as gamas de habilidades pode ser incrivelmente 
+difícil. Felizmente, existem serviços e aplicativos projetados para ajudar a preencher a lacuna. Por 
+exemplo, um serviço que foi adicionado recentemente pelos provedores de telefonia é o Real-Time 
+Texting, que permite aos usuários enviar mensagens de texto durante uma chamada telefônica para 
+melhorar a comunicação.
+
+Outro recurso que ajuda as pessoas com deficiência é o texto alternativo. Pessoas com baixa visão ou 
+cegas geralmente dependem de leitores de tela para ler o conteúdo em suas telas em voz alta. Mas, se 
+seus ícones informativos não tiverem rótulos ou texto alternativo, o leitor de tela não poderá 
+descrever a funcionalidade desse botão para o usuário. Nem todas as imagens ou ícones são 
+informativos, portanto, inclua descrições apenas quando necessário.
+
+Pesquisar e aprender sobre tecnologia assistiva ajudará você a entender melhor o impacto que essas 
+tecnologias têm. Aqui estão alguns links para ajudá-lo a começar:
+
+https://www.youtube.com/watch?v=eFkhFxJZvho
+https://www.youtube.com/watch?v=eFkhFxJZvho
+https://www.youtube.com/watch?v=0EQOZRIA-nA
+https://www.uswitch.com/mobiles/guides/smartphone-accessibility/
+https://www.google.com/accessibility/
+https://www.shopify.com/partners/blog/inclusive-design
+https://www.youtube.com/watch?v=TAzkrXTGEOM&feature=emb_title
+https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e
