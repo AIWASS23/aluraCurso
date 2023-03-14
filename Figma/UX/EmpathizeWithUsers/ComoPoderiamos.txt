@@ -1,0 +1,97 @@
+Práticas recomendadas para Como poderíamos
+
+Fazer um brainstorming de possíveis soluções para seus problemas de design é uma oportunidade para ser 
+criativo e se divertir! O exercício “Como poderíamos” é uma das formas mais comuns de abordar o processo de 
+ideação.
+
+“Como poderíamos” (HMW) é uma atividade de design thinking usada para traduzir problemas em oportunidades de 
+design. O HMW faz sua criatividade fluir e o encoraja a pensar sobre o problema de diferentes perspectivas. 
+Esse novo ponto de vantagem ajuda a criar uma ampla variedade de soluções para o problema do usuário que 
+você está tentando solucionar. Durante um exercício HMW, você criaria uma lista de perguntas que começam com 
+“Como podemos” e as usaria para gerar ideias para soluções.
+
+HMW e Crazy Eights. Estas são apenas algumas das muitas maneiras diferentes pelas quais você pode imaginar 
+soluções para problemas. A conclusão de uma atividade HMW não é necessária para este curso, mas pode ser 
+útil começar a esboçar algumas de suas ideias para ter uma ideia do processo!
+
+Enquadrar questões HMW
+
+Para criar boas perguntas HMW, você precisa de uma declaração de problema bem definida. A partir daí, você 
+pode reformular essa declaração de problema em perguntas que o ajudarão a ter ideias para resolver o 
+problema. Considere este problema que um usuário, Darren, enfrenta: Darren é um frequentador de shows que 
+precisa manter o controle de seu ingresso para o show porque precisa do ingresso quando passa pela segurança.
+
+Amplifique o bom
+
+Pense em como você pode usar qualquer aspecto positivo do problema como solução.
+Como podemos tornar o controle de ingressos uma competição divertida entre amigos?
+
+Explore o oposto
+
+Pense em como você resolveria o oposto do problema que delineou.
+Como podemos criar uma maneira de perder ingressos?
+
+Mude um status quo
+
+Pense em maneiras de mudar completamente o processo.
+Como podemos fazer um bilhete de concerto não em papel?
+
+Quebre o ponto de vista em pedaços
+
+Isso é especialmente útil para problemas longos e complexos.
+Como podemos evitar que o tíquete do cliente se perca? 
+Como podemos tornar um tíquete perdido mais fácil para a equipe de segurança lidar?
+
+Remova o mal
+
+Pense em como remover totalmente a parte negativa do problema.
+Como podemos fazer com que os frequentadores de shows entrem em um local sem precisar de um ingresso?
+
+Procure adjetivos
+
+Pegue quaisquer adjetivos negativos e tente transformá-los em positivos.
+Como podemos tornar a entrada em um local de show menos estressante para os portadores de ingresso?
+
+Questione uma suposição
+
+Remova ou altere quaisquer processos que você suponha que devam estar em vigor.
+Como podemos remover o processo de verificação de segurança em um show?
+
+Crie uma analogia usando a necessidade ou contexto do estabelecimento
+
+Pense em maneiras de comparar essa experiência do usuário com outra experiência.
+Como podemos fazer com que passar pela segurança seja como jogar um videogame?
+
+Identifique recursos inesperados que podem fornecer assistência
+
+Pense em como o problema pode ser resolvido por um recurso que não é mencionado na declaração do problema.
+Como o software de reconhecimento facial pode ajudar a gerenciar a entrada no show?
+
+
+Melhores práticas para pensar em HMWs
+
+Criar bons HMWs requer um pouco de prática, mas você pegará o jeito rapidamente! Aqui estão algumas 
+práticas recomendadas a serem lembradas:
+
+Seja amplo.
+Um bom HMW deve permitir múltiplas soluções. Por exemplo, uma das perguntas anteriores, como podemos 
+tornar o controle de tickets divertido e competitivo?, pode ser respondida de inúmeras maneiras.
+
+Mas não seja muito amplo. 
+Você deseja que seus HMWs sejam abrangentes, mas estreitos o suficiente para manter suas soluções focadas. 
+Um exemplo de pergunta HMW que é muito ampla é: Como podemos melhorar a emissão de bilhetes? 
+Este HMW não fornece orientação clara o suficiente para apresentar ideias para soluções.
+
+Faça vários rascunhos. 
+Não há problema em alterar suas perguntas HMW depois de escrevê-las. Se você achar que seu HMW não o ajuda a 
+pensar em nenhuma solução útil, mude-o!
+
+Seja criativo. 
+Os HMWs devem ser imaginativos e até divertidos. Você pode usar a lista de dicas de Stanford acima para 
+pensar em maneiras novas e criativas de formular suas perguntas.
+
+Escreva o máximo de HMWs que puder. 
+Quanto mais HMWs você tiver, mais soluções poderá criar. Se você pode fazer mais de uma pergunta a partir dos 
+frameworks que aprendeu, vá em frente!
+
+https://static1.squarespace.com/static/57c6b79629687fde090a0fdd/t/589cc8b8d2b85721b37d3efe/1486670008488/HMW-Worksheet.pdf
