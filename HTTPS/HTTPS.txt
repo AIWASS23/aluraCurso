@@ -1,0 +1,44 @@
+- Na internet sempre tem um cliente e um servidor
+- Entre o cliente e o servidor precisam haver regras de comunicação
+- As regras são definidas dentro de um protocolo
+- HTTP é o protocolo mais importante na internet
+
+É muito provável que existam outros servidores intermediários no provedor antes que os dados realmente 
+cheguem no servidor. Com a resposta é a mesma coisa, ela volta passando por esses servidores no meio antes 
+de chegar até nosso navegador. O problema é, quando usamos HTTP, qualquer servidor no meio pode espionar os 
+dados enviados, algo totalmente inseguro! Imagine se essas informações fossem relativas a contas bancárias. 
+Não seria nada seguro!
+
+Para estes outros cenários, existe o HTTPS, que basicamente é o HTTP comum, porém com uma camada adicional 
+de segurança/criptografia que antes era SSL, mas posteriormente passou a ser também TLS. É muito comum que 
+estas duas siglas sejam encontradas juntas como SSL/TLS por se tratarem da mesma questão de segurança. 
+Sendo assim, temos dois termos:
+
+HTTP: HyperText Transfer Protocol
+SSL/TLS: Secure Sockets Layer / Transport Layer Security
+
+O HTTPS para garantir segurança usa criptografia baseada em chaves públicas e privadas e para gerar essas 
+chaves públicas e privadas é preciso garantir a identidade de quem possui essas chaves e isso é feito a 
+partir de um certificado digital, ou seja, um certificado digital é utilizado para identificar determinada 
+entidade e ainda é utilizada para geração das chaves de criptografia.
+
+- Só com HTTPS a web é segura.
+- HTTPS significa usar um certificado digital no servidor.
+- O certificado prova a identidade e tem validade.
+- O certificado possui uma chave publica.
+- A chave é utilizada pelo navegador para criptografar os dados.
+
+https://tools.ietf.org/html/rfc2616
+
+Cliente  <--- HTTP ---> Servidor Java  <--- SQL ---> Banco de dados
+
+
+_ Por padrão, os dados são trafegados como texto puro na web.
+_ Apenas com HTTPS a Web é segura
+_ O protocolo HTTPS nada mais é do que o protocolo HTTP mais uma camada adicional de segurança, a TLS/SSL
+_ O tipo de criptografia de chave pública/chave privada
+_ O que são os certificados digitais
+_ Certificados possuem identidade e validade
+_ As chaves públicas estão no certificado, a chave privada fica apenas no servidor
+_ O que é uma autoridade certificadora
+_ O navegador utiliza a chave pública para criptografar os dados
