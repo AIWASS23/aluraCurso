@@ -1,0 +1,51 @@
+Analisando o domínio
+Vamos dar uma olhada com mais carinho no nome do domínio. 
+Olhando da direita para a esquerda, o domínio começa com br, indicando um site do Brasil. O br representa o 
+top level domain, está na raiz do domínio. Depois vem o com, abreviação de comercial e a marca. 
+O com e a marca são sub-domínios.
+
+O www representa também um sub-domínio, no entanto seu uso é opcional, tanto que nome.com.br e www.nome.com.br 
+funcionam e mostram a mesma página. A maioria dos site usam o prefixo www e podemos dizer que isso é algo 
+legado que continua ser popular apesar de não ser necessário.
+
+Subdomínios
+
+Existe também a ideia de subdomínios, que representam sessões específicas dentro de um site. Por exemplo, 
+no caso do Gmail temos o endereço: mail.google.com , ou ainda no caso do Google Drive: drive.google.com. 
+Tanto Gmail como Drive são subdomínios do domínio Google. Perceba que esses subdomínios apontam para páginas 
+diferentes dentro do mesmo domínio (Google).
+
+Endereços IP's
+
+O nome do domínio é organizado em uma hierarquia que foi criada para organizar os sites na internet e para a 
+gente ter algo fácil para se lembrar. Para ser correto, a internet funciona na verdade sem esses domínios. 
+Aqueles nomes são coisas dos humanos, as máquinas na internet têm uma outra forma de se endereçar. Elas usam 
+o que se chama endereços de IP, que nada mais são do que números - muito difícil para a gente decorar.
+
+Sendo assim, podemos acessar o Google usando um IP. Para quem é muito curioso, mas muito curioso mesmo e 
+deseja saber qual é o IP do Google, pode digitar na linha de comando a seguinte instrução:
+
+nslookup google.com
+...
+Name:    google.com
+Address: 216.58.202.238COPIAR CÓDIGO
+Esse comando procura o número IP do Google na internet. Podemos até usar esse endereço no navegador: 
+http://216.58.202.238
+
+A página principal do Google deve ser exibida. IP's são mais importantes para quem trabalha com rede. O 
+desenvolvedor normalmente não precisa mexer com isso.
+
+Observação: Esse IP pode mudar dependendo do servidor concreto onde o Google foi instalado.
+
+DNS
+
+Não acessamos a Google ou a outro site por um número como 52.206.164.173 e sim pela URL. Seria inviável 
+decorar todos os serviços e sites que acessamos diariamente apenas por números. Acontece que por baixo dos 
+panos quando realizamos uma requisição essa URL é transformada em um número por um serviço transparente 
+chamado de DNS (D*omain *Name System).
+
+Esse serviço age como um grande banco de dados de domínios. Portanto quando fazemos uma requisição para 
+nome.com.br o DNS age transformando para um IP e a requisição prossegue.
+
+https://developers.google.com/speed/public-dns/
+
