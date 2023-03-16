@@ -1,0 +1,76 @@
+O HTTP é um protocolo que define as regras de comunicação entre cliente e servidor e de que as URLs são 
+constituídas. Realizaremos um teste efetuando login em um site. Quando preenchemos o formulário e clicamos no 
+botão, o navegador envia o nosso login e a nossa senha para o servidor através do protocolo HTTP! 
+
+
+No mundo HTTP, a requisição enviada pelo navegador para o servidor é chamada de HTTP REQUEST. Recebemos a 
+página /dashboard como resposta já que enviamos login e senha válidos. No mundo HTTP essa resposta é chamada 
+de HTTP RESPONSE.
+
+A comunicação segue sempre esse modelo: o cliente envia uma requisição e o servidor responde. Requisição e 
+Resposta ou em inglês: Request-Response. Aqui é importante saber que a comunicação sempre começa com o 
+cliente: é ele quem pede as informações. O servidor responde apenas o que foi requisitado e nunca inicia a 
+comunicação!
+
+Comunicação sem estado
+
+Vamos acessar rapidamente outro site: http://g1.globo.com. Para este acesso estamos enviando uma requisição 
+para g1 e recebemos como resposta a página inicial. Agora vamos navegar dentro do site e acessar algum artigo.
+Ao clicarmos enviamos uma nova requisição e percebemos que TODA página foi trocada. Fica mais claro ainda se 
+acessarmos do menu acima algum link (globo esporte ou globo show). Podemos ver que todo o conteúdo do site 
+foi trocado. Ao acessarmos recursos diferentes todo o conteúdo no navegador foi trocado 
+(apesar do menu parecer o mesmo, ele também foi trocado). A ideia do HTTP é justamente essa, cada recurso é 
+independente do outro e não depende do anterior. Isso também se aplica para os dados enviados na requisição. 
+Cada requisição é independente da outra e ela sempre deve conter todas informações para o servidor responder.
+
+Essa característica de cada requisição ser independente é chamada de stateless. É esse nome bonito mesmo! 
+O HTTP é um protocolo que não mantém o estado de requisições. Isso significa que só com HTTP não há como se 
+lembrar das requisições anteriores enviadas para o servidor. Por isso precisamos incluir em cada requisição 
+todas as informações, sempre. Para o desenvolvedor este conhecimento é importante pois é justamente essa 
+característica stateless que o atrapalha no dia a dia. Ele precisa preparar a aplicação web para que 
+funcione bem usando o protocolo HTTP.
+
+Conhecendo cookies
+
+Então onde está esse número? O navegador grava esse número em um arquivo especial para cada site, são os 
+famosos cookies. Como acessar esse cookie depende um pouco do navegador em uso. O mais importante é entender 
+o porquê da existência desse número e onde ele foi gravado.
+
+No Chrome podemos ver todos os cookies armazenados nas 
+Configurações -> Privacidade -> Configurações de conteúdo... -> Todos os cookies e dados de site.... 
+Se procurarmos por globo, em globo.com.br, lá temos um cookie com o nome caelum.login.token, que contém o 
+número da identificação. Se apagarmos esse cookie, perderemos nossa identificação, sendo assim, o site 
+exigirá um novo login pois não saberá que já tínhamos logado.
+
+Normalmente o nome do cookie é algo como session-id, dependendo da plataforma de desenvolvimento utilizada 
+ele pode se chamar de PHPSESSID ou ASP.NET_SessionId ou JSESSIONID ou outro nome que foi inventado! 
+O Cookie será gerado de forma transparente pela tecnologia que você for utilizar para criar aplicativos web. 
+Esse nome, PHPSESSIONID, JSESSIONID ou outro, é gerado pela ferramenta de gerenciamento de Sessão. 
+Por isso ela muda o nome. Se você está usando PHP, então o PHP gerará o nome do Cookie e seu identificador 
+(número aleatório) e chamará o cookie PHPSESSIONID. No Java já será usado o nome JSESSIONID.
+
+Resumindo teremos:
+
+- O HTTP usa sessões para salvar informações do usuário
+- Sessões só são possíveis por uso de Cookies
+- Cookies são pequenos arquivos que guardam informações no navegador
+- O HTTP é stateless, não mantem estado.
+
+Quando falamos de Cookies na verdade queremos dizer Cookies HTTP ou Cookie web. Um cookie é um pequeno 
+arquivo de texto, normalmente criado pela aplicação web, para guardar algumas informações sobre usuário no 
+navegador. Quais são essas informações depende um pouco da aplicação. Pode ser que fique gravado alguma 
+preferência do usuário. Ou algumas informações sobre as compras na loja virtual, a identificação do usuário. 
+Isso depende da utilidade para a aplicação web.
+
+Um cookie pode ser manipulado e até apagado pelo navegador e, quando for salvo no navegador, fica associado 
+com um domínio. Ou seja, podemos ter um cookie para www.site.com.br, e outro para www.site1.com.br. 
+Aliás, um site ou web app pode ter vários cookies!
+
+Podemos visualizar os cookies salvos utilizando o navegador. Como visualizar, depende um pouco do navegador 
+em questão:
+
+No Chrome: 
+Configurações -> Privacidade -> Configurações de conteúdo... -> Todos os cookies e dados de site... -> Pesquisar site
+
+No Firefox: 
+Preferências -> Privacidade -> remover cookies individualmente -> Pesquisar site
