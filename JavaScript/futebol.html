@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha() {
+
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+
+        document.write(frase);
+        pulaLinha();
+    }
+
+
+    var nome = prompt("Informe o seu nome");
+    var vitoria = parseInt(prompt(nome + ", informe o numero de vitorias"));
+    var empate = parseInt(prompt(nome + ", informe o numero de empates"));
+
+    var pontos = (vitoria * 3) + empate;
+
+    mostra("O numero de pontos é " + pontos);
+
+</script>

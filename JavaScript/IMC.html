@@ -22,12 +22,12 @@
         return imc;
     }
 
-    var nome = prompt("Informe o seu nome");
-    var alturaInformada = prompt(nome + ", informe sua altura");
-    var pesoInformado = prompt(nome + ", informe seu peso");
+    var nome = (prompt("Informe o seu nome"));
+    var alturaInformada = parseFloat(prompt(nome + ", informe sua altura"));
+    var pesoInformado = parseFloat(prompt(nome + ", informe seu peso"));
 
     var imc = calculaImc(alturaInformada, pesoInformado);
 
     document.write(nome + ", o seu IMC é " + imc);
-    
+
 </script>
