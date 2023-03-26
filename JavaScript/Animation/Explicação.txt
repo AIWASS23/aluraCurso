@@ -1,0 +1,25 @@
+tag <canvas>, ela é válida do mundo HTML e tem a mesma finalidade de uma tela em branco, 
+ou seja, uma área em que podemos desenhar.
+
+No mundo da programação podemos ter gráficos em 2D, 3D, 4D, enfim, portanto, precisamos informar à 
+tela qual o tipo de pincel, ou seja, o contexto no qual escreveremos na tela. Para isso, utilizaremos o 
+getContext() e passaremos o 2d como parâmetro
+
+document.querySelector() seleciona a tag que eu quero manipular
+
+fillRect() preenche o canvas com uma forma retangular
+
+fillStyle = 'lightgrey' preenche o canvas com um fundo
+
+beginPath() inicia um caminho setando um portanto
+
+moveTo(300, 200) faz uma linha de acordo com as coordenadas
+
+pincel.lineTo(400, 400) manipula as linhas
+
+pincel.fill() preenche o espaco com a cor selecionada
+
+pincel.arc(300, 200, 50, 0, 2 * 3.14) cria um circulo
+
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
+
