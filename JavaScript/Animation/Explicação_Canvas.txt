@@ -23,11 +23,26 @@ pincel.arc(300, 200, 50, 0, 2 * 3.14) cria um circulo
 
 https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
-
-
+-------------------------------------------------------------------------------------------------------------
 
 Funçoes no Canvas
 
 strokeStyle -> seleciona a cor da borda
 
 strokeRect(0, 0, 50, 50) -> As dimensoes da borda
+
+-------------------------------------------------------------------------------------------------------
+
+Iteração com o User
+
+.pageX
+
+.pageY 
+
+.offsetLeft
+
+.offsetTop
+
+console.log
+
+alert()
