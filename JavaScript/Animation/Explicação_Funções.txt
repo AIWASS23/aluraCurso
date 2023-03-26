@@ -1,5 +1,0 @@
-strokeStyle -> seleciona a cor da borda
-
-strokeRect(0, 0, 50, 50) -> As dimensoes da borda
-
-
