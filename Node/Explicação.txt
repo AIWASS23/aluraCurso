@@ -1,0 +1,7 @@
+(vídeo) que explica passo a passo várias ferramentas que o VSC usa para nos ajudar a escrever código 
+melhor: https://www.youtube.com/watch?v=C3o9KwOHeCk&ab_channel=AluraCursosOnline
+
+(artigo), focado especialmente no uso do terminal: https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code
+
+(artigo) para entender melhor como funciona a hierarquia de pastas e como acessar nossos arquivos via terminal:
+https://www.alura.com.br/artigos/trabalhando-com-caminhos-e-pastas-no-terminal
