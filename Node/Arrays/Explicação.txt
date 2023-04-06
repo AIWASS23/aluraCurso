@@ -53,6 +53,7 @@ que eram, o índice 1 passa a ser o 0, o 2 passa a ser o 1, e assim por diante.
 push()
 - Adiciona o elemento passado como parâmetro do array, porém na última posição.
 - Altera o array original com o novo valor.
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/push
 
 unshift()
 - Funciona igual ao push(), porém adiciona na primeira posição e acaba trocando o índice de todos os elementos.
@@ -73,6 +74,8 @@ assim por diante.
 slice()
 - Copia uma parte do array para outro array.
 
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
 sort()
 - Organiza o array de acordo com a classificação Unicode, onde os números vêm antes das letras, 
 porém não funciona corretamente para números, onde temos que definir uma função que irá auxiliar o comando.
@@ -80,3 +83,17 @@ porém não funciona corretamente para números, onde temos que definir uma fun�
 splice()
 - Consegue remover, um ou mais elementos consecutivos caso o segundo parâmetro tenha um valor maior 
 que 0, e incluir um ou mais elementos a partir de um índice escolhido.
+
+-----------------------------------------------------------------------------------------------------------------
+
+Separar um array em partes com slice() (utilizamos para obter dois novos arrays a partir de um).
+
+Remover e incluir novos elementos em um array com splice(); sendo que esse método permite remover 
+elementos de qualquer posição do array. Além disso, podemos incluir um novo elemento no local dos removidos.
+
+Concatenar elementos em um único array com concat(); sendo que essa é uma forma facilitada de juntar dois 
+arrays.
+
+Trabalhar com arrays de duas dimensões. Vimos que uma lista também pode guardar outras listas! Para acessar 
+elementos das listas mais internas, devemos informar primeiro os índices das mais externas e depois os das 
+mais internas, como por exemplo com funcionarios[0][2].
