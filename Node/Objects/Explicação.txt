@@ -31,3 +31,34 @@ O spread operator (ou sintaxe de espalhamento) pode ser uma opção para decompo
 extraí-los de um array e formar um novo array.
 
 -----------------------------------------------------------------------------------------------------------------
+
+Um objeto JavaScript é criado ele tem propriedades particulares por exemplo, nome, cpf ou email e também outras propriedades herdadas do protótipo.
+Além do nome e do valor, cada propriedade tem também três atributos:
+
+Writable: Define se a propriedade pode ser adicionada a (ou escrita em) um objeto;
+
+Enumerable: Define se a propriedade é retornada, por exemplo, em um loop for...in ou 
+utilizando Object.keys() / Object.values() / Object.entries(). Ou seja, se a propriedade é enumerável;
+
+Configurable: Especifica se a propriedade pode ser modificada ou deletada. Ou seja, se é configurável.
+
+Por definição, todas as propriedades de um objeto criadas durante o desenvolvimento têm estes três 
+atributos como true. Já a maior parte das propriedades herdadas do protótipo têm estes atributos como 
+false e não podem ser enumeradas, adicionadas ou alteradas.
+
+O JavaScript utiliza o termo own property (propriedade própria) para se referir às propriedades que 
+pertencem ao objeto (como os exemplos nome, cpf e email) e que não são herdadas do protótipo.
+
+No Javascript o protótipo representa um objeto “modelo” com seus métodos, utilizado como base para a 
+criação de outros objetos;
+
+Acessando propriedades de protótipo através de __proto__ e da propriedade prototype;
+
+A herança de protótipo é utilizada para a criação de dados primitivos, arrays e objetos com JavaScript;
+
+Criando objetos utilizando funções construtoras;
+
+Utilizando a herança para criação de novos objetos com a propriedade prototype.
+
+----------------------------------------------------------------------------------------------------------------
+
