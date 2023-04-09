@@ -19,3 +19,15 @@ objetos;
 Além das propriedades, também podemos atribuir funções que dão comportamento a um objeto.
 
 ---------------------------------------------------------------------------------------------------------------
+
+Se percorre objetos a partir das chaves com for...in, iterando sobre as propriedades de um objeto como 
+em um array;
+
+Para extrair chaves e valores de objetos é possível utilizar métodos de Object;
+
+Funções como .entries, .key e .value podem ser úteis na hora de trabalhar com objetos;
+
+O spread operator (ou sintaxe de espalhamento) pode ser uma opção para decompor objetos quando precisamos 
+extraí-los de um array e formar um novo array.
+
+-----------------------------------------------------------------------------------------------------------------
