@@ -1,3 +1,31 @@
 https://plantuml.com/
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/proto
+
+-----------------------------------------------------------------------------------------------------
+
+O método call() executa a função passando valores e parâmetros específicos para serem usados como contexto 
+do this. Ou seja, é possível atribuir um this diferente do contexto atual ao executar a função.
+
+O método apply() funciona de forma semelhante ao call(), porém recebe a lista de argumentos em um array:
+
+A palavra-chave this e sua importância na manipulação de objetos com JavaScript, uma vez que o this 
+representa o contexto em que determinada função ou método será executada, e como este contexto pode ser 
+identificado e modificado utilizando os métodos bind(), call() e apply();
+
+A criação de objetos em JavaScript com o modelo de protótipo, que é a forma nativa do JavaScript trabalhar 
+com o conceito de orientação a objetos conhecido como “herança”, quando objetos recebem propriedades e 
+métodos de outros;
+
+Acessando as propriedades prototype e __proto__ e, através delas, identificar a cadeia de protótipos desde 
+o nível mais baixo, normalmente um objeto do próprio tipo de dado, como Object ou Function;
+
+Formas (anteriores às classes) que o JavaScript utiliza para criação de objetos a partir de modelos: 
+Object.create() e funções construtoras com new; sendo o primeiro mais indicado para se trabalhar com 
+protótipos utilizando as melhores práticas e o segundo mais próximo à sintaxe de classes.
