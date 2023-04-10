@@ -29,3 +29,5 @@ o nível mais baixo, normalmente um objeto do próprio tipo de dado, como Object
 Formas (anteriores às classes) que o JavaScript utiliza para criação de objetos a partir de modelos: 
 Object.create() e funções construtoras com new; sendo o primeiro mais indicado para se trabalhar com 
 protótipos utilizando as melhores práticas e o segundo mais próximo à sintaxe de classes.
+
+------------------------------------------------------------------------------------------------------------
