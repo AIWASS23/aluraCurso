@@ -31,3 +31,5 @@ Object.create() e funções construtoras com new; sendo o primeiro mais indicado
 protótipos utilizando as melhores práticas e o segundo mais próximo à sintaxe de classes.
 
 ------------------------------------------------------------------------------------------------------------
+
+https://cursos.alura.com.br/course/expressoes-regulares
