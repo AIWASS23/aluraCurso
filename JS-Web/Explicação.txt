@@ -16,3 +16,16 @@ além de entender que o JavaScript é uma linguagem case sensitive, e uso do ope
 entrar dentro de referências como o document, e que o ponto e virgula é opcional porém recomendado.
 
 ----------------------------------------------------------------------------------------------------------
+
+https://codepen.io/vanessametonini/pen/eYEVEqR
+
+Lista de elementos:
+Uma alternativa ao querySelector quando necessário buscar muitos elementos, que é o querySelectorAll, 
+que retorna uma lista (NodeList) com todos os elementos do seletor informado evitando a repetição de 
+código.
+
+Conhecendo listas:
+A estrutura de uma lista em JavaScript e como podemos acessar os elementos a partir dos índices com a 
+sintaxe do colchetes.
+
+--------------------------------------------------------------------------------------------------------------
