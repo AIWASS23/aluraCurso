@@ -28,4 +28,19 @@ Conhecendo listas:
 A estrutura de uma lista em JavaScript e como podemos acessar os elementos a partir dos índices com a 
 sintaxe do colchetes.
 
---------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+
+Percorremos uma lista usando a estrutura de repetição while, a criar referências variáveis com let, e 
+como incrementar o valor de uma variável, e criar uma condição para evitar o loop infinito. O atributo 
+length contido nas listas ajuda a obter dinamicamente o valor do tamanho de uma lista.
+
+Função com parâmetros:
+Utilizamos parâmetros dentro de uma função que criamos, e o que é uma função anônima e o retorno 
+undefined de uma função.
+
+Textos dinâmicos:
+Criamos textos dinâmicos utilizando template string e como acessar as classes de um elemento através 
+do atributo classList.
+
+---------------------------------------------------------------------------------------------------------
+
