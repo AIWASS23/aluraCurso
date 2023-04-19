@@ -29,3 +29,21 @@ Adicionando e excluindo elementos:
 ---------------------------------------------------------------------------
 
 https://www.alura.com.br/artigos/hoisting-no-javascript
+
+---------------------------------------------------------------------------------------
+
+Data-attributes são utilizados para guardar valores em elementos HTML. Esses valores podem ser 
+manipulados através do JavaScript. Também é possível estilizar elementos HTML com CSS 
+referenciando o seu data-attribute. Essa funcionalidade é bem recente no mundo do 
+desenvolvimento, sendo lançada na última versão do HTML(HTML5).
+
+Data-attributes não devem ser utilizados para dados visíveis, pois tecnologias de 
+acessibilidade podem não identificar seus valores.
+
+Sua estrutura é dividida em duas partes:
+
+A primeira parte é o identificador deste dado, que consiste em data- + o nome de sua escolha 
+que melhor identifica o tipo de dado a ser atribuído.
+
+A segunda parte é o valor atribuído à este data-attribute, este valor deve sempre estar entre 
+aspas “”, e dessa maneira é lido como uma string.
