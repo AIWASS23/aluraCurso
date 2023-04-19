@@ -26,3 +26,6 @@ Adicionando e excluindo elementos:
 - document.replaceChild() - Substitui um elemento HTML.
 - document.createElement() - Cria um elemento HTML.
 
+---------------------------------------------------------------------------
+
+https://www.alura.com.br/artigos/hoisting-no-javascript
