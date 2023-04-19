@@ -47,3 +47,7 @@ que melhor identifica o tipo de dado a ser atribuído.
 
 A segunda parte é o valor atribuído à este data-attribute, este valor deve sempre estar entre 
 aspas “”, e dessa maneira é lido como uma string.
+
+------------------------------------------------------------------------------------------
+
+https://vercel.com/ # ferramenta para publicar paginas web
