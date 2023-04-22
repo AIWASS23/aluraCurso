@@ -1,0 +1,29 @@
+https://git-scm.com/
+
+--------------------------------------------------------------------------------------------
+
+git log --oneline : visualizar todos os commits, um em cada linha
+git log -p : ver mais como as alterações do commit
+git log --author="user_name" : visualizar somente o autor
+git log --since=1.month.ago --until=1.day.ago : pesquisar por data
+git log --pretty="format:%h %s" : formatar a visualização
+
+https://devhints.io/git-log-format
+https://devhints.io/git-log
+
+--------------------------------------------------------------------------------------------
+
+git clone <repositorio> <meu-projeto-clone> : clonar um projeto 
+git clone -branch new_feature <repositorio> : clonar uma branch especifica
+
+https://www.atlassian.com/br/git/tutorials/setting-up-a-repository
+https://git-scm.com/docs/git-clone
+
+---------------------------------------------------------------------------------------------
+
+git restore : restaura arquivos e do projeto, voltando para um estado anterior
+git add : adiciona os arquivos que queremos para o próximo commit
+
+---------------------------------------------------------------------------------------------
+
+https://guilhermeonrails.github.io/manual-do-git-e-github/
