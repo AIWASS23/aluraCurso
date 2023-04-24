@@ -1,0 +1,7 @@
+https://regexr.com/
+
+Validações no próprio HTML utiliza-se os atributos required e type.
+
+Usamos as regras de regex dentro do atributo pattern para validar o campo de senha.
+
+---------------------------------------------------------------------------------------------
