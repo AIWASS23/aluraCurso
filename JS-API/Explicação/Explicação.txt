@@ -12,3 +12,33 @@ https://cursos.alura.com.br/extra/alura-mais/o-que-e-uma-api--c697
 
 CallBacks: É uma função que é passada como argumento para outra função, e é executada quando a função principal é concluída.
 Promisses: É um objeto que representa uma operação assíncrona que pode ou não ser concluída com sucesso e retornar um valor.
+
+-----------------------------------------------------------------------------------------------------------
+
+Arrow Functions: 
+As Arrow Functions são uma forma mais concisa de escrever funções em JavaScript. 
+Elas foram introduzidas na versão ES6 (também conhecida como ES2015) da linguagem e são uma maneira 
+mais clara e legível de criar funções que não precisam de um objeto this próprio e que precisam ser 
+mais curtas.
+
+https://www.alura.com.br/artigos/desmistificando-o-protocolo-http-parte-1
+https://http.cat/
+https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript
+https://cursos.alura.com.br/extra/alura-mais/javascript-assincrono-e-fetch-c93
+
+Retorno de Requisições:
+
+Uma requisição é composta de uma request (solicitação) e uma response (resposta). 
+Request e Response são dois tipos de mensagem diferentes quando falamos de HTTP. 
+A especificação HTTP diz exatamente o que podemos colocar dentro de cada um destes tipos de mensagem 
+para que todos que "falem" o idioma HTTP consigam trocar informações corretamente.
+
+Em uma response é retornado um response code (código de resposta) e um motivo, que dá significado ao 
+código. A estrutura padrão desse código tem três dígitos, sendo o primeiro referente a classificação 
+dele. Elas são:
+
+1XX: Informativo – a solicitação foi aceita ou está em andamento;
+2XX: Confirmação – a solicitação foi concluída ou entendida;
+3XX: Redirecionamento – faltou alguma coisa na solicitação;
+4XX: Erro do cliente – houve um erro na solicitação;
+5XX: Erro no servidor – houve uma falha no servidor durante a solicitação.
