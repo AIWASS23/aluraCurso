@@ -1,0 +1,9 @@
+https://www.alura.com.br/artigos/hoisting-no-javascript
+
+https://cursos.alura.com.br/extra/alura-mais/o-que-e-javascript--c1311
+
+Event loop: Mecanismo responsável por gerenciar o fluxo de execução do código assíncrono.
+Call stack: Estrutura de dados que mantém o controle do contexto de execução do código.
+Task queue: Estrutura de dados que contém as tarefas que estão prontas para serem executadas pelo Event Loop.
+
+---------------------------------------------------------------------------------------------------------
