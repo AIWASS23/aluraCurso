@@ -33,3 +33,21 @@ O método closest() é útil quando precisamos buscar um elemento específico em
 elementos HTML. Por exemplo, podemos usá-lo para buscar um elemento pai que corresponde a uma classe 
 ou ID específico.
 
+--------------------------------------------------------------------------------------------------------
+
+searchParams.get():
+É um método do objeto URLSearchParams do JavaScript que permite recuperar o valor de um determinado 
+parâmetro em uma string de consulta de URL. O método get() recebe como argumento o nome do parâmetro a 
+ser recuperado e retorna o valor correspondente, se o parâmetro estiver presente na string de consulta. 
+Caso contrário, o método retorna null.
+
+IIFE:
+(Immediately Invoked Function Expression) é uma expressão de função JavaScript que é invocada 
+imediatamente após ser definida. É uma maneira de criar uma função que é executada automaticamente, 
+sem a necessidade de chamá-la explicitamente em outra parte do código.
+
+(function() {
+  // código da função
+})();
+
+
