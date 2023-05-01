@@ -7,3 +7,8 @@ Call stack: Estrutura de dados que mantém o controle do contexto de execução 
 Task queue: Estrutura de dados que contém as tarefas que estão prontas para serem executadas pelo Event Loop.
 
 ---------------------------------------------------------------------------------------------------------
+
+https://cursos.alura.com.br/extra/alura-mais/o-que-e-uma-api--c697
+
+CallBacks: É uma função que é passada como argumento para outra função, e é executada quando a função principal é concluída.
+Promisses: É um objeto que representa uma operação assíncrona que pode ou não ser concluída com sucesso e retornar um valor.
