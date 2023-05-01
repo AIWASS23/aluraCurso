@@ -66,3 +66,23 @@ logicamente equivalentes: o async/await faz o processamento de forma sequencial,
 são processadas em paralelo, o que faz com que este método seja mais rápido. O async/await simplifica 
 a escrita e a interpretação do código, mas não é tão flexível e só funciona com uma Promise por vez.
 
+---------------------------------------------------------
+
+https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages
+
+getElementById: 
+é um método em JavaScript que é usado para acessar um elemento HTML em uma página da Web pelo seu ID. 
+Ele é usado para acessar um único elemento do DOM (Document Object Model) pelo seu ID exclusivo. 
+É um dos métodos mais comuns usados para manipular elementos HTML na página da Web usando JavaScript.
+
+addEventListener:
+é um método em JavaScript que permite adicionar um ouvinte de eventos a um elemento HTML na página da 
+Web. Com o addEventListener, você pode especificar que uma função JavaScript deve ser executada sempre 
+que ocorrer um determinado evento em um elemento, como um clique do mouse, uma submissão de formulário 
+ou uma mudança de valor em um campo de entrada.
+
+innerHTML:
+é uma propriedade do objeto Element em JavaScript que permite acessar ou definir o conteúdo HTML de um 
+elemento na página da web. Ela pode ser usada para modificar o conteúdo de um elemento HTML sem 
+precisar manipular diretamente o DOM (Document Object Model).
+
