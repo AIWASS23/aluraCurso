@@ -1,0 +1,16 @@
+XMLHttpRequest: 
+É um objeto fornecido pelo navegador que permite que o JavaScript envie requisições HTTP para o 
+servidor web e receba dados em resposta. É uma API fundamental para a comunicação assíncrona entre o 
+cliente e o servidor na web. Com o XMLHttpRequest, você pode enviar solicitações 
+HTTP GET, POST, PUT, DELETE e outras, com dados adicionais, como cabeçalhos e parâmetros de consulta. 
+Você pode então processar a resposta do servidor em diferentes formatos, como texto, XML, JSON ou blob.
+
+Templates Literals:
+É uma funcionalidade do JavaScript que permite criar strings com formatação avançada e incorporar 
+expressões dentro delas. 
+
+CallBack Hell: 
+É um problema que pode ocorrer em código JavaScript assíncrono, especialmente quando múltiplas 
+chamadas de função assíncrona são aninhadas em uma sequência complexa de callbacks.
+
+----------------------------------------------------------------------------------------------------------
