@@ -18,3 +18,18 @@ chamadas de função assíncrona são aninhadas em uma sequência complexa de ca
 https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript
 http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
 https://web.archive.org/web/20060516060134/http://globoesporte.globo.com/
+
+----------------------------------------------------------------------------------------------------------
+
+https://cursos.alura.com.br/o-que-e-rest--c119
+
+closest():
+O método closest() procura o ancestral mais próximo do elemento atual que corresponde ao seletor 
+especificado. Se o elemento atual corresponder ao seletor especificado, o próprio elemento é retornado.
+Caso contrário, o método sobe na árvore DOM e retorna o primeiro ancestral correspondente encontrado, 
+ou retorna null se nenhum ancestral for encontrado.
+
+O método closest() é útil quando precisamos buscar um elemento específico em uma estrutura complexa de 
+elementos HTML. Por exemplo, podemos usá-lo para buscar um elemento pai que corresponde a uma classe 
+ou ID específico.
+
