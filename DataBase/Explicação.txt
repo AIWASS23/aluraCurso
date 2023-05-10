@@ -50,3 +50,57 @@ anteriormente na instalação.
 
 20) Automaticamente o Workbench será aberto. Clique na conexão que está configurada. 
 Você então acessará o ambiente com o MySQL no ar.
+
+-----------------------------------------------------------------------------------------
+
+Comandos
+
+SELECT - usado para selecionar dados de uma tabela ou exibição
+FROM - usado para especificar a tabela ou exibição de onde os dados devem ser selecionados
+WHERE - usado para filtrar os resultados de uma consulta com base em uma condição
+GROUP BY - usado para agrupar os resultados de uma consulta com base em uma ou mais colunas
+HAVING - usado para filtrar os resultados de uma consulta com base em uma condição agregada
+ORDER BY - usado para ordenar os resultados de uma consulta por uma ou mais colunas
+JOIN - usado para combinar dados de duas ou mais tabelas com base em uma condição
+UNION - usado para combinar resultados de duas ou mais consultas
+INSERT - usado para inserir dados em uma tabela
+UPDATE - usado para atualizar dados em uma tabela com base em uma condição
+DELETE - usado para excluir dados de uma tabela com base em uma condição
+CREATE - usado para criar uma tabela, índice, visão ou procedimento armazenado
+ALTER - usado para alterar a estrutura de uma tabela ou índice existente
+DROP - usado para excluir uma tabela, índice, visão ou procedimento armazenado existente
+TRUNCATE - usado para excluir todos os dados de uma tabela sem afetar sua estrutura
+COUNT - usado para contar o número de linhas em uma tabela ou o número de linhas que atendem a uma determinada condição em uma consulta
+MAX - usado para encontrar o valor máximo em uma coluna de uma tabela ou em uma consulta
+MIN - usado para encontrar o valor mínimo em uma coluna de uma tabela ou em uma consulta
+AVG - usado para calcular a média dos valores em uma coluna de uma tabela ou em uma consulta
+SUM - usado para somar os valores em uma coluna de uma tabela ou em uma consulta
+IN - usado para verificar se um valor está em uma lista de valores
+NOT IN - usado para verificar se um valor não está em uma lista de valores
+LIKE - usado para procurar valores que correspondam a um padrão especificado
+NOT LIKE - usado para procurar valores que não correspondam a um padrão especificado
+BETWEEN - usado para selecionar valores dentro de um intervalo especificado
+NOT BETWEEN - usado para selecionar valores fora de um intervalo especificado
+DISTINCT - usado para retornar valores únicos de uma coluna em uma tabela ou em uma consulta
+AS - usado para renomear uma coluna ou tabela em uma consulta
+CASE - usado para executar uma lógica condicional em uma consulta
+EXISTS - usado para verificar se uma subconsulta retorna algum resultado
+UNION ALL - semelhante ao comando UNION, mas inclui todas as linhas, incluindo as duplicadas
+INTERSECT - usado para retornar as linhas que aparecem em ambas as tabelas
+EXCEPT - usado para retornar as linhas que aparecem na primeira tabela, mas não na segunda
+GROUP BY - usado para agrupar as linhas com base nos valores de uma ou mais colunas e calcular funções de agregação, como COUNT, MAX, MIN, AVG e SUM
+HAVING - usado em combinação com o GROUP BY para filtrar os resultados com base nas funções de agregação
+ORDER BY - usado para classificar as linhas de uma tabela ou de uma consulta com base nos valores de uma ou mais colunas
+ASC - usado com ORDER BY para classificar em ordem crescente
+DESC - usado com ORDER BY para classificar em ordem decrescente
+JOIN - usado para combinar as linhas de duas ou mais tabelas com base nas colunas comuns
+INNER JOIN - retorna apenas as linhas que têm correspondência nas duas tabelas
+LEFT JOIN - retorna todas as linhas da tabela da esquerda e as linhas correspondentes da tabela da direita
+RIGHT JOIN - retorna todas as linhas da tabela da direita e as linhas correspondentes da tabela da esquerda
+FULL OUTER JOIN - retorna todas as linhas de ambas as tabelas, combinando as linhas que têm correspondência e preenchendo com NULL as lacunas restantes
+ALTER TABLE - usado para modificar a estrutura de uma tabela, como adicionar ou excluir colunas ou alterar tipos de dados
+CREATE INDEX - usado para criar um índice em uma ou mais colunas de uma tabela para melhorar o desempenho de consultas
+DROP INDEX - usado para excluir um índice existente
+TRUNCATE TABLE - usado para excluir todos os dados de uma tabela, mas manter a estrutura da tabela intacta
+
+
