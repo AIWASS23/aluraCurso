@@ -33,4 +33,23 @@ funcionar. Então, quando falamos de dependências, estamos falando
 especificamente dos pacotes de terceiros que são utilizados por um 
 programa.
 
+----------------------------------------------------------------------------------
+
+https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar
+
+
+Promise
+
+Promessas podem ser concluídas de duas formas: fulfilled (realizada, completa) ou rejected 
+(rejeitada), o que equivale a duas situações possíveis, ou a promessa se concretizou 
+(retornou os dados ou executou o código que deveria) ou não.
+
+Promessas que não estão fulfilled nem rejected estão pending (pendentes). Ou seja, ainda não é 
+possível saber o resultado final porque o processamento ainda não foi concluído.
+
+Após a finalização do processamento, a promessa passa para o estado de settled (concluída), 
+independente do resultado.
+
+Uma vez que a promessa está settled seu resultado não se altera mais. Ou seja, uma promessa que se 
+concluiu como rejected não muda mais para o estado de fulfilled e vice-versa.
 
