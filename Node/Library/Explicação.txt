@@ -109,3 +109,21 @@ ECONNRESET
 Error: connection reset - Uma conexão em andamento foi fechada durante o processo de 
 requisição-resposta, antes que a resposta fosse recebida. Pode ser causada por um timeout ou 
 reinício do servidor.
+
+-------------------------------------------------------------------------------------------------
+
+https://devcenter.heroku.com/articles/cli-style-guide
+https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/
+https://nodejs.org/en/blog/release/v18.0.0/#fetch-experimental
+http://gatinhosalsicha.com.br/
+https://www.alura.com.br/artigos/desmistificando-o-protocolo-http-parte-1
+https://docs.npmjs.com/cli/v7/commands/npm-run-script#description
+https://www.npmjs.com/package/yargs
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+https://developer.mozilla.org/en-US/docs/Web/API/Response
+https://docs.npmjs.com/cli/v7/configuring-npm/package-json
+https://spdx.org/licenses/
+https://www.npmjs.com/
+https://semver.org/lang/pt-BR/
+https://docs.npmjs.com/creating-and-publishing-scoped-public-packages
+
