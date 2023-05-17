@@ -53,3 +53,12 @@ independente do resultado.
 Uma vez que a promessa está settled seu resultado não se altera mais. Ou seja, uma promessa que se 
 concluiu como rejected não muda mais para o estado de fulfilled e vice-versa.
 
+----------------------------------------------------------------------------------------
+
+https://regex101.com/
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Regular_Expressions
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+https://cursos.alura.com.br/course/expressoes-regulares
+https://joi.dev/
+https://www.npmjs.com/package/yup
+https://joi.dev/tester/
