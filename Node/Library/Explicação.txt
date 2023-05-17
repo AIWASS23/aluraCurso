@@ -1,0 +1,36 @@
+https://node.js.org/pt-br/ 
+https://www.docker.com/
+https://github.com/nvm-sh/nvm#node-version-manager---
+https://www.alura.com.br/artigos/descomplicando-o-trabalho-com-node
+https://docs.npmjs.com/
+https://yarnpkg.com/
+https://www.markdownguide.org/getting-started/
+https://www.alura.com.br/artigos/como-trabalhar-com-markdown
+https://www.alura.com.br/artigos/guia-importacao-exportacao-modulos-javascript
+https://www.npmjs.com/package/chalk
+
+
+Gerenciadores
+
+Gerenciadores de pacotes são repositórios de código aberto nos quais devs 
+disponibilizam soluções para o uso da comunidade. Estas soluções nada mais são do que 
+programas que outras pessoas desenvolveram e que utilizamos para ganhar tempo no 
+desenvolvimento de nosso próprio código, e vão desde libs (bibliotecas) pequenas e 
+específicas até frameworks com vários recursos prontos. E um pacote é como chamamos o 
+conjunto do código que determinada lib ou framework utiliza para executar.
+
+Módulos e pacotes
+Um módulo serve para encapsular uma determinada funcionalidade, normalmente 
+uma ou mais funções, “escondendo” sua implementação do restante da 
+aplicação e expondo somente o necessário para seu uso - por meio de uma 
+função que pode ser exportada para outras partes do código, por exemplo.
+
+Dependências
+Implica depender de algo. No caso, o programa que está sendo executado 
+depende de outros para funcionar. Ou seja, usamos este termo para 
+especificar quais são os pacotes dos quais um programa depende para 
+funcionar. Então, quando falamos de dependências, estamos falando 
+especificamente dos pacotes de terceiros que são utilizados por um 
+programa.
+
+
