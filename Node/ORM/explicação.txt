@@ -39,3 +39,8 @@ sequelize init:seeders -> Inicializa os seeders
 sequelize migration:generate [alias: migration:create] -> Gera um novo arquivo de migração
 sequelize model:generate [alias: model:create] -> Gera uma model e sua migração
 sequelize seed:generate -> Gera um novo arquivo de seed
+
+------------------------------------------------------------------------------------------------
+
+Tipos de Dados do MySQL
+https://dev.mysql.com/doc/refman/8.0/en/data-types.html
