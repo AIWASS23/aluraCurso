@@ -147,3 +147,38 @@ https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar
 https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/async_function
 https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous/Concepts
+
+---------------------------------------------------------------------------------------------------
+
+https://cursos.alura.com.br/extra/alura-mais/padrao-model-view-controller-c94
+
+Entendendo endpoints e boas práticas no uso de métodos HTTP
+
+O modelo de arquitetura REST incorpora vários princípios para garantir o padrão na construção de 
+aplicações WEB. Sem dúvida um dos princípios mais importantes é a utilização dos verbos http, 
+alinhada com as boas práticas de programação. Um conjunto de boas práticas foi idealizado para 
+garantir a consistência e maior legibilidade do código. Nesse sentido, os endpoints e os métodos 
+http apresentam importante papel nesse processo.
+
+Endpoints
+Para aplicações web, o endpoint nada mais é do que uma referência que o cliente usa para acessar 
+os serviços de sua aplicação. Essa referência é uma URL que faz a comunicação entre cliente e API; 
+e a URL que é a referência dos serviços, é o endpoint. Para os protocolos de comunicação entre 
+cliente e servidor, o endpoint relacionado aos terminais que fazem a conexão entre API e cliente 
+ou servidor externo. Isso significa que o seu serviço pode ser acessado por essa referência, que é 
+uma URL.
+
+O uso de métodos HTTP
+
+METODO  | DESCRIÇÃO
+GET	    | Obter os dados de um recurso.
+POST    | Criar um novo recurso.
+PUT	    | Substituir os dados de um determinado recurso.
+PATCH   | Atualizar parcialmente um determinado recurso.
+DELETE  | Excluir um determinado recurso.
+HEAD    | Similar ao GET, mas utilizado apenas para se obter os cabeçalhos de resposta, sem os 
+        | dados em si.
+OPTIONS | Obter quais manipulações podem ser realizadas em um determinado recurso.
+
+https://blog.caelum.com.br/rest-principios-e-boas-praticas
+https://cursos.alura.com.br/extra/alura-mais/introducao-ao-postman-c182
