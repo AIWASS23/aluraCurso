@@ -1,0 +1,36 @@
+https://nodejs.org/pt-br/
+https://code.visualstudio.com/
+https://www.postman.com/downloads/
+https://cursos.alura.com.br/extra/alura-mais/qual-e-a-diferenca-entre-back-end-e-front-end--c174
+https://docs.npmjs.com/cli/v8/configuring-npm/package-json
+
+O termo API (Application Programming Interface ou, em português, Interface de Programação de 
+Aplicações) é amplamente utilizado quando se trata de desenvolvimento de software. API pode ser 
+definida como uma API SOAP ou REST. O REST é um acrônimo para Representational State Transfer.
+https://cursos.alura.com.br/extra/alura-mais/o-que-e-uma-api--c697
+https://www.alura.com.br/artigos/rest-conceito-e-fundamentos
+https://nodejs.org/api/
+
+versionamento semântico
+https://semver.org/lang/pt-BR/
+
+Scripts pré-definidos
+https://docs.npmjs.com/cli/v8/using-npm/scripts
+
+Atalhos npm
+comando      | atalho | Uso                                              |
+install	     | i	  | Instala um novo módulo
+list	     | ls	  | Lista os módulos instalados
+test	     | t	  | Executa o script de teste especificado no package.json
+--global     |	-g	  | Usado como um sinalizador para instalar um pacote globalmente (não só na pasta do projeto
+--save	     | -S	  | Salva o módulo ao instalar
+--save-exact |	-E	  | Salva o módulo ao instalar, porém na versão exata mencionada
+--save-dev	 | -D	  | Salva o módulo ao instalar, porém como uma dependência de desenvolvimento
+npm home	 |        | Abre a página do projeto
+npm repo	 |        | Abre o repositório de código do projeto
+npm audit	 |        | Executa uma auditoria no projeto para identificar se existe alguma dependência com vulnerabilidade conhecida
+npm update	 |        | Atualiza projetos para a última versão respeitando o package.json
+npm outdated |	      | Retorna a lista de dependências desatualizadas mostrando a versão mais recente
+npm adduser	 |        | Adiciona um novo usuario no https://registry.npmjs.org para permitir a publicação de pacotes
+npm publish	 |        | Faz a publicação do pacote no NPM
+
