@@ -40,3 +40,110 @@ https://www.alura.com.br/artigos/framework-o-que-e-pra-que-serve-essa-ferramenta
 https://expressjs.com/pt-br/starter/generator.html
 https://cursos.alura.com.br/extra/alura-mais/introducao-ao-postman-c182
 
+--------------------------------------------------------------------------------------------
+
+https://cursos.alura.com.br/extra/alura-mais/o-que-e-nosql--c1142
+https://www.alura.com.br/artigos/o-que-e-sql
+https://www.alura.com.br/artigos/sql-comandos-basicos
+https://cursos.alura.com.br/extra/alura-mais/json-bson-entendendo-os-documentos-do-mongodb-c84
+https://mongoosejs.com/docs/guides.html
+
+Lidando com erros de conexão com o mongo
+
+Erros de conexão com banco de dados são comuns e podem ocorrer por diversos motivos, seja um 
+parâmetro incorreto, ao usar um sistema operacional diferente do encontrado nos cursos ou mesmo 
+inserir um caractere de senha não autorizado. A seguir você encontrará a descrição de dois 
+problemas muito comuns: com o endereço ou senha. Ao ocorrer um erro de conexão, a primeira ação é 
+entender qual é a origem do problema. É muito comum nos depararmos com um Error: querySrv ETIMEOUT, 
+que é um erro de tempo limite, e nesse caso é importante verificar se o banco de dados está 
+habilitado para ser acessado por diferentes IPs. Algumas sugestões para solução são:
+
+Liberar acesso a qualquer IP -> https://www.mongodb.com/cloud/atlas/
+https://tecnoblog.net/responde/como-usar-o-dns-do-google/
+
+Verifique problemas de compatibilidade -> https://github.com/nvm-sh/nvm
+https://www.alura.com.br/artigos/descomplicando-o-trabalho-com-node
+https://www.alura.com.br/artigos/wsl-executar-programas-comandos-linux-no-windows
+
+Problemas com a senha
+
+- Verifique se a senha está digitada corretamente: 
+Este é o primeiro passo. Às vezes, a senha pode ser digitada incorretamente por engano, o que faz 
+com que a conexão com o banco de dados falhe. Logo, certifique-se de que a senha está digitada
+corretamente antes de prosseguir.
+
+- Verifique se a senha não expirou: 
+Em alguns casos, a senha pode ter expirado e precisa ser redefinida. Se isso ocorrer, você deve 
+entrar em contato com o administrador do banco de dados e solicitar a redefinição da senha. 
+Se você estiver trabalhando em um projeto pessoal em seu próprio perfil do Mongo Atlas, você é 
+quem administra seu banco e tem acesso às configurações dele.
+
+- Verifique se a senha atende aos requisitos de segurança: 
+Em alguns casos, a senha pode não atender aos requisitos de segurança definidos pelo banco de 
+dados, como, por exemplo, não inserir a quantidade mínima de caracteres ou inserir uma sequência 
+fraca dada a ausência de números, letras e caracteres especiais combinados 
+(um exemplo de autenticação fraca é usuário admin e senha admin). Isso pode fazer com que a 
+conexão falhe. Então, certifique-se de que a senha atende aos requisitos de segurança definidos 
+pelo banco de dados.
+
+- Verifique se o usuário tem permissão para acessar o banco de dados: 
+Se o usuário não tiver permissão para acessar o banco de dados, a conexão falhará. Para evitar 
+esse problema, certifique-se de que o usuário tem as permissões necessárias para acessar o banco 
+de dados.
+
+- Altere a senha: 
+Se nada mais funcionar, tente redefinir a senha. Isso pode ser feito pelo próprio usuário ou pelo 
+administrador do banco de dados. Certifique-se de que a nova senha atenda aos requisitos de 
+segurança do banco de dados.
+
+Outros problemas:
+https://www.mongodb.com/docs/atlas/security/add-ip-address-to-list/
+https://cursos.alura.com.br/forum/topico-duvida-conexao-com-bd-com-erro-error-querysrv-enodata-_mongodb-resolvido-duvida-263090
+https://cursos.alura.com.br/forum/topico-erro-conexao-com-o-mongo-217701
+https://cursos.alura.com.br/forum/topico-erro-ao-conectar-com-mongoose-212647
+https://cursos.alura.com.br/forum/topico-erro-conexao-com-o-mongo-por-causa-do-ip-237400
+https://cursos.alura.com.br/forum/topico-erro-ao-conectar-o-banco-de-dados-214625
+
+Tipos de dados
+O MongoDB suporta uma variada lista de tipos de dados para os documentos no formato binário BSON.
+https://docs.mongodb.com/manual/reference/bson-types/
+
+String: É o tipo que contém uma sequência de texto;
+
+Integer (32 bit e 64-bit): É o tipo para armazenar um valor numérico;
+
+Boolean: Usamos para armazenar valores True ou False;
+
+Double: Usamos para armazenar valores de ponto flutuantes;
+
+Min/Max Keys: É o tipo usado para comparar um valor contra o menor e maior elementos do BSON 
+mais elevados respectivamente;
+
+Array: É usado para armazenar matrizes ou lista de valores múltiplos em uma única chave;
+
+TimeStamp: Este tipo é utilizado quando armazenamos uma data e hora;
+
+Object: Usamos para armazenar documentos incorporados;
+
+Null: É tipo para valores nulos;
+
+Symbol: É o tipo para valor string, que utiliza algum caractere ou símbolo especial, 
+geralmente de outros idiomas;
+
+Date: Usamos para armazenar a data ou a hora atual;
+
+ObjectID: É o tipo que armazena o identificador do documento (ID);
+
+Binary Data: Usamos para armazenar um conjunto de dados binários;
+
+Regular Expression: Utilizado para expressões regulares, representadas por caracteres específicos 
+previsto em ordem alfabética;
+
+Code: Utilizado para armazenar códigos em JavaScript dentro do documento.
+
+Requisições assíncronas
+https://www.alura.com.br/artigos/node-funcoes-assincronas
+https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar
+https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/async_function
+https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous/Concepts
