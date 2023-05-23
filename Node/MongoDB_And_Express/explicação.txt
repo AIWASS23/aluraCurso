@@ -34,3 +34,9 @@ npm outdated |	      | Retorna a lista de dependências desatualizadas mostrando
 npm adduser	 |        | Adiciona um novo usuario no https://registry.npmjs.org para permitir a publicação de pacotes
 npm publish	 |        | Faz a publicação do pacote no NPM
 
+------------------------------------------------------------------------------------------
+
+https://www.alura.com.br/artigos/framework-o-que-e-pra-que-serve-essa-ferramenta
+https://expressjs.com/pt-br/starter/generator.html
+https://cursos.alura.com.br/extra/alura-mais/introducao-ao-postman-c182
+
