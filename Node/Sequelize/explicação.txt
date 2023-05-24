@@ -1,2 +1,16 @@
 https://cursos.alura.com.br/course/orm-nodejs-api-sequelize-mysql/task/115491
 https://cursos.alura.com.br/course/orm-nodejs-api-sequelize-mysql/task/115542
+
+--------------------------------------------------------------------------------
+
+https://sequelize.org/master/manual/model-querying-finders.html#-code-findorcreate--code-
+
+São constraints em SQL:
+
+NOT NULL - garante que não exista nenhum valor NULL na coluna;
+UNIQUE - Garante que não existam valores iguais em uma coluna;
+PRIMARY KEY - Identifica cada linha em uma tabela através de um valor único (junção de NOT NULL e UNIQUE);
+FOREIGN KEY - Identifica um valor único em outra tabela como chave;
+CHECK - Garante que todos os valores em uma coluna satisfazem uma condição específica;
+DEFAULT - Determina um valor padrão caso nenhum valor seja informado;
+INDEX - Para criar índices e facilitar o acesso a determinados conjuntos de dados.
