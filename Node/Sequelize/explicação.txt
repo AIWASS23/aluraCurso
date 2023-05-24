@@ -1,0 +1,2 @@
+https://cursos.alura.com.br/course/orm-nodejs-api-sequelize-mysql/task/115491
+https://cursos.alura.com.br/course/orm-nodejs-api-sequelize-mysql/task/115542
