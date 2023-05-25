@@ -1,0 +1,20 @@
+https://nodejs.org/en/
+https://www.alura.com.br/artigos/descomplicando-o-trabalho-com-node
+https://insomnia.rest/
+https://www.postman.com
+
+custo do bcrypt
+
+https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#work-factors
+https://pt.wikipedia.org/wiki/Ataque_de_negação_de_serviço
+https://github.com/cptwin/Password-Hashing-Algorithm-Benchmark-Tool-PHABT-/blob/master/Results/Xeon%20E3-1275-v3.csv
+https://auth0.com/blog/hashing-in-action-understanding-bcrypt/#L-code-bcrypt--code--Best-Practices
+https://web.dev/rail/?hl%3Den%23response_respond_in_under_100ms=
+https://pt.wikipedia.org/wiki/Prova_de_trabalho
+
+Não existe uma resposta definitiva para o custo ideal. Chegar nesse número depende de fatores como:
+
+capacidade de processamento da sua máquina;
+razão performance/segurança da sua aplicação;
+tráfego do seu site;
+capacidade computacional da época.
