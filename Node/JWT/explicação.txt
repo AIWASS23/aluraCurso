@@ -19,6 +19,8 @@ razão performance/segurança da sua aplicação;
 tráfego do seu site;
 capacidade computacional da época.
 
+---------------------------------------------------------------------------------------------------------
+
 Payload
 O payload é uma das 3 seções do JSON Web Token. Esse é um termo muito utilizado no mercado, sem uma 
 tradução literal muito boa. Num contexto de transporte de mercadoria, payload significa a carga que 
@@ -48,3 +50,39 @@ endereços URL. Essa codificação é, então, usada no processo de criação do
 Gerador de JWT
 
 https://jwt.io/
+
+-------------------------------------------------------------------------------------------------------------
+
+O método randomBytes() do módulo crypto para gerar a chave da assinatura dos tokens. Porém, apesar do 
+nome do método ser sugestivo, ele não gera bytes realmente aleatórios, mas sim, pseudo aleatórios 
+(como a própria documentação do método descreve). Um dado pseudo aleatório é previsível e reprodutível. 
+Como são gerados por algoritmos, se possuírem a mesma entrada alguém poderia usar esse mesmo algoritmo e 
+gerar o mesmo número. Por outro lado, um dado realmente aleatório é imprevisível, normalmente obtido de 
+ruídos atmosféricos ou de circuitos elétricos. O Khan Academy possui um vídeo bem didático e detalhado 
+sobre isso. Em geral, esses geradores de números pseudo aleatórios recebem uma entrada realmente 
+aleatória (chamada de seed), que fornece a segurança para o algoritmo. No caso do método randomBytes(), 
+a documentação afirma que os valores gerados são criptograficamente seguros e a entrada é coletada da 
+entropia do seu computador. Assim, os bytes gerados são suficientemente aleatórios na prática.
+
+https://nodejs.org/api/crypto.html#crypto_crypto_randombytes_size_callback
+https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
+https://pt.wikipedia.org/wiki/Entropia_%28computação%29
+
+As vezes o servidor que gera os tokens JWT é o mesmo que verifica eles, por isso nós usamos um algoritmo 
+simétrico de assinatura (HMAC + SHA256), que usa apenas uma chave secreta, para assinar o token. Esse é 
+um método mais fácil de implementar e muito mais rápido que outros métodos.
+
+https://pt.wikipedia.org/wiki/Algoritmo_de_chave_simétrica
+
+Entretanto, se você estiver numa situação com um servidor que gera os tokens e um ou mais servidores 
+diferentes que verificam os tokens, então é necessário utilizar um algoritmo assimétrico para 
+assinatura. Os mais comuns são o RS256 (assinatura do RSA + SHA256) e ES256 
+(assinatura do ECDSA + SHA256). Como escolher eles? Basicamente, o RSA é mais rápido mas o ECDSA 
+permite chaves menores, então é uma escolha que depende do seu caso. De qualquer forma, ambos os métodos 
+são bem mais lentos e complexos que o HMAC.
+
+https://pt.wikipedia.org/wiki/Criptografia_de_chave_pública
+https://pt.wikipedia.org/wiki/RSA_%28sistema_criptográfico%29
+https://pt.wikipedia.org/wiki/ECDSA#:~:text=Em%20criptografia%2C%20o%20Elliptic%20Curve,usa%20criptografia%20de%20curva%20elíptica.
+https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html
+
