@@ -86,3 +86,14 @@ https://pt.wikipedia.org/wiki/RSA_%28sistema_criptográfico%29
 https://pt.wikipedia.org/wiki/ECDSA#:~:text=Em%20criptografia%2C%20o%20Elliptic%20Curve,usa%20criptografia%20de%20curva%20elíptica.
 https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html
 
+-----------------------------------------------------------------------------------------------------
+
+Após a configuração de uma estratégia de autenticação para tokens e o tratamento de erros da aplicação, 
+uma pessoa poderia pensar em modificar manualmente o payload e criar uma função de verificação para 
+implementar a funcionalidade de expiração de tokens. 
+
+https://www.npmjs.com/package/jsonwebtoken
+
+Redis
+
+http://redis.io/download
