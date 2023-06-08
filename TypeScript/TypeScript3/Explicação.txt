@@ -1,0 +1,39 @@
+Tipos de dados: 
+O TypeScript introduz tipos de dados estáticos, como strings, números, booleanos, 
+arrays e objetos. Os tipos de dados ajudam a capturar erros e fornecem informações sobre 
+a forma como os dados são usados em um programa.
+
+Declaração de variáveis: 
+O TypeScript permite declarar variáveis usando palavras-chave como let e const, assim 
+como o JavaScript. No entanto, ele também permite especificar o tipo de dados esperado 
+para uma variável.
+
+Anotações de tipo: 
+O TypeScript permite adicionar anotações de tipo às variáveis, parâmetros de função e 
+valores de retorno. Isso fornece informações sobre os tipos de dados esperados em 
+diferentes partes do código.
+
+Interfaces: 
+As interfaces no TypeScript definem a forma esperada de um objeto, especificando quais 
+propriedades e métodos devem estar presentes. Elas ajudam a garantir que um objeto siga 
+uma estrutura específica.
+
+Classes: 
+O TypeScript suporta a orientação a objetos com a definição de classes. As classes 
+permitem criar objetos que têm propriedades e métodos, além de fornecer suporte para 
+herança e encapsulamento.
+
+Módulos e importações: 
+O TypeScript oferece suporte a módulos, permitindo que você organize seu código em 
+arquivos separados e os importe para uso em outros arquivos. Isso ajuda a modularizar e 
+organizar projetos maiores.
+
+Tipos genéricos: 
+O TypeScript possui recursos de programação genérica que permitem criar funções e 
+classes que podem trabalhar com vários tipos de dados, sem perder o controle de tipos.
+
+Decorators: 
+Decorators são uma funcionalidade do TypeScript que permite adicionar metadados e 
+comportamentos adicionais a classes, métodos, propriedades e parâmetros de função. Eles 
+são usados principalmente em frameworks como o Angular para adicionar funcionalidades 
+extras.
