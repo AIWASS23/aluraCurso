@@ -1,0 +1,31 @@
+Visual Studio Code: 
+É um editor de código altamente popular e amplamente utilizado para desenvolvimento 
+TypeScript. Ele possui recursos avançados, como realce de sintaxe, autocompletar, 
+depuração integrada e suporte a extensões que facilitam o desenvolvimento em TypeScript.
+
+Node.js: 
+É uma plataforma de tempo de execução JavaScript construída sobre o motor V8 do Google 
+Chrome. O Node.js permite executar código JavaScript fora do navegador e é 
+frequentemente usado no desenvolvimento de aplicativos web e servidores. No curso, é 
+necessário instalar o Node.js para configurar o ambiente de desenvolvimento TypeScript.
+
+TypeScript Compiler (tsc): É o compilador oficial do TypeScript. Ele converte o código 
+TypeScript em JavaScript que pode ser executado nos navegadores ou no Node.js. Durante 
+o curso, os alunos aprendem a usar o tsc para transpilar seu código TypeScript em 
+JavaScript.
+
+npm (Node Package Manager): 
+É um gerenciador de pacotes para o ecossistema Node.js. O npm permite instalar e 
+gerenciar dependências de projetos TypeScript. No curso, os alunos aprendem a usar o 
+npm para instalar pacotes TypeScript, como o TypeScript em si, bem como outras 
+bibliotecas e ferramentas úteis.
+
+tsconfig.json: 
+É um arquivo de configuração usado pelo TypeScript para definir as opções de compilação 
+e configurações específicas do projeto. No curso, os alunos aprendem a configurar e 
+personalizar o arquivo tsconfig.json para atender às necessidades de seus projetos.
+
+Live Server: 
+É uma extensão do Visual Studio Code que permite iniciar um servidor de desenvolvimento 
+local e visualizar o aplicativo web em tempo real. Os alunos usam o Live Server para 
+executar e testar seus projetos TypeScript durante o desenvolvimento.
