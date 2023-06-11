@@ -28,3 +28,61 @@ $ é uma âncora que seleciona o fim do alvo.
 
 ---------------------------------------------------------------------------------------------
 
+http://www.goulart.pro.br/cbasico/Calculo_dv.htm
+http://www.cjdinfo.com.br/utilitario-calculo-digito-modulo-11
+
+Regex Email
+
+A regex usa âncoras no início ^ e fim $ para garantir o match inteiro;
+
+Antes do @, temos: 
+^([\w-]\.?)+
+
+Definimos uma classe com word-chars e hífen, seguido por um ponto opcional: 
+[\w-]\.?
+
+Dessa classe pode se repetir uma ou mais vezes, então criamos um grupo e + ao final: 
+([\w-]\.?)+
+
+Depois do @, temos:
+- ([\w-]+\.)+, que é bastante parecido com o anterior ao @, porém com o . obrigatório,
+- ([A-Za-z]{2,4})+$, 
+
+que é o final da nossa regex, seleciona o domínio do email, como br, com, us. 
+O mínimo de letras dessa parte final devem ser 2 e no máximo 4.
+
+Regex Endereço
+
+A dica para a criação de regex é sempre ir passo-a-passo. Por isso, vamos analisar o seguinte padrão, sempre lembrando de agrupar e de adicionar o pipe ao final:
+Nome|data/de/nascimento|Rua onde mora|numero|cep|Cidade
+
+Nome era necessário capturar, então iremos criar um grupo:
+([\w\s]+)\|
+
+Data de nascimento não era necessário, por isso, deixaremos esse grupo como non-capturing group:
+(?:\d\d\/\d\d\/\d\d\d\d)\|
+
+Rua Onde Mora é necessário capturar, e por isso, criamos um grupo normal: 
+([\w\s]+)\|
+
+Número é necessário capturar, portanto:
+(\d{1,4})\|
+
+CEP é necessário capturar, e podemos criar um grupo dessa maneira: 
+(\d{5}-\d{3})\|
+
+Cidade é a nossa última análise, e não é necessária. Portanto, basta adicionarmos ?: 
+para deixar o seu grupo não-capturável: (?:[\w\s]{10,})
+
+Resultado: 
+^([\w\s]+)\|(?:\d\d\/\d\d\/\d\d\d\d)\|([\w\s]+)\|(\d{1,4})\|(\d{5}-\d{3})\|(?:[\w\s]{10,})$
+
+Declaramos um grupo com ().
+Podemos ter grupos e subgrupos.
+Grupos são retornados na hora de executar, e são úteis para selecionar uma parte do match.
+Através do ?:, dizemos que não queremos ver esse grupo na resposta.
+
+------------------------------------------------------------------------------------------------
+
+
+
