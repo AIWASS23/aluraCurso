@@ -101,3 +101,142 @@ JSX que precisamos para criar o componente!
 
 ----------------------------------------------------------------------------------------------------
 
+Com essa estrutura de arquivos:
+components/
+  botao/
+    index.tsx
+   Botao.module.scss
+
+Com o CSS Modules já configurado na aplicação, conseguimos importar e utilizar o CSS Modules no 
+arquivo index.tsx, sabendo que dentro de Botao.module.scss existe uma classe botao com o codigo:
+
+import style from './Botao.module.scss';
+
+<button className={style.botao}> … </button>
+
+Podemos importar o CSS Modules de várias formas diferentes. Ou que podemos utilizar vários módulos no 
+mesmo componente. O CSS Modules é bem mais complexo e interessante do que imaginamos e, se irmos bem a 
+fundo nessa tecnologia, podemos deixar o nosso código bem mais interessante.
+
+O CSS Modules nos dá o CSS em formato object e os exporta como default, logo, podemos importar das seguintes 
+formas:
+
+import style from './NomeDoComponente.module.scss';
+
+import * as style from './NomeDoComponente.module.scss';
+
+import { default as style } from './NomeDoComponente.module.scss';
+
+Ainda seguindo em como importar um CSS Module, como ele é um export default, podemos nomeá-lo da 
+forma como bem entendermos, por exemplo:
+
+import Foo from './NomeDoComponente.module.scss';
+
+import Bar from './NomeDoComponente.module.scss';
+
+import Banana from './NomeDoComponente.module.scss'
+
+Como agora sabemos que podemos nomear o objeto de formas diferentes, podemos também importar vários 
+CSS Modules em um só componente!
+
+import BotaoStyle from './Botao.module.scss';
+import ItemStyle from './Item.module.scss';
+
+OBS: Todas essas formas citadas acima não são específicas de como importar um CSS Modules, 
+e sim de como importar um export default em JS.
+
+https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/
+
+Transformando CSS em CSS Modules
+
+Para transformar o arquivo src/components/Botao/style.scss em CSS Modules trocando o nome do arquivo .scss 
+para o nome do componente, instalando o plugin typescript-plugin-css-modules como dependência de 
+desenvolvimento e configurando o plugin dentro do arquivo tsconfig.json e importando a classe dentro do 
+arquivo de forma correta dentro de src/components/Botao/index.tsx.
+
+Dentro do terminal:
+npm install -D typescript-plugin-css-modules
+
+Dentro de tsconfig.json:
+
+{
+  "compilerOptions": {
+     …
+    "plugins": [{ "name": "typescript-plugin-css-modules" }]
+  }
+}
+
+Mudar o arquivo src/components/Botao/style.scss para src/components/button/Botao.module.scss
+
+Dentro do arquivo src/components/Botao/index.tsx:
+
+import React from 'react';
+import style from './Botao.module.scss;
+
+class Botao extends React.Component {
+  render() {
+    return (
+      <button className={style.botao}>
+        Botão
+      </button>
+    )
+  }
+}
+
+export default Botao;
+
+Com o CSS Modules, a classe que seria apenas botao, será {nomeDoArquivoCSS}_{nomeDaClasseCSS}__{hashAleatoria}. 
+É por isso que mudamos nosso arquivo de style.scss para Botao.module.scss, pois isso faz ficar mais evidente 
+na hora da classe que essa classe vem do componente Botao, fazendo a própria classe ser auto documentada, 
+pois sabemos que é a classe botao vindo do componente Botao.
+
+-------------------------------------------------------------------------------------------------------------
+
+Adicionando Props para o Botão
+
+
+Troque o texto padrão do componenteBotão dentro de src/components/Botao/index.tsx por um 
+prop children que terá o texto a ser exibido no componente.
+
+Dentro de src/components/Botao/index.tsx:
+
+import React from 'react';
+import style from './Botao.module.scss';
+
+class Botao extends React.Component {
+  render() {
+    return (
+      <button clasName={style.botao}>
+        {this.props.children}
+      </button>
+    )
+  }
+}
+
+export default Botao;
+
+Dessa forma, podemos utilizar o componente Botao de forma bem parecida como utilizamos uma tag nativa HTML:
+
+<Botao>
+  Meu botão!
+</Botao>
+
+O React disponibiliza essa prop especial children por padrão para que possamos utilizar o componente dessa 
+forma!
+
+Sobre Keys (Chaves no React)
+
+Lembra que os componentes React são criados utilizando JSX não HTML? Então, usando o mesmo processo, 
+o React não cria um DOM, e sim um VDOM (Virtual DOM). Não entraremos em detalhes neste curso sobre Virtual DOM, 
+porém saiba que o React cria um DOM virtual em memória e só atualiza o DOM real quando algo dentro desse 
+Virtual DOM realmente é atualizado. Levando isso em consideração, como o React saberia qual seria a cópia no 
+Virtual DOM do item 45 em um array de 50 itens, por exemplo? Ou pior, se o item 47 for removido, como ele 
+vai saber que o item 48, 49 e 50 não foram atualizados? E os outros? Para isso o React utiliza a propriedade 
+key, que nada mais é que uma chave(AHÁ!) para linkar o item no Virtual DOM no DOM real, por isso não vemos a 
+prop sendo passada para o componente Item, pois essa prop é algo interno no React que não tem utilidade para 
+nós. Por isso também não é recomendado que se utilize o index do array como key, pois caso o array mude, 
+a possibilidade de vários itens desse array serem atualizados sem necessidade é imensa!
+
+https://pt-br.reactjs.org/docs/lists-and-keys.html#keys
+
+
