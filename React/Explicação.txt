@@ -239,4 +239,9 @@ a possibilidade de v√°rios itens desse array serem atualizados sem necessidade √
 
 https://pt-br.reactjs.org/docs/lists-and-keys.html#keys
 
+--------------------------------------------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=ZZoB5frlcnE
+https://www.reactivemanifesto.org/pt-BR
+
 
