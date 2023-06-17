@@ -428,4 +428,41 @@ setCurso({
 
 ---------------------------------------------------------------------------------------------------------
 
+Utilizando useEffect no cronômetro:
 
+Dentro de src/components/Cronometro/index.tsx
+…
+export default function Cronometro({ selecionado}: Props) {
+  …
+  useEffect(() => {
+    if(selecionado?.tempo) {
+      setTempo(tempoParaSegundos(selecionado.tempo));
+    }
+  },[selecionado])
+  return (
+    …
+  )
+}
+
+Só nesse pedaço de código temos várias coisas interessantes para comentar, primeiramente o useEffect se 
+comporta como um observable, que é um conceito bem usado por nós desenvolvedores javascript e mal nos damos 
+conta, como por exemplo dentro de fetch ou dentro de eventListeners, todos eles "observam" alguma mudança 
+para fazer alguma coisa. No caso do fetch ele espera a resposta da chamada e no caso do eventListener, o 
+evento em si ocorrer. O useEffect consegue juntar a ideia de Observables com o ciclo de vida do componente 
+(que será explicado mais a fundo no para saber mais no próximo tópico), que é executado uma vez, assim que 
+o componente aparece na tela (primeira renderização obrigatória) e depois sempre que alguma variável que 
+estiver dentro do array de dependências, no nosso caso, o selecionado. Outra coisa interessante também é esse 
+if: if(selecionado?.tempo). Isso pode ser lido como "se selecionado existir e selecionado.tempo existir".
+Essa maravilha do Javascript moderno tem o nome de optional chaining, ou encadeamento opcional, que te 
+permite verificar um encadeamento para não haver problemas de tempo of null, no caso de selecionado ser null.
+
+Ciclo de vida de um componente:
+
+Em geral um componente tem um ciclo de vida assim:
+
+componentWillMount (antes de ser montado)
+componentDidMount (acabou de ser montado)
+componentWillUpdate (componente vai ser atualizado)
+componentWillUnmount (componente vai ser desmontado)
+
+https://pt-br.reactjs.org/docs/react-component.html
