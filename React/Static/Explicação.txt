@@ -1,0 +1,23 @@
+Create React App (CRA) é uma biblioteca que cria a estrutura inicial de um projeto React com base nos padrões 
+comuns adotados pela comunidade, incluindo ferramentas como testes. Entretanto, há várias maneiras de 
+estruturar projetos com React dependendo das necessidades e preferências de quem está usando a ferramenta. 
+Para isso o CRA oferece templates, que são variações do projeto padrão.
+
+O CRA possui dois templates por padrão:
+
+cra-template que é o comum, usado quando nenhum template é definido;
+cra-template-typescript que possui todas as características do template acima junto de configurações 
+necessárias para usar TypeScript no projeto.
+
+Como qualquer um pode criar seu template, é possível criar vários projetos personalizados com React, pois 
+templates podem ser disponibilizados como pacotes do npm.
+
+Dessa forma, pesquisando por cra-template-* no site do npm podemos encontrar vários templates criados pela 
+comunidade. O padrão adotado é sempre cra-template- seguido do nome do template.
+
+https://create-react-app.dev/
+https://create-react-app.dev/docs/custom-templates/
+https://github.com/facebook/create-react-app/tree/main/packages/cra-template
+https://github.com/facebook/create-react-app/tree/main/packages/cra-template-typescript
+https://www.npmjs.com/search?q=cra-template-*
+
