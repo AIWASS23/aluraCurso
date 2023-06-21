@@ -21,3 +21,6 @@ https://github.com/facebook/create-react-app/tree/main/packages/cra-template
 https://github.com/facebook/create-react-app/tree/main/packages/cra-template-typescript
 https://www.npmjs.com/search?q=cra-template-*
 
+----------------------------------------------------------------------------------------------------
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Working_with_Objects#objetos_e_propriedades
