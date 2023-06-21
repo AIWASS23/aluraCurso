@@ -24,3 +24,4 @@ https://www.npmjs.com/search?q=cra-template-*
 ----------------------------------------------------------------------------------------------------
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Working_with_Objects#objetos_e_propriedades
+https://github.com/JedWatson/classnames
