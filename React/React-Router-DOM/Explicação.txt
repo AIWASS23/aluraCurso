@@ -10,3 +10,8 @@ padrões / encontrar bugs.
 
 O ESLint é uma ferramenta que analisa o código e aponta quaisquer problemas que encontrar. Ele pode encontrar 
 bugs, áreas potencialmente problemáticas, estilos de codificação ruins e questões de estilo.
+
+-------------------------------------------------------------------------------------------------------------
+
+https://v5.reactrouter.com/web/api/Switch
+https://github.com/alura-cursos/aluroni-router/commit/6b3728a38ea73daa0e3ddf77d6d0303871f7483a
