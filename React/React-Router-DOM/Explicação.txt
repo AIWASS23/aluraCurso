@@ -1,0 +1,12 @@
+ESLint é uma junção de 2 palavras, ES (abreviação de EcmaScript) e Lint (Fiapo em inglês).
+
+EcmaScript é a linguagem de programação que inspirou o Javascript, então é a “forma genérica” do Javascript. 
+Outras linguagens baseadas em EcmaScript são o ActionScript (que tem como uma das implementação o falecido 
+Flash) e o JScript.
+
+Lint é um termo que foi popularizado de um utilitário Unix para examinar o código fonte da linguagem C. A 
+partir daí o Lint começou a ser criado sempre como uma ferramenta para analisar códigos e estabelecer 
+padrões / encontrar bugs.
+
+O ESLint é uma ferramenta que analisa o código e aponta quaisquer problemas que encontrar. Ele pode encontrar 
+bugs, áreas potencialmente problemáticas, estilos de codificação ruins e questões de estilo.
