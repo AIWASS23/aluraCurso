@@ -5,3 +5,14 @@ https://www.alura.com.br/artigos/rest-conceito-e-fundamentos?_gl=1*g3t6ff*_ga*MT
 
 https://mui.com/
 https://mui.com/components/
+
+=======================================================================================
+
+https://www.alura.com.br/artigos/rest-principios-e-boas-praticas?_gl=1*lu96ch*_ga*MTc5MDYxNjI1NC4xNjc0MzI0MTQ5*_ga_59FP0KYKSM*MTY4Nzk1NTkyMS43Ni4xLjE2ODc5NTczMTIuMzIuMC4w*_fplc*bkswdVFJRGNMb0NGUzVhb0U0dEN2ZTVZZmdNMEZ3MEpFd0NlbGtjYmpJUGNXOFhBS2xvZTclMkZ6bFVYcHNTNlN2TDFKS29jOW1ZSjk5ZE1mVXVkRlpibU5oMmElMkJwUkxBbEphTFk4MW1RSlV2aXYwaVFjNTdqTWhsN2k4NVZMZyUzRCUzRA..
+https://cursos.alura.com.br/course/swagger-documentando-apis
+
+LISTAR (GET)
+DETALHES (GET por id)
+CADASTRAR (POST)
+EDITAR (PUT)
+DELETAR (DELETE)
