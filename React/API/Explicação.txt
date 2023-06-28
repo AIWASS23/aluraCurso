@@ -57,3 +57,5 @@ Status de cada requisição:
 3xx para redirecionamento
 4xx para erros de cliente
 5xx para demais erros
+
+===================================================================================================
