@@ -16,3 +16,44 @@ DETALHES (GET por id)
 CADASTRAR (POST)
 EDITAR (PUT)
 DELETAR (DELETE)
+
+=====================================================================================================
+
+Componentes no MUI
+
+Tipografia:
+
+A tipografia apresenta o seu conteúdo da forma mais clara e eficiente possível.
+https://mui.com/components/typography/
+
+Links:
+
+O componente Link nos permite personalizar elementos de âncora (tags a). E até mesmo podemos utilizar em 
+conjunto com o do react-router-dom.
+https://mui.com/pt/components/links/
+
+Paper:
+
+Nesse componente do Material Design, as propriedades físicas de um papel são traduzidas para a tela.
+https://mui.com/components/paper/
+
+Container:
+
+É o elemento de layout mais básico, que centraliza seu conteúdo horizontalmente.
+https://mui.com/components/container/
+
+Box:
+
+O componente Box serve como um componente encapsulador (wrapper) para auxiliar na maioria das necessidades 
+de uso com CSS.
+https://mui.com/components/box/
+
+Códigos HTTP
+
+Status de cada requisição:
+
+1xx para informação
+2xx para sucesso
+3xx para redirecionamento
+4xx para erros de cliente
+5xx para demais erros
