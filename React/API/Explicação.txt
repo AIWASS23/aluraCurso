@@ -1,0 +1,3 @@
+https://github.com/axios/axios
+https://www.alura.com.br/artigos/rest-conceito-e-fundamentos?_gl=1*g3t6ff*_ga*MTc5MDYxNjI1NC4xNjc0MzI0MTQ5*_ga_59FP0KYKSM*MTY4Nzk1MjA3MC43NS4xLjE2ODc5NTI5ODMuMTcuMC4w*_fplc*bkswdVFJRGNMb0NGUzVhb0U0dEN2ZTVZZmdNMEZ3MEpFd0NlbGtjYmpJUGNXOFhBS2xvZTclMkZ6bFVYcHNTNlN2TDFKS29jOW1ZSjk5ZE1mVXVkRlpibU5oMmElMkJwUkxBbEphTFk4MW1RSlV2aXYwaVFjNTdqTWhsN2k4NVZMZyUzRCUzRA..
+
