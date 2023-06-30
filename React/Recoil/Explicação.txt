@@ -1,0 +1,33 @@
+Prop drilling, em tradução livre, significa "vazamento de props", e acontece quando você passa uma ou 
+mais props, do pai para o filho, o filho passa para o filho dele, e assim por diante. Lidar com esse 
+prop drilling pode ser desafiador, pois em pouco tempo fica difícil para qualquer pessoa descobrir 
+onde os dados são inicializados, atualizados e usados de fato. Porém, temos excelentes alternativas 
+para não sofrer com isso, utilizando bibliotecas que gerenciam o estado:
+
+Recoil
+Context API
+
+Hooks são ótimos, pois nos ajudam a reaproveitar código e a simplificar componentes.  Então, lembre-se 
+sempre das regras dos hooks:
+
+Apenas chame Hooks no nível mais alto. Não chame Hooks dentro de loops (for, foreach, while), condições
+(if, else if) ou funções aninhadas (por exemplo, numa função que é executada dado um evento de onClick).
+
+Apenas chame Hooks a partir de componentes funcionais. Não chame Hooks a partir de funções comuns, 
+fora de componentes React.
+https://pt-br.reactjs.org/docs/hooks-rules.html
+
+Analisar e entender código que outras pessoas desenvolveram. O dia a dia de pessoas desenvolvedoras 
+requer muita leitura de código, e não somente escrever coisas novas.
+
+Criar atoms:
+Átomos são as porções que compõem o estado compartilhado do recoil.
+
+Acessar atoms:
+Nós utilizamos o hook useRecoilValue para ter acesso à lista de eventos.
+
+Modificar atoms:
+Nós utilizamos o hook useSetRecoilState para adicionar novos itens à lista de eventos.
+
+_______________________________________________________________________________________________________
+
