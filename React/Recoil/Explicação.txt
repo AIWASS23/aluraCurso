@@ -31,3 +31,28 @@ Nós utilizamos o hook useSetRecoilState para adicionar novos itens à lista de 
 
 _______________________________________________________________________________________________________
 
+DRY, acrônimo para “não se repita”. Esses termos normalmente são relacionados ao backend, mas também 
+são muito importantes na arquitetura dos projetos de frontend. Um bom embasamento de orientação a 
+objetos, padrões de projetos e boas práticas vai te ajudar no dia a dia da profissão.
+
+https://www.alura.com.br/artigos/o-que-e-clean-code?_gl=1*1x2zv0m*_ga*MTc5MDYxNjI1NC4xNjc0MzI0MTQ5*_ga_59FP0KYKSM*MTY4ODE0NjQ5MC43Ny4xLjE2ODgxNDkyNTAuMC4wLjA.*_fplc*YTZ5cU5HSExSOW81NGhQUkVjSmRIam5tbk56S01NSDNTM2R0YUdEMSUyRkdLYyUyQk85aTFsMXZmYXA1aWJiWUFwQWM0VWhGNWlRNGVJS2ZpJTJCbnFSM3RlNUpnSEFOMTBtVTZnOXF3N1o1alNwbHo0NkhhSXVKd0R6R0VjMVBFR2pBJTNEJTNE
+
+Remover eventos do estado:
+
+Existem várias formas de operar listas, e nós removemos utilizando o método filter. Se quiser se 
+aprofundar mais nesses tipos de algoritmos, vale a pena conhecer os seguintes métodos:
+
+indexOf: para obter um determinado índice de um elemento num array.
+
+slice: para obter, a partir de um índice ou intervalo, uma quantidade N de elementos.
+
+Atualizar um evento específico:
+Vimos que a lista que recebemos é imutável, mas podemos definir uma nova lista reposicionando o 
+evento alterado.
+
+Hook customizado
+Criamos um hook reaproveitável e responsável por atualizar um evento, inclusive encapsulando o recoil.
+
+----------------------------------------------------------------------------------------------------------
+
+
