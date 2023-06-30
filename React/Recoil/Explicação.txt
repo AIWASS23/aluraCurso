@@ -55,4 +55,16 @@ Criamos um hook reaproveitável e responsável por atualizar um evento, inclusiv
 
 ----------------------------------------------------------------------------------------------------------
 
+Diminuir o acoplamento da aplicação:
+
+Ao extrair a comunicação com o recoil em hooks, estamos desacoplados da lib em si. Se trocarmos por 
+qualquer outra solução, estaremos prontos. Só precisamos alterar os hooks, e não os componentes.
+
+Aumentar a coesão:
+
+Ao remover a responsabilidade de alterar o estado para os hooks, nossos componentes ficam mais coesos 
+e não precisam se preocupar com as implementações relacionadas a manipular o estado.
+
+--------------------------------------------------------------------------------------------------------
+
 
