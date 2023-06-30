@@ -67,4 +67,15 @@ e não precisam se preocupar com as implementações relacionadas a manipular o 
 
 --------------------------------------------------------------------------------------------------------
 
+Derivar estados com seletores:
+
+Mantendo assim a responsabilidade bem definida para cada parte do sistema.
+
+Adicionar funcionalidades de forma incremental:
+
+Primeiro, colocamos o filtro para funcionar. Na sequência, melhoramos a implementação e extraímos a 
+lógica.
+
+-----------------------------------------------------------------------------------------------
+
 
