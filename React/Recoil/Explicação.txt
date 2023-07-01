@@ -78,4 +78,22 @@ lógica.
 
 -----------------------------------------------------------------------------------------------
 
+https://github.com/typicode/json-server#getting-started
+
+Em alguns cenários, precisamos desenvolver o front-end em paralelo com o back-end, então, faz-se 
+necessário “dublar” as interfaces que serão disponibilizadas. Essa é exatamente a premissa do 
+json-server, pois ele consegue emular, e muito bem, o funcionamento de APIs REST.
+
+https://www.alura.com.br/artigos/mockando-apis-rest-com-json-server?_gl=1*1ce9c5i*_ga*MTc5MDYxNjI1NC4xNjc0MzI0MTQ5*_ga_59FP0KYKSM*MTY4ODE0NjQ5MC43Ny4xLjE2ODgxNTEyOTcuMC4wLjA.*_fplc*YTZ5cU5HSExSOW81NGhQUkVjSmRIam5tbk56S01NSDNTM2R0YUdEMSUyRkdLYyUyQk85aTFsMXZmYXA1aWJiWUFwQWM0VWhGNWlRNGVJS2ZpJTJCbnFSM3RlNUpnSEFOMTBtVTZnOXF3N1o1alNwbHo0NkhhSXVKd0R6R0VjMVBFR2pBJTNEJTNE
+
+Criar seletores assíncronos
+Integrando assim o recoil com uma API REST.
+
+Definir um valor inicial dinâmico para o átomo
+Ao definir o seletor async como valor padrão para o átomo, todos os eventos iniciais passam a vir da API.
+
+Criar uma ferramenta de depuração
+Agora fica mais simples de entender as mudanças no estado, uma vez que implementamos um componente 
+que faz log cada vez que o estado é manipulado.
+
 

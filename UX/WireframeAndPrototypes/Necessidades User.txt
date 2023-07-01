@@ -1,0 +1,18 @@
+Os mapas de empatia exploram as quatro principais motivações dos usuários: o que o usuário diz, pensa, 
+faz e sente. Os insights coletados dos mapas de empatia ajudam você a ter ideias de soluções que 
+abordam os problemas reais do usuário.
+
+Personas colocam os usuários para os quais você está projetando na frente e no centro. Ao criar perfis 
+de usuário detalhados, você pode visualizar claramente os usuários em potencial para os quais você 
+criaria.
+
+As histórias do usuário determinam quais necessidades do usuário são as mais críticas para atender aos 
+seus designs. Essa direção ajudará a focar sua ideação.
+
+As jornadas do usuário ajudam você a ter ideias para designs que realmente atendem às necessidades dos 
+usuários e resolvem seus problemas.
+
+Uma declaração de problema é uma descrição clara da necessidade do usuário que deve ser abordada. 
+A declaração do problema que você criou no último curso guiará o foco de sua ideação.
+
+https://www.nngroup.com/articles/ux-ideation/

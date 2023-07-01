@@ -1,0 +1,46 @@
+Projetar um produto eficiente requer um entendimento completo dos usuários e de suas necessidades. 
+Há muito que você pode fazer com conhecimento sobre as pessoas para quem está projetando. Você pode 
+até prever as necessidades dos usuários antes que eles saibam o que querem ou precisam!
+
+Como designer de UX, você pode antecipar as necessidades do usuário ao interagir com seu produto. Uma 
+maneira clara e simples de delinear esse processo é criando um fluxo de usuário. Um fluxo de usuário é 
+o caminho percorrido por um usuário típico em um aplicativo ou site, para que ele possa concluir uma 
+tarefa do início ao fim.
+
+Os designers de UX geralmente descrevem o fluxo do usuário antes de começar a projetar, porque pode 
+ajudar a imaginar como os usuários se moverão pelo aplicativo ou site. Em outras palavras, antes de 
+projetar as telas de um aplicativo, você precisa entender como os usuários podem se mover efetivamente 
+pelo aplicativo em geral. Você precisa determinar:
+
+- Quais ações os usuários realizarão no aplicativo?
+- Que decisões os usuários tomarão?
+- Quais telas os usuários experimentarão depois de agir ou tomar uma decisão?
+Desenhe um fluxo de usuário
+
+Os designers de UX geralmente descrevem os fluxos do usuário com formas comuns: 
+círculos, retângulos, losangos e linhas com setas. 
+Cada forma representa uma interação que o usuário terá com o produto que você está projetando. 
+Atribuir uma forma diferente a cada interação torna o fluxo do usuário claro para qualquer pessoa da 
+equipe envolvida na criação do produto.
+
+Ação: 
+As ações que os usuários executam ao percorrer o design de um produto são representadas como círculos. 
+Em outras palavras, os círculos mostram as etapas que devem ser seguidas para concluir uma tarefa do 
+início ao fim. Para o fluxo do usuário de um aplicativo de passeador de cães, as ações podem incluir 
+abrir o aplicativo, clicar no perfil de um passeador de cães e agendar um passeador de cães.
+
+Tela: 
+As telas de um produto digital que os usuários experimentarão ao concluir tarefas são representadas 
+como retângulos. Para o fluxo do usuário de um aplicativo passeador de cães, as telas podem incluir 
+uma página inicial ou uma página de confirmação de reserva.
+
+Decisão: 
+Os diamantes representam pontos no fluxo do usuário onde os usuários devem fazer uma pergunta e tomar 
+uma decisão. A decisão que os usuários tomam os moverá para frente no fluxo ou de volta para uma parte 
+anterior do fluxo. Para o fluxo do usuário de um aplicativo de passeador de cães, uma decisão pode ser 
+a escolha de contratar ou não o passeador de cães cujo perfil está sendo revisado.
+
+Direção do fluxo do usuário: 
+As linhas com setas unem tudo e exibem o fluxo de informações. As linhas sólidas indicam a direção para
+frente no fluxo do usuário e as linhas pontilhadas indicam a direção para trás ou o retorno a uma 
+página anterior.

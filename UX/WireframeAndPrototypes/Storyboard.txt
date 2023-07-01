@@ -1,0 +1,30 @@
+No design UX, um storyboard é uma série de painéis ou quadros que descrevem e exploram visualmente a 
+experiência do usuário com um produto. Contar uma história por meio de recursos visuais geralmente é mais 
+eficaz do que usar palavras.
+
+Um produto real pode ter muitas telas, mas seu storyboard deve se concentrar apenas nas partes mais 
+importantes da experiência do usuário com um produto. Como o próprio nome sugere, há uma história que deve 
+ser contada através dos painéis de um storyboard. Os quatro elementos principais de um storyboard são:
+
+Personagem: 
+Declara o usuário no storyboard.
+
+Cena: 
+Dá aos designers uma maneira de imaginar o ambiente do usuário.
+
+Trama: 
+Descreve a solução ou benefício oferecido pelo projeto.
+
+Narrativa: 
+Descreve o problema que o usuário está enfrentando e como o design resolverá esse problema.
+
+Existem dois tipos comuns de storyboards no design UX, ambos incorporando esses quatro elementos principais:
+
+Big-picture storyboards:
+Concentram-se no que o usuário precisa, seu contexto e por que o produto será útil para o usuário. Os 
+storyboards de grande porte são frequentemente usados no início do processo de design, quando os designers 
+estão tentando fazer com que as partes interessadas apoiem suas ideias.
+
+Close-up storyboards:
+Concentram-se no produto e em como ele funciona. Eles são melhor usados no meio para o final do processo 
+de design.
