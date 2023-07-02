@@ -1,0 +1,56 @@
+Como designer de UX, as informações que seu design apresenta precisam ser claramente organizadas e 
+classificadas, para que os usuários possam experimentar e interagir com sucesso com o aplicativo ou site. 
+Esse processo de organização da informação é chamado de arquitetura da informação. Pense na arquitetura da 
+informação como um mapa para o seu produto.
+
+A arquitetura da informação é composta por três partes:
+
+Organização: 
+A organização é como diferentes informações se conectam em um produto.
+
+Hierarquia: 
+A hierarquia geralmente é chamada de “estrutura de árvore” e é onde uma categoria maior é colocada no 
+topo e as categorias específicas relacionadas à categoria geral são colocadas abaixo. As informações dos 
+pares são colocadas lado a lado (ou no mesmo nível).
+
+Sequência: 
+A sequência permite que os usuários percorram um aplicativo por meio de determinadas ordens ou etapas.
+
+Principios Básicos
+
+Oito princípios básicos
+
+Princípio do objeto: 
+Você deve ver seu conteúdo como “vivo” e como algo que muda e cresce com o tempo.
+
+Princípio da escolha: 
+As pessoas pensam que querem ter muitas opções, mas na verdade precisam de menos opções bem organizadas.
+
+Princípio da divulgação: 
+A informação não deve ser inesperada ou desnecessária.
+
+Princípio exemplar: 
+Os seres humanos colocam as coisas em categorias e agrupam diferentes conceitos.
+
+Princípio da porta da frente: 
+As pessoas geralmente chegam a uma página inicial de outro site.
+
+Princípio de classificação múltipla: 
+As pessoas têm diferentes maneiras de buscar informações.
+
+Princípio de navegação focada: 
+Deve haver uma estratégia e lógica por trás da forma como os menus de navegação são projetados.
+
+Princípio de crescimento: 
+A quantidade de conteúdo em um design aumentará com o tempo.
+
+https://medium.com/@hollabit/the-eight-principles-of-information-architecture-6feff11f907a
+https://medium.com/tenrocket/web-and-mobile-app-sitemap-643b60b0343e
+https://applikeysolutions.com/blog/designing-the-information-architecture-ia-of-mobile-apps
+https://medium.com/design-ibm/accessibility-guidelines-for-information-architecture-ux-design-and-visual-design-5ae33ed1d52d
+https://people4research.medium.com/world-ia-day-2019-accessibility-tips-for-information-architects-79bd187191a4
+https://www.justinmind.com/blog/information-architecture-ux-guide/
+https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
+https://xd.adobe.com/ideas/process/information-architecture/information-ux-architect/
+https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/
+https://xd.adobe.com/ideas/process/information-architecture/information-architecture-examples/
