@@ -54,5 +54,14 @@ levar a falsos positivos. Portanto, é fundamental utilizar o teste de snapshot 
 complementar aos outros métodos de teste e considerar suas limitações e necessidades específicas de cada 
 projeto.
 
+-------------------------------------------------------------------------------------------------------
+
+O Jest é uma biblioteca muito conhecida no mundo dos testes e nos oferece várias expectativas já prontinhas 
+para serem utilizadas. Além dessas, você tem também todo o complemento do jest-dom, como por exemplo o 
+toBeInTheDocument. E tenha em mente que, se o teste está muito grande ou difícil demais de ser implementado, 
+talvez exista espaço para refatorar o código atual e decompor o componente em componentes menores.
+
+https://jestjs.io/pt-BR/docs/expect
+https://github.com/testing-library/jest-dom
 
 

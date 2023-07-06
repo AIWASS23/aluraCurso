@@ -1,0 +1,26 @@
+Há uma crença entre algumas pessoas de que, como uma obra de arte, o design de um aplicativo ou site é 
+subjetivo e aberto a interpretações, pensamentos ou sentimentos pessoais do usuário. Embora a reação de um 
+usuário a um design possa ser subjetiva, o design em si não é. Seus designs fornecerão aos usuários 
+soluções sólidas para os problemas que eles enfrentam. Pense no que o usuário deseja fazer quando visita 
+seu aplicativo ou site:
+
+Qual é o objetivo deles? 
+Como você atenderá a essa necessidade com seu design?
+Como o usuário vai reagir?
+
+O cérebro humano dá sentido ao mundo ao seu redor construindo lógica, padrões e estrutura. Os Princípios 
+da Gestalt descrevem como os humanos agrupam elementos semelhantes, reconhecem padrões e simplificam 
+imagens complexas quando percebemos objetos. Esses princípios orientam como os humanos veem os designs ao 
+seu redor na vida cotidiana. Nos wireframes que você está criando, você pode aplicar os Princípios da 
+Gestalt para organizar o conteúdo de modo que seja visualmente agradável e fácil de entender.
+
+Similaridade:
+Significa que elementos que se parecem (em forma, tamanho ou cor, por exemplo) são percebidos como tendo a 
+mesma função.
+
+Proximidade: 
+Significa que elementos que estão próximos parecem estar mais relacionados do que coisas que estão mais 
+espaçadas.
+
+Região comum:
+Significa que os elementos localizados dentro da mesma área fechada são percebidos como agrupados.
