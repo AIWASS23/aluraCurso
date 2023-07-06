@@ -31,3 +31,28 @@ leitores de telas e lentes de aumento.
 
 https://www.w3.org/TR/wai-aria-1.1/#role_definitions
 
+------------------------------------------------------------------------------------------------------------
+
+Snapshot test:
+
+O teste de snapshot, também conhecido como teste de captura de estado, é uma técnica de teste de software 
+que visa verificar se o estado atual de um componente ou sistema corresponde ao estado esperado 
+previamente registrado. No contexto do desenvolvimento de software, um snapshot é uma representação 
+estática de um objeto, componente ou sistema em um determinado momento. Esse snapshot é geralmente 
+capturado durante a execução de testes iniciais, quando o sistema está em um estado conhecido e correto. Ao 
+realizar um teste de snapshot, o objetivo é comparar o estado atual do componente ou sistema com o 
+snapshot previamente registrado. Se houver uma diferença entre o estado atual e o estado esperado, o teste 
+falhará, indicando que algo mudou desde a captura do snapshot original. A principal vantagem do teste de 
+snapshot é que ele pode ajudar a identificar regressões, ou seja, mudanças não intencionais que ocorreram 
+no código e que afetam o estado esperado do sistema. Isso é particularmente útil em cenários onde as 
+mudanças são frequentes, como em projetos de desenvolvimento ágil, pois permite detectar alterações 
+indesejadas e corrigi-las antes que causem problemas mais graves. No entanto, é importante ressaltar que o 
+teste de snapshot não é adequado para todos os tipos de testes. Ele é mais comumente usado em testes de 
+integração ou testes de unidade para componentes isolados. Além disso, o teste de snapshot pode ser 
+sensível a mudanças de menor importância, como diferenças de formatação ou de dados exatos, o que pode 
+levar a falsos positivos. Portanto, é fundamental utilizar o teste de snapshot como uma ferramenta 
+complementar aos outros métodos de teste e considerar suas limitações e necessidades específicas de cada 
+projeto.
+
+
+
