@@ -1,0 +1,20 @@
+https://www.figma.com/file/c3RarCwq533GF1rrTRQEES/Sorteador-de-amigo-secreto?node-id=35%3A134
+https://www.alura.com.br/artigos/o-que-e-reset-css?_gl=1*1w4ji7e*_ga*MTc5MDYxNjI1NC4xNjc0MzI0MTQ5*_ga_59FP0KYKSM*MTY4ODY2MjEyNC43OS4xLjE2ODg2NjMwNDcuMC4wLjA.*_fplc*OVllb1EzN1FJOGNPajJTRlRlclVVaHFLRmNTSzFrRUZYT1BMUEFjRGk5NVppUHNYJTJCZHlTeDFKa1RiNlh2SDhCd1FzaWh3WDhCMWpTd2VyWTF5WFMwMyUyRiUyRnFyayUyRm55RFlVRDR4JTJCc01nNExuSTFxYU85SDAlMkJLdnFIU1ZXQzZBJTNEJTNE
+
+Formas de estilizar componentes React:
+
+https://styled-components.com/
+https://emotion.sh/docs/@emotion/react
+https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/
+
+TDD:
+
+O Desenvolvimento Orientado a Testes, é uma abordagem de desenvolvimento de software em que os testes 
+automatizados são criados antes da implementação do código em si. O processo consiste em seguir um ciclo 
+curto e repetitivo de três etapas: escrever um teste, implementar o código mínimo necessário para que o 
+teste seja aprovado e refatorar o código para melhorar sua qualidade. O TDD enfatiza a criação de testes 
+automatizados como uma prática fundamental para guiar o desenvolvimento do software. Ao escrever os testes 
+primeiro, o desenvolvedor precisa pensar na funcionalidade desejada e nos casos de uso antes de escrever 
+o código real. Essa abordagem ajuda a definir claramente o comportamento esperado do software antes de 
+começar a implementá-lo, o que pode levar a um design de código mais limpo e modular.
+
