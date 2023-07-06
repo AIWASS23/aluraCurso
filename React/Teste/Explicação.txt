@@ -19,3 +19,15 @@ o código real. Essa abordagem ajuda a definir claramente o comportamento espera
 começar a implementá-lo, o que pode levar a um design de código mais limpo e modular.
 
 -----------------------------------------------------------------------------------------------------------
+
+Roles - Porque acessibilidade conta!
+
+Realizar as buscas pelas roles é uma boa prática porque, além de testar a sua aplicação, você garante a 
+sua acessibilidade. As especificações relacionadas à acessibilidade estão definidas na W3C 
+(World Wide Web Consortium) como WAI-ARIA. WAI-ARIA quer dizer Accessible Rich Internet Applications 
+(Aplicações Ricas para uma Internet Acessível). O conjunto ARIA oferece a maneira de tornar as aplicações 
+mais acessíveis a uma maior diversidade de pessoas, incluindo quem utiliza tecnologias assistivas, como 
+leitores de telas e lentes de aumento.
+
+https://www.w3.org/TR/wai-aria-1.1/#role_definitions
+
