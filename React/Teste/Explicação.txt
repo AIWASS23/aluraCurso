@@ -64,4 +64,153 @@ talvez exista espaço para refatorar o código atual e decompor o componente em 
 https://jestjs.io/pt-BR/docs/expect
 https://github.com/testing-library/jest-dom
 
+----------------------------------------------------------------------------------------------------------
+
+Publicação na web:
+https://vercel.com
+
+---------------------------------------------------------------------------------------------------------
+
+Outras formas de buscar elementos
+
+Focamos nas boas práticas da React Testing Library e utilizamos roles para buscar os elementos HTML. 
+Porém, essa não é a única forma de realizar buscas no DOM. Aqui estar algumas que você pode precisar, mas 
+não deixe de conferir a documentação se precisa de algo mais específico.
+
+https://testing-library.com/docs/queries/about
+
+Esse são os tipos de consultas (em inglês, queries) disponíveis, de acordo com a quantidade de elementos 
+que você espera:
+
+Buscando elementos únicos:
+
+getBy
+queryBy
+findBy
+
+Buscando múltiplos elementos:
+
+getAllBy
+queryAllBy
+findAllBy
+
+Consultas específicas:
+
+ByRole:
+
+getByRole
+queryByRole
+getAllByRole
+queryAllByRole
+findByRole
+findAllByRole
+
+Quando conseguimos encontrar elementos por sua role, significa que leitores de tela também serão capazes, 
+e a aplicação estará acessível.
+
+ByLabelText:
+
+getByLabelText
+queryByLabelText
+getAllByLabelText
+queryAllByLabelText
+findByLabelText
+findAllByLabelText
+
+É uma alternativa quando, por exemplo, temos múltiplos inputs no mesmo componente. Nesse caso, podemos 
+buscar o input pelo label associado a ela. Confira a seguir boas práticas para esse cenário:
+
+<label for="email-input">E-mail</label>
+<input id="email-input" />
+
+<label id="email-label">E-mail</label>
+<input aria-labelledby="email-label" />
+
+<label>E-mail <input /></label>
+
+<label>
+  <span>E-mail</span>
+  <input />
+</label>
+
+<input aria-label="E-mail" />
+
+Em qualquer um dos exemplos acima, podemos obter o input da seguinte forma:
+
+const inputEmail = screen.getByLabelText(‘E-mail’)
+
+ByPlaceholderText:
+
+getByPlaceholderText
+queryByPlaceholderText
+getAllByPlaceholderText
+queryAllByPlaceholderText
+findByPlaceholderText
+findAllByPlaceholderText
+
+Aqui, estamos falando do atributo do html, que também podemos utilizar para buscar os elementos:
+
+<input placeholder="E-mail" />
+
+E para buscar:
+
+const inputEmail = screen.getByPlaceholderText(‘E-mail’)
+
+ByText:
+
+getByText
+queryByText
+getAllByText
+queryAllByText
+findByText
+findAllByText
+
+Agora, estamos falando do textContent dos elementos HTML. Então, para buscar uma âncora com essa marcação:
+
+<a href="/sobre">Marcelo</a>
+
+Escrevemos:
+
+const ancoraSobre = screen.getByText(‘Marcelo’)
+
+É comum também o uso de Expressões Regulares para fazer buscas por texto. 
+
+ByDisplayValue:
+
+getByDisplayValue
+queryByDisplayValue
+getAllByDisplayValue
+queryAllByDisplayValue
+findByDisplayValue
+findAllByDisplayValue
+
+Podemos utilizar essa query para encontrar elementos do tipo input, textarea, ou select.
+
+O “display value” é o valor em si do elemento.
+
+Se liga aqui no exemplo:
+<input type="text" id="nome" value=’'Agarikov'’ />
+
+Agora com o valor preenchido, podemos realizar a query:
+
+const nomeInput = screen.getByDisplayValue('Agarikov’)
+
+ByTestId:
+
+getByTestId
+queryByTestId 
+getAllByTestId
+queryAllByTestId
+findByTestId
+findAllByTestId
+
+Quando tudo mais falhar, podemos definir um atributo data-testid no elemento e utilizar esse tipo de 
+query para encontrá-lo:
+
+<div data-testid="id-customizado" />
+
+const elemento = screen.getByTestId(‘id-customizado')
+
+Mas fique atento a isto, pois aqui estamos sem valor semântico nenhum. Isso prejudica leitores de tela e 
+demais softwares de acessibilidade.
 
