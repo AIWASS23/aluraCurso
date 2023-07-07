@@ -1,0 +1,17 @@
+Viés no design UX
+
+Como designer de UX, é fundamental evitar preconceitos em seu trabalho e tornar seus designs inclusivos 
+para todos os usuários. Esses três recursos incluem estudos de caso e aprendizados sobre como tornar a 
+tecnologia mais inclusiva:
+
+http://gendershades.org/
+https://design.google/library/fair-not-default/
+https://www.propublica.org/article/discrimination-by-design
+
+https://usabilitygeek.com/ethics-in-user-experience-design/
+https://uxpamagazine.org/building-an-ethics-framework-for-ux-design/
+https://uxdesign.cc/10-principles-for-ethical-ux-designs-21faf5ab243d
+
+https://wellbeing.google/
+https://www.nngroup.com/articles/attention-economy/
+https://econreview.berkeley.edu/paying-attention-the-attention-economy/
