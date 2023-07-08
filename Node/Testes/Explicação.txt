@@ -1,0 +1,29 @@
+ESLint
+
+Para “chamar” o Eslint no VSC e organizar seu código automaticamente, utilize o atalho ctrl + shift + P 
+(Windows/Linux) ou cmd + shift + P (MacOs), digite Eslint e escolha a opção "Fix all auto-fixable 
+problems" ou posicione o cursor piscante sobre alguma das linhas sublinhadas vermelhas e utilize o atalho 
+ctrl + . para abrir o menu do Eslint e escolher “Fix all auto-fixable problems” se estiver disponível.
+
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+https://eslint.org/
+https://www.npmjs.com/package/eslint
+
+Tipos de testes:
+
+Testes estáticos:
+- Voltados para analisar o código sem necessariamente executá-lo, verificando se algumas boas práticas e 
+formatação padronizada foram adotadas na implementação;
+
+Testes unitários 
+- São utilizados para verificar o comportamento das menores unidades de código da aplicação;
+
+Testes de integração:
+- São as fases do teste de software em que módulos são combinados e testados como um conjunto;
+
+Teste E2E (End-to-End): 
+- É um método de teste utilizado para testar um fluxo da aplicação desde o começo até o fim.
+
+-----------------------------------------------------------------------------------------------------
+
+
