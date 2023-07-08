@@ -233,3 +233,31 @@ requer pagamentos mensais.
 
 https://docs.npmjs.com/about-private-packages
 https://docs.npmjs.com/creating-and-publishing-private-packages
+
+------------------------------------------------------------------------------------------------------------
+Hooks
+
+Alguns métodos do Jest que controlavam eventos em alguns momentos específicos, como por exemplo antes de 
+cada teste acontecer ou após todos os testes. Chamamos este tipo de função de hook (algo como “gancho” em 
+português). As funções hook não são exclusivas do Jest ou mesmo do JavaScript, e sim um conceito utilizado 
+em programação no geral. Chamamos de hook uma função ou método que é chamado quando queremos dar ao 
+programa um comportamento específico em alguma determinada circunstância - por exemplo, antes, durante ou 
+depois de determinado código ser executado.
+
+https://jestjs.io/pt-BR/docs/setup-teardown
+https://jestjs.io/pt-BR/docs/api
+
+
+spyOn vs jest.fn()
+
+Podemos utilizar jest.fn() quando a implementação original da função - ou seja, o código que ela executa 
+- não é importante para o teste, e pode ser substituída pelo que definimos durante o teste, normalmente 
+retornando um objeto.
+
+No caso de jest.spyOn(), não há substituição da implementação original da função e queremos testar se, 
+por exemplo, a função está sendo “chamada”, se está recebendo determinado parâmetro, etc. Nesse caso, 
+apenas executar a função com jest.spyOn() ainda vai executar a função “original” e o código dentro dela. 
+Porém, também é possível “mocar” (ou seja, substituir a implementação original de uma função).
+
+https://jestjs.io/docs/jest-object#mock-functions
+
