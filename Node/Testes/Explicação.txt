@@ -165,4 +165,5 @@ Exceções: usado para testar se uma função lança um erro quando chamada;
 
 https://jestjs.io/docs/using-matchers
 
+-----------------------------------------------------------------------------------------------------------
 
