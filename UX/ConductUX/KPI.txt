@@ -1,0 +1,52 @@
+KPI significa "Key Performance Indicator" (Indicador-Chave de Desempenho, em tradução livre) e é uma 
+métrica utilizada para medir o desempenho e o sucesso de um projeto ou estratégia. No contexto do design 
+de experiência do usuário (UX), os KPI's são métricas específicas que ajudam a avaliar o impacto e a 
+eficácia das soluções de design implementadas, os KPI's são o quarto elemento em um plano de pesquisa e, 
+com frequência, você será questionado sobre seus KPI's como designer de UX no mundo real. Os KPIs no 
+design UX são geralmente direcionados para medir o envolvimento do usuário, a satisfação, a usabilidade e 
+o cumprimento dos objetivos de negócio. Aqui estão alguns exemplos de KPIs comumente usados no design UX:
+
+Tempo na tarefa:
+
+O tempo na tarefa mede quanto tempo leva para um usuário concluir uma tarefa. Uma tarefa pode envolver 
+qualquer função dentro do produto que você está projetando, como preencher um formulário ou fazer uma 
+compra.
+
+Uso de navegação x pesquisa:
+Indica o número de pessoas que usam um site ou a navegação de um aplicativo, em comparação com o número de 
+pessoas que usam a funcionalidade de pesquisa. 
+
+Taxas de erro do usuário:
+Indicam as partes de um projeto que fazem com que os usuários cometam erros.
+
+Taxas de desistência: 
+Mostram quantos usuários abandonam a experiência.
+
+Taxas de conversão: 
+Medem a porcentagem de usuários que concluem uma ação desejada. As taxas de conversão são o oposto das 
+taxas de abandono.
+
+Escala de Usabilidade do Sistema (SUS):
+É um questionário que pergunta aos participantes suas opiniões sobre o seu produto; os resultados 
+são usados para medir a usabilidade de seus projetos. Em um SUS, é perguntado aos usuários até que ponto 
+eles concordam ou discordam de 10 afirmações sobre a usabilidade de um design.
+
+Net Promoter Score (NPS): 
+É uma medida de quão leais os usuários serão ao seu produto ou serviço. O NPS mede a probabilidade de um 
+usuário recomendar seu produto a um amigo ou colega. Os participantes avaliam a pergunta: 
+“Você recomendaria este produto a um amigo ou colega?” numa escala de 0 a 10.
+
+Os promotores são participantes que dão uma classificação de 9 ou 10, o que significa que recomendariam 
+seu produto a outras pessoas.
+
+Os passivos são participantes que dão nota 7 ou 8, o que significa que estão satisfeitos com o 
+seu produto, mas provavelmente não o repassarão para amigos ou colegas.
+
+Detratores são participantes que avaliam de 0 a 6, o que significa que podem alertar as pessoas para longe 
+de seu produto ou serviço.
+
+Para calcular o NPS, subtraia a porcentagem de detratores da porcentagem de promotores. Quando seu NPS é 
+positivo, é sinal de que os usuários estão satisfeitos com seus designs. Bom trabalho! Você quer que seu 
+NPS seja um número positivo alto. Se o seu NPS for negativo, é um sinal de que a experiência do usuário 
+pode ter bugs, ser difícil de navegar ou causar frustração entre os usuários.
+
