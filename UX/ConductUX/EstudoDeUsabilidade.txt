@@ -1,0 +1,38 @@
+Como designer de UX, seu trabalho é aprender o máximo possível sobre os usuários para os quais você está 
+projetando, a fim de criar um produto útil que atenda às reais necessidades dos usuários. Uma maneira de 
+coletar feedback sobre seu trabalho diretamente de seus usuários-alvo é realizando um estudo de 
+usabilidade. Como lembrete, um estudo de usabilidade é um método de pesquisa que avalia o quão fácil é 
+para os participantes concluir as tarefas principais em um design. Você também pode ouvir esse método de 
+pesquisa chamado de teste de usabilidade; ambos são terminologia aceita.
+
+Existem dois tipos de estudos de usabilidade que você pode conduzir: moderados e não moderados.
+
+Moderados:
+
+Os estudos de usabilidade moderados têm uma pessoa, conhecida como moderador, que orienta os participantes 
+durante o estudo em tempo real. Como uma pessoa facilita a sessão, os estudos de usabilidade moderados 
+permitem a construção de um relacionamento entre o moderador e o participante, o que pode ajudar o 
+participante a se abrir e compartilhar mais comentários sobre o design. Os estudos moderados funcionam 
+melhor quando você deseja se aprofundar nos detalhes porque pode fazer perguntas de acompanhamento durante 
+a sessão para saber mais.
+
+Não moderados:
+
+Estudos de usabilidade não moderados fazem com que os participantes testem os protótipos sem orientação 
+humana. Os participantes avançam no estudo em seu próprio ritmo e geralmente em seu próprio ambiente. 
+Normalmente, o estudo é gravado em vídeo e a equipe de UX revisa o vídeo após o estudo. Estudos não 
+moderados podem ser vantajosos porque simulam mais de perto como um usuário interagiria com o produto no 
+mundo real.
+
+https://blog.hubspot.com/marketing/usability-testing
+https://www.nngroup.com/articles/usability-testing-101/
+
+Boas Práticas
+
+Antes de conduzir seu primeiro estudo de usabilidade, tenha em mente estas cinco práticas recomendadas:
+
+- Fique à vontade
+- Coloque as pessoas em primeiro lugar
+- Não pule a papelada
+- Comunique-se com clareza  
+- Faça as perguntas certas

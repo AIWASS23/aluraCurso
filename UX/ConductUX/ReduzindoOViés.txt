@@ -1,0 +1,61 @@
+Ser totalmente imparcial ao conduzir e observar entrevistas é impossível. Todo mundo tem seu próprio 
+conjunto de preconceitos que trazem para cada interação. Reconhecer seus próprios preconceitos pessoais 
+para que você possa superá-los é fundamental ao conduzir pesquisas, como entrevistas. Por que? Bem, você 
+precisa obter um feedback preciso sobre como os usuários realmente pensam e sentem. Lembre-se de que seu 
+objetivo como designer de UX é sempre colocar o usuário na frente e no centro, o que significa que você 
+precisa aprender sobre suas perspectivas honestas e autênticas para criar designs que atendam às suas 
+necessidades.
+
+Tipos comuns de viés:
+
+O viés de confirmação é a tendência de se concentrar em informações que correspondem a uma crença 
+pré-existente.
+
+Boas Práticas:
+
+- Recrute um tamanho de amostra apropriado.
+- Não é sobre suas crenças.
+
+--------------------------------------------------------------------------------------------------------
+
+As perguntas principais são perguntas de pesquisa intencionalmente estruturadas para orientar os 
+participantes a responder de uma determinada maneira.
+
+Boas Práticas:
+
+- Incentive os participantes a pensar em voz alta.
+- Limite suas respostas.
+
+--------------------------------------------------------------------------------------------------------
+
+O viés de amizade descreve a tendência das pessoas de concordar com aqueles de quem gostam, a fim de 
+manter uma conversa sem confronto.
+
+Boas Práticas:
+
+- Honestidade é a melhor política.
+- Mantenha-se consistentemente engajado.
+
+--------------------------------------------------------------------------------------------------------
+
+O viés de desejabilidade social descreve a tendência de as pessoas responderem a perguntas de uma maneira 
+que será vista favoravelmente pelos outros.
+
+Boas Práticas:
+
+- Realize entrevistas 1:1.
+- Garanta a confidencialidade.
+
+--------------------------------------------------------------------------------------------------------
+
+O efeito Hawthorne descreve como as pessoas tendem a agir de maneira diferente quando sabem que estão 
+sendo observadas. As pessoas geralmente trabalham mais ou têm um desempenho melhor quando sabem que são 
+participantes de um estudo ou experimento de pesquisa.
+
+Boas Práticas:
+
+- Crie um ambiente não ameaçador.
+- Estabelecer relatório.
+
+
+
