@@ -1,0 +1,64 @@
+Criando e aplicando cores usando Fill:
+
+- Abra um arquivo no Figma.
+- Selecione a ferramenta Rectangle. Ele está listado como o quarto ícone da esquerda na barra de 
+ferramentas, à direita da ferramenta Frame.
+- Desenhe uma forma retangular no Frame.
+- Selecione a forma.
+- No painel Properties, no lado direito da tela do Figma, há uma seção na parte inferior intitulada Fill.
+- Nesta seção, encontre a caixa com a cor padrão, cinza (código hexadecimal: C4C4C4). Clique na Color Box 
+para fazer aparecer a paleta de cores, conforme mostrado na imagem abaixo. Escolha qualquer cor no 
+espectro. Por exemplo, você pode arrastar o Color Selector para o canto superior esquerdo para um branco 
+nítido ou para o canto inferior esquerdo para um preto profundo.
+- Abaixo da caixa de cores está o Color Picker, também conhecido como conta-gotas. Usando o Color Picker, 
+você pode pegar uma "gota" de cor para um design, imagem ou texto em sua tela e aplicá-la a outro elemento 
+de design.
+
+Ajustando os valores de cor:
+
+- Gradient 
+- Hue
+- Opacity
+
+https://help.figma.com/hc/en-us/articles/360041003694-Paints-in-Figma
+
+Criando e aplicando cores usando Stroke:
+
+- Selecione uma forma que você criou.
+- No painel Properties, no lado direito da tela do Figma, navegue até o cabeçalho Fill e a seção Stroke.
+- Clique duas vezes na palavra Stroke. Ou pressione o botão Mais (+) no lado direito.
+- Observe a cor padrão, preto (código hexadecimal: 000000) e a espessura da linha padrão (1). O traço, ou 
+espessura da linha, pode variar de 1 a 1000. 
+- Há também um menu suspenso com a palavra Center visível. Este menu suspenso mudará onde o traço é 
+colocado. Por padrão, o traçado é colocado ao redor da forma, como uma borda. Você pode alterar o traçado 
+para ficar dentro ou fora da forma.
+- Clique nos três pontos à direita para abrir o menu Advanced Stroke. Aqui, você pode alterar a forma do 
+contorno, incluindo o ângulo.
+
+https://designcode.io/figma-handbook-fill-stroke-and-advanced-stroke
+
+Definindo e salvando estilos de cores:
+
+- No painel Layers, no lado esquerdo da tela do Figma, selecione a forma que tem a cor que deseja salvar e 
+reutilizar.
+- No painel Design, no lado direito da tela do Figma, navegue até o cabeçalho Fill. Clique no ícone 
+Style, que é representado por quatro pontos em forma de quadrado.
+- Um menu aparecerá chamado Color Styles. Clique no ícone de Plus (+) no canto superior direito do menu 
+Color Styles.
+- Dê um nome ao Style.
+- Clique em Create Style.
+
+Agora você salvou uma cor para reutilizar novamente em diferentes partes de seus projetos. Para usar uma 
+cor que você salvou:
+
+- No painel Layers, no lado esquerdo da tela do Figma, selecione uma forma que você deseja que corresponda 
+a uma cor salva.
+- No painel Design, no lado direito da tela do Figma, navegue até o cabeçalho Fill. Clique no ícone 
+Style, que é representado por quatro pontos em forma de quadrado.
+- Um menu aparecerá chamado Color Style. Selecione um estilo de cor na lista.
+
+https://help.figma.com/hc/en-us/articles/360038746534-Create-Styles-for-Colors-Text-Effects-and-Layout-Grids
+https://www.toptal.com/designers/ux/color-in-ux
+https://careerfoundry.com/en/blog/ui-design/introduction-to-color-theory-and-color-palettes/
+https://coolors.co/f46036-2e294e-1b998b-e71d36-c5d86d
+https://material.io/design/color/applying-color-to-ui.html

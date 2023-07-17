@@ -1,0 +1,43 @@
+A cor é uma das maneiras pelas quais você, como designer, pode se conectar com as emoções dos usuários e 
+chamar a atenção para certas partes de um design. Mas quando você projeta um produto, é importante pensar 
+em como a cor é interpretada por todos os usuários do produto. Alguns usuários terão dificuldade em 
+perceber certas cores ou combinações de cores, portanto, as informações que as cores do seu design 
+transmitem podem ser perdidas. É fundamental que seus designs sejam inclusivos e reflitam as diversas 
+necessidades dos usuários do produto. Além disso, projetar com acessibilidade em mente facilita a 
+interação de todos os usuários com seus designs.
+
+https://www.w3.org/TR/WCAG21/
+
+Daltonismo:
+O daltonismo resulta na dificuldade de distinguir entre certas cores. Existem três categorias comuns de 
+daltonismo: vermelho-verde, azul-amarelo e daltonismo total. 
+
+https://www.color-blindness.com/coblis-color-blindness-simulator/
+
+Boas Praticas:
+- Use ícones em designs, além de cores.
+- Use padrões e texturas para criar contraste.
+- Evite combinações de cores que possam ser difíceis de distinguir umas das outras.
+
+Sensibilidade de baixo contraste:
+As pessoas com baixa sensibilidade ao contraste percebem os objetos como escuros ou pouco claros, o que 
+torna esses objetos mais difíceis de identificar. Muitas pessoas experimentam sensibilidade de baixo 
+contraste diariamente. Por exemplo, pessoas com alta acuidade visual experimentam baixa sensibilidade ao 
+contraste quando está escuro e a tela digital está muito clara, ou quando está claro e a tela digital está 
+muito escura. Além disso, à medida que os olhos das pessoas envelhecem, sua sensibilidade ao contraste 
+enfraquece naturalmente.
+
+https://www.w3.org/WAI/perspective-videos/contrast/
+https://webaim.org/resources/contrastchecker/
+
+Sensibilidade à luz:
+Alguns usuários são tão sensíveis à luz brilhante e cores brilhantes quanto ao baixo contraste. A 
+sensibilidade à luz é a incapacidade de tolerar a luz. Os usuários com sensibilidade à luz podem 
+experimentar seus designs com uma tela escurecida. Ou eles podem usar o sistema operacional de seu 
+dispositivo para escolher entre o modo claro, o modo escuro e o modo de alto contraste, conforme mostrado 
+na imagem abaixo. É melhor permitir que os usuários façam essas escolhas de configuração, então tente 
+criar seus próprios modos claros e escuros de seus próprios projetos.
+
+https://www.w3.org/WAI/test-evaluate/preliminary/#video
+http://colorsafe.co/
+https://www.figma.com/community/plugin/732603254453395948/Stark
