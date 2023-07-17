@@ -1,0 +1,51 @@
+Antes de começar a criar um mockup, é importante entender os nomes usados no Figma.
+
+Cada documento é chamado de Arquivo.
+Um arquivo contém a tela, onde você criará camadas e objetos para seus designs.
+Um arquivo também contém páginas, onde você criará suas telas.
+Cada página tem sua própria tela. Esta Tela é cinza (#E5E5E5) por padrão e é onde você pode adicionar, 
+remover e atualizar seus designs.
+
+Criando uma nova página:
+
+
+- Faça login no Figma.
+- Crie um novo arquivo clicando no ícone + no canto superior direito.
+- À esquerda, clique em Página 1. Isso lista todas as páginas atualmente em seu arquivo.
+- Clique no ícone + para adicionar uma nova página ao seu arquivo, conforme mostrado na imagem abaixo.
+
+Ao criar uma nova página, você poderá renomeá-la imediatamente. Ou você pode renomear uma página a 
+qualquer momento clicando duas vezes no título da página. Quando você começar a nomear uma página, o 
+texto do nome será destacado em azul e a linha será contornada em azul.
+
+https://help.figma.com/hc/en-us/articles/360038511293-Create-and-Manage-Pages
+
+Criando frames:
+
+A Tela no Figma é onde você criará os frames. Você pode pensar no Canvas como uma parede em branco na qual 
+um porta-retratos está pendurado, e os Frames são como porta-retratos onde você criará.
+
+Para criar um novo Frame: 
+- Selecione a ferramenta Moldura. O ícone tem quatro linhas que se cruzam em um padrão de grade. Ele está 
+listado como o terceiro ícone à esquerda na barra de ferramentas.
+
+Existem algumas maneiras de escolher o tamanho do frame:
+
+- Clique dentro da tela para criar um quadro padrão. As dimensões dos quadros padrão são 100x100 pixels.
+
+- Clique e arraste no Canvas para criar um Frame com as dimensões que você preferir. Quando você clica e 
+arrasta, a largura e a altura são atualizadas automaticamente com base no quanto você arrasta. Se você 
+quiser escolher uma largura e altura específicas, pode fazer isso na seção Moldura no painel Design no 
+lado direito da tela.
+
+- Selecione um tamanho predeterminado para um Frame, como um modelo de telefone ou tablet específico, no
+painel Design no lado direito da tela. Existe uma lista de diferentes containers ou Frames para diversos 
+dispositivos ou formatos. Basta selecionar um tamanho para adicionar o quadro à sua tela.
+
+https://help.figma.com/hc/en-us/articles/360041539473-Frames-in-Figma
+
+Figma atalhos:
+https://shortcuts.design/tools/toolspage-figma/
+
+Mockups:
+https://www.figma.com/community/file/786708730400780813

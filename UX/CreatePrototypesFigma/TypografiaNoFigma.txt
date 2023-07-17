@@ -1,0 +1,109 @@
+Criando campos de texto:
+
+Antes de fazer escolhas sobre tipografia, você precisará criar um campo de texto no Figma:
+
+- Abra seu arquivo no Figma.
+- Selecione o ícone Texto na barra de ferramentas, que se parece com a letra T.
+- Clique em qualquer lugar na Tela e comece a digitar para inserir o texto.
+
+https://youtu.be/5i-ebNTjad8
+
+Selecionando e editando campos de texto:
+
+Para editar ou ajustar seu texto, você deve primeiro selecionar a caixa de texto. Quando houver apenas uma 
+caixa de texto em sua tela, você pode selecioná-la com um único clique. Mas quando houver várias caixas, 
+você precisará selecionar a camada correta. Para selecionar uma caixa de texto:
+
+- Clique no texto que deseja editar no painel Camadas (no lado esquerdo da tela). A camada de texto 
+selecionada será destacada em azul no painel Camadas.
+- Clique duas vezes no texto na caixa selecionada na Tela. Ou, para selecionar todo o texto em uma caixa, 
+pressione enter (ou return).
+- Faça alterações no texto conforme necessário
+
+Para selecionar mais de uma caixa de texto, primeiro escolha a ferramenta Move(destacada na barra de 
+ferramentas superior). Em seguida, encontre um espaço vazio em sua tela e clique e arraste uma caixa de 
+seleção sobre as caixas de texto que deseja editar. Todo o texto nesta caixa de seleção será destacado em 
+azul no painel Layers.
+
+https://help.figma.com/hc/en-us/articles/360041059634-Edit-text-layers
+
+Ajustando fontes e tamanhos de fonte:
+
+Depois de selecionar uma caixa de texto, você está pronto para fazer escolhas de design! Você pode ajustar 
+as propriedades do texto, como tamanho e espessura da fonte (a espessura da fonte). Para ajustar sua fonte:
+
+- selecione uma caixa de texto usando as etapas da seção anterior.
+- localize a seção Texto do painel Design (no lado direito da tela).
+- Para localizar um tipo de letra ou família de fontes, clique no menu suspenso Fonte. A partir daqui, 
+você pode navegar por uma lista de fontes da Web, locais e compartilhadas. Você pode escolher um peso no 
+menu suspenso Peso. Para alterar o tamanho do texto usando o menu suspenso Tamanho ou insira manualmente 
+um tamanho no campo de tamanho. No menu Texto, você também pode alterar propriedades como espaçamento 
+entre parágrafos, altura da linha, alinhamento e muito mais.
+
+https://help.figma.com/hc/en-us/articles/360039956634-Explore-text-properties#h_3bae9484-117d-43a6-aded-3ffdc9bb4c4d
+
+Reorganizando o texto:
+
+Você pode ajustar o alinhamento, tamanho, localização ou restrições do seu texto no painel Design
+
+Alinhamento:
+
+As opções de alinhamento estão localizadas na parte superior do painel Design. O alinhamento determina 
+como o texto e outros elementos de design são distribuídos dentro da caixa delimitadora. Depois de 
+selecionar uma caixa de texto, você pode escolher entre as seguintes opções de alinhamento na barra de 
+menus:
+
+Align left
+Align horizontal center
+Align right
+Align top 
+Align vertical center
+Align bottom 
+Distribute
+
+Se você selecionou várias caixas de texto, pode clicar no menu suspenso para escolher entre mais três 
+opções de alinhamento:
+
+- Tidy up: distribua os elementos selecionados uniformemente em todas as direções
+- Distribute vertical spacing: Espace os elementos selecionados uniformemente na altura do quadro
+- Distribute horizontal spacing: Espace os elementos selecionados uniformemente na largura do quadro
+
+https://www.figma.com/blog/introducing-smart-selection/#tidy-up
+
+Localização e tamanho:
+
+Os números abaixo das opções de alinhamento correspondem à posição de um elemento selecionado na tela. Ao 
+alterar esses números, você pode mover um elemento ao longo do eixo X do quadro (esquerda e direita) e no 
+eixo Y (para cima e para baixo).
+
+Você pode ajustar a largura e a altura de um elemento usando os valores W e H. Lembre-se de que esses 
+valores alteram apenas o tamanho da caixa de texto selecionada, não a fonte. Alterar os valores W e H pode 
+ser útil quando você redimensiona seu texto e deseja alterar o tamanho da caixa para corresponder.
+
+Constraints:
+
+As restrições limitam onde um elemento pode ser colocado dentro de um Frame. Eles são úteis quando você 
+precisa manter uma distância específica da borda da tela e para desenhar em diferentes dispositivos.
+Cada elemento tem constraints horizontais e verticais. As constraints horizontais determinam o quão 
+próximo o elemento pode chegar ao longo da borda esquerda ou direita do quadro. As constraints verticais 
+determinam o quão próximo ele pode chegar da borda superior ou inferior. Você também pode decidir como 
+centralizar o elemento no eixo X ou Y. Se precisar redimensionar o quadro, você também pode definir a 
+escala de um elemento para que ele permaneça proporcional ao quadro redimensionado.
+
+https://www.youtube.com/watch?v=LHY9cm_2zwU
+
+Definindo e salvando fontes pré-configuradas:
+
+- No painel Layers, selecione o texto com as propriedades que deseja salvar e reutilizar.
+- Vá para o cabeçalho Text no painel Design. Em seguida, clique no ícone Style (representado por quatro 
+pontos em forma de quadrado).
+- Os Text Styles serão exibidos. Clique no ícone Plus (+) no canto superior direito deste menu para nomear 
+seu estilo.
+Depois de escolher um nome, clique em Create Style. E pronto! Você salvou um estilo de texto para 
+reutilizar novamente em seus designs. Para usar um estilo de texto que você salvou, selecione o texto 
+que deseja editar no painel Layers. Em seguida, retorne ao menu Text Styles para selecionar o estilo que 
+você criou na lista.
+
+https://help.figma.com/hc/en-us/articles/360039957034-Create-and-Apply-Text-Styles
+https://uxplanet.org/7-things-to-remember-when-selecting-fonts-for-your-design-ec1e592266c5
+https://www.nngroup.com/articles/legibility-readability-comprehension/
