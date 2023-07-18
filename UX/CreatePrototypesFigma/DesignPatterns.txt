@@ -1,0 +1,55 @@
+Telas comuns em aplicativos móveis
+
+Você deve ter notado que os aplicativos móveis tendem a ter certos tipos de tela em comum. O layout e a 
+aparência podem diferir entre os aplicativos, mas todos compartilham a mesma finalidade e considerações de 
+design. 
+
+Home Screen
+
+A tela inicial é a primeira tela que os usuários encontram quando abrem um aplicativo. As telas iniciais 
+exibem o conteúdo principal e os recursos do aplicativo e servem como ponto de partida para os usuários 
+explorarem mais. Como a tela inicial permite que os usuários saibam o que um aplicativo tem a oferecer, o 
+conteúdo precisa ser fácil de entender, usar e navegar. Elementos de navegação comuns, como um menu de 
+navegação inferior e um ícone de pesquisa, facilitam a introdução de um aplicativo porque são familiares 
+para muitos usuários. Pode ser tentador preencher uma tela inicial com muito conteúdo, mas isso pode criar 
+uma experiência confusa e avassaladora para os usuários. Concentrar-se no conteúdo essencial - e fazer bom 
+uso do espaço em branco - torna as telas iniciais mais fáceis de usar.
+
+Onboarding screens
+
+As telas de integração apresentam aos usuários iniciantes os principais componentes e funções de um 
+aplicativo. Eles podem ajudar os usuários a começar rapidamente, especialmente se um aplicativo tiver 
+recursos exclusivos ou desconhecidos. As telas de integração também podem coletar informações para criar 
+uma experiência de usuário mais personalizada. Os designers têm muitas opções quando se trata dessas 
+telas, portanto, elas devem ser adaptadas à experiência de um aplicativo específico. Um bom fluxo de 
+integração pode aumentar o engajamento e a retenção do usuário. Mas como eles geralmente são compostos de 
+várias telas, eles precisam ser fáceis de navegar. Os designers podem minimizar a desistência usando 
+cópias claras e concisas e gráficos atraentes para criar uma experiência perfeita e memorável.
+
+Profile/Account screen
+
+Uma tela de perfil ou conta contém os detalhes pessoais de um usuário (como nome e e-mail) e suas 
+preferências de aplicativo (como histórico de pedidos e configurações de acessibilidade). Como uma tela de 
+perfil contém muitas informações importantes, ela deve ser claramente organizada e fácil de navegar. É por 
+isso que é uma prática recomendada torná-los o mais simples e limpos possível.
+
+Checkout Screen
+
+A tela de checkout é onde os usuários concluem as compras. O checkout pode ser mais complexo do que outras 
+partes de um aplicativo, pois geralmente envolve alguns formulários para informações de pagamento e envio. 
+Esta etapa pode ser estressante, por isso é importante que os usuários se sintam o mais seguros possível. 
+Os designers podem ajudar deixando claro quais informações são necessárias para cada campo do formulário e 
+adicionando dicas visuais para indicar que um campo foi preenchido corretamente. Eles também podem 
+informar aos usuários que seus dados pessoais estão seguros e incluir uma mensagem de confirmação quando 
+um usuário conclui uma compra com sucesso.
+
+https://uxdesign.cc/mobile-ui-13-basic-patterns-of-app-ui-design-to-know-about-d3f7c6176f13
+https://material.io/design/material-studies/basil.html
+https://material.io/design/material-studies/owl.html
+https://material.io/design/material-studies/fortnightly.html#shape
+https://material.io/design/material-studies/crane.html#shape
+https://material.io/design/material-studies/rally.html
+https://material.io/design/material-studies/shrine.html#shape
+https://material.io/design/material-studies/reply.html#shape
+
+https://material.io/design/material-studies/about-our-material-studies.html#about-reply

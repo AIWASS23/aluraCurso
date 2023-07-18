@@ -1,0 +1,19 @@
+Ícones são imagens ou símbolos que representam ações ou ferramentas específicas em um aplicativo ou site. 
+O uso de ícones em seus designs pode comunicar conceitos rapidamente, em vez de explicar o significado de 
+um conceito com palavras. Os ícones variam em estilo e significado, conforme mostrado nas imagens acima de 
+um ícone de perfil, um ícone de localização, um ícone de favoritos e um ícone de zoom. Existem dois ícones 
+universais usados em aplicativos móveis e designs de sites: página inicial e pesquisa. O ícone da casa é 
+representado pela forma de uma casa e a busca é representada por uma lupa.
+
+Importar e criar ícones:
+
+https://help.figma.com/hc/en-us/articles/360040449513-Add-icons-to-text-layers-with-icon-fonts
+https://material.io/resources/icons/?style=baseline
+https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/
+https://www.figma.com/resources/assets/material-icons-outline/
+https://fonts.google.com/icons
+https://blog.iconfinder.com/how-to-use-icons-in-figma-cf25dd254d5a
+https://www.youtube.com/watch?v=B_KeOTlDdSQ
+https://www.intechnic.com/blog/icon-usability-best-ux-tips-and-design-guidelines/
+https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons
+https://material.io/design/iconography/system-icons.html#design-principles
