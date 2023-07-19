@@ -1,0 +1,35 @@
+Cor:
+
+Enquanto Matiz se refere a famílias de cores (como vermelho, verde ou azul), Valor é a claridade ou 
+escuridão de uma cor. O valor mais claro de qualquer cor é branco e o mais escuro é preto. Muitos programas 
+têm configurações de valor, como uma escala móvel que permite adicionar branco ou preto a uma cor 
+selecionada. O valor é a chave para criar contraste em seus designs. 
+
+A saturação refere-se à intensidade e riqueza da cor. Pense na saturação mais alta como a forma mais pura 
+de uma cor. A saturação escolhida depende de quão ousadas você deseja que sejam as cores do seu design. 
+Cores altamente saturadas são ótimas para chamar a atenção do usuário.
+
+Orientação:
+
+Orientação refere-se ao layout do seu projeto. A orientação geralmente corresponde à plataforma ou 
+dispositivo para o qual você está projetando. Você pode pensar na orientação como uma grade que o ajuda a 
+planejar seus projetos para caber em diferentes formas.
+
+Interesse intrínseco:
+
+Refere-se a quão atraente um elemento visual é para os usuários. Certos elementos de design, como 
+logotipos ou animações, destinam-se a chamar a atenção do usuário. Você pode usar o interesse intrínseco 
+em seus designs, certificando-se de que os elementos mais importantes se destaquem - e que os menos 
+importantes se misturem.
+
+O peso físico percebido:
+
+É a ilusão de peso e volume que cada elemento visual transmite. Ao criar elementos que simulam objetos com 
+peso físico, você deseja que as dimensões de cada elemento se relacionem proporcionalmente com os outros. 
+Os tamanhos relativos dos contêineres variam de pequenos e leves a grandes e pesados. É a diferença entre 
+uma única porção e o suficiente para uma multidão.
+
+https://www.interaction-design.org/literature/topics/design-principles
+https://www.springboard.com/blog/design/ux-design-principles/
+https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/
+https://www.usability.gov/what-and-why/user-interface-design.html

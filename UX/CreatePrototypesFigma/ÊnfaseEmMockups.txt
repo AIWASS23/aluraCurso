@@ -1,0 +1,36 @@
+Fornecer um design que atenda às necessidades de seus usuários é sempre o objetivo do design UX. Uma 
+maneira de garantir que seus usuários entendam e encontrem as áreas importantes de seu design é usando 
+ênfase. Ênfase significa que um objeto ou elemento está atraindo a atenção. Quando parte de um design tem 
+ênfase, o olhar do usuário é atraído para lá quando ele olha para a tela de um aplicativo ou página da web. 
+Existem várias maneiras de adicionar ênfase aos seus projetos.
+
+Size
+
+A implementação de alterações no tamanho dos elementos em seus designs é uma maneira fácil de dar ênfase 
+aos usuários, chamando sua atenção para objetos maiores e, ao mesmo tempo, transmitindo que um objeto é 
+mais importante que outro.
+
+Contrast
+
+O contraste é a criação de elementos visuais opostos para transmitir ênfase ou comparação. O contraste é 
+uma ótima maneira de enfatizar os elementos de um projeto que são diferentes ou importantes. Você também 
+pode fornecer contraste alterando a aparência do texto. Existem algumas maneiras de adicionar contraste ao 
+texto, como negrito, adição de cor, sublinhado, itálico e destaque de informações importantes que o 
+usuário deve anotar.
+
+Texture
+
+A textura são os elementos dentro de um objeto que adicionam profundidade ou um padrão a um objeto. A 
+textura pode fazer um objeto se destacar de outros objetos dentro de um design e deve ser usado com 
+moderação para chamar a atenção do usuário. Uma maneira de criar ênfase usando textura é colocar linhas ou 
+formas sobre uma imagem que é usada repetidamente. Adicionar textura fornece uma quebra no padrão da 
+mesma imagem e dá aos usuários algo para interagir.
+
+https://www.interaction-design.org/literature/article/emphasis-setting-up-the-focal-point-of-your-design
+https://www.toptal.com/designers/gui/principles-of-design-infographic
+
+Hieraquia
+
+https://www.mockplus.com/blog/post/ui-visual-hierarchy
+https://www.interaction-design.org/literature/topics/visual-hierarchy
+https://uxdesign.cc/the-a-to-z-of-ux-a-is-for-accessibility-12-top-tips-for-designing-an-inclusive-user-experience-667eedaf5bca

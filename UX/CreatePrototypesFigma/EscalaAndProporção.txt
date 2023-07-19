@@ -1,0 +1,16 @@
+Escala e proporção são conceitos de design que você pode incorporar estrategicamente em seus mockups para 
+ajudar a tornar um design visualmente agradável e capturar a atenção do usuário.
+
+Escala é um conceito usado para explicar a relação de tamanho entre um determinado elemento e os outros 
+elementos do design. A escala é usada para chamar a atenção para os elementos e ajudar os usuários a 
+encontrá-los mais rapidamente. Eles também ajudam os usuários a entender o tamanho relativo.
+
+Proporção é sobre o equilíbrio ou harmonia entre os elementos que são dimensionados. Proporção é tudo 
+sobre como os objetos se relacionam uns com os outros.
+
+https://uxplanet.org/golden-ratio-bring-balance-in-ui-design-765c954f0ff9
+
+Unity And Variety
+
+https://www.youtube.com/watch?v=VQhHX5zpC-U
+https://uxdesign.cc/variety-the-salt-of-design-847b3a59ec3b

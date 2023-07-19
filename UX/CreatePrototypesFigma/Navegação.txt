@@ -1,0 +1,72 @@
+Projetar seu produto com um sistema de navegação simples e intuitivo é essencial para proporcionar uma boa 
+experiência ao usuário.
+
+Tipos de navegação
+
+Existem alguns tipos comuns de navegação que você pode usar em seus próprios designs: 
+- Barras de navegação
+- Barras de guias
+- Menus de navegação 
+- Hubs de navegação
+
+Navigation bar
+
+As barras de navegação exibem os links de navegação para as páginas mais importantes do produto em uma 
+única barra ao longo de uma área da tela. Dependendo do desenho, esta barra pode ser horizontal ou 
+vertical. As barras de navegação são fáceis de encontrar e oferecem aos usuários uma visão clara de todas 
+as áreas do site com as quais eles podem interagir. Isso ajuda seus usuários a chegarem exatamente aonde 
+desejam. Para sites básicos, como um portfólio, é mais benéfico ter uma barra de navegação simples para os 
+possíveis empregadores navegarem.
+
+https://www.thecreativemomentum.com/blog/designing-the-ideal-navigation-bar
+
+Tab bars
+
+As barras de guias são muito semelhantes às barras de navegação, mas exibem links de página como guias que 
+podem ser ativadas e desativadas. As barras de guias podem ser ícones, podem ser texto ou podem ser ambos. 
+Ao pensar em seus próprios designs, saiba que as barras de guias são uma ótima maneira de classificar seu 
+conteúdo e manter o usuário envolvido com o conteúdo de seu site.
+
+Navigation menu
+
+Um menu de navegação é um menu que aparece quando o usuário clica no ícone de três linhas na borda da 
+tela. Às vezes, eles são chamados de menus “ocultos” (porque podem ser ocultados novamente) ou menus de 
+“hambúrguer” (por causa de seu formato). Esses menus geralmente estão localizados no canto superior 
+esquerdo ou direito da tela e são fáceis de localizar rapidamente pelos usuários. Eles também tornam a 
+tela visualmente mais atraente, “ocultando” os detalhes do menu até que o usuário toque para abri-lo. Um 
+menu de navegação é uma ótima maneira de mostrar todos os links que você deseja incluir sem precisar 
+ajustá-los aos seus parâmetros de design.
+
+https://www.enginess.io/insights/design-trend-of-the-month-hidden-menus
+
+Navigation hub
+
+Um hub de navegação exibe uma coleção de links na página inicial do site. Com um hub de navegação, o 
+usuário geralmente precisa voltar à página inicial para mudar de página. Esse formato ajuda a reduzir a 
+quantidade de conteúdo na tela de uma só vez. Muitas vezes, há um botão Voltar visível em cada página que 
+o leva de volta à página inicial onde todos os links de navegação estão localizados. Um hub de navegação 
+pode ser ideal para você se seus designs não tiverem muitas páginas, mas, se seus usuários precisarem 
+realizar várias tarefas ao mesmo tempo e passar de uma página para outra, um hub de navegação pode não ser 
+a melhor opção.
+
+Elementos de design de navegação
+
+A navegação organiza as informações para que os usuários possam interagir com outras partes de um produto. 
+O design da navegação é composto por elementos, como botões e ícones, que criam um caminho claro e fácil 
+para os usuários alcançarem seu objetivo.
+
+Botões: podem ser botões totalmente projetados ou elementos clicáveis, como texto ou ícones. Os botões 
+podem ser animados para parecer clicáveis ou ter uma linha abaixo deles para mostrar sua interatividade.
+
+Ícones: Os ícones são como atalhos visuais para o cérebro. Ícones comuns incluem um ícone de envelope que 
+representa uma caixa de entrada de e-mail, um ícone de casa que leva o usuário à página inicial ou o 
+logotipo de um site de mídia social que leva os usuários a uma página de mídia social.
+
+Esses elementos de navegação são considerados recursos. Uma affordance é uma indicação visual do propósito 
+de um objeto dentro de uma interface. Eles “oferecem” a você a oportunidade de realizar uma ação, 
+fornecendo dicas sobre o contexto deles. As possibilidades são uma parte importante da criação de uma 
+navegação eficaz.
+
+https://uxplanet.org/ux-design-glossary-how-to-use-affordances-in-user-interfaces-393c8e9686e4
+https://www.justinmind.com/blog/navigation-design-almost-everything-you-need-to-know/
+https://www.uxbooth.com/articles/the-rules-for-modern-navigation/
