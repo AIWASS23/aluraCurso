@@ -1,0 +1,38 @@
+Popular design systems:
+
+https://material.io/resources
+https://polaris.shopify.com/
+https://developer.apple.com/design/
+https://www.microsoft.com/design/fluent/#/
+https://airbnb.design/building-a-visual-language/
+https://designsystem.digital.gov/
+
+Get inspiration from design systems:
+
+Como designer de UX, criar visuais impressionantes é crucial para atrair usuários, manter a consistência 
+entre os produtos e estabelecer uma marca. Por exemplo, pense no frasco de xampu ou sabão em pó que você 
+usa. Certos elementos visuais tornam a marca daquele produto instantaneamente reconhecível e podem até 
+mesmo atraí-lo para comprá-lo. O design da garrafa pode ter uma fonte de assinatura, uma paleta de cores 
+distinta ou um ícone inteligente. As empresas trabalham duro para criar designs inteligentes e todo um 
+sistema de design que possam aplicar a todos os seus produtos! Lembre-se, um sistema de design é uma série 
+de elementos reutilizáveis que permitem que as equipes projetem e desenvolvam um produto seguindo padrões 
+predeterminados. Um sistema de design é a base visual dos produtos de uma empresa e é a chave para atrair 
+usuários. Para designers de UX, os sistemas de design são uma ótima maneira de manter a consistência em um 
+design e em todos os produtos.
+
+https://www.figma.com/community/file/778763161265841481
+https://www.figma.com/@salesforce
+https://www.figma.com/@atlassian
+https://www.figma.com/@microsoft
+https://www.figma.com/@shopify
+https://www.figma.com/@materialdesign
+https://www.figma.com/@uber
+https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/
+
+Learn from Figma - Use a design system library
+
+https://www.youtube.com/watch?v=EK-pHkc5EL4&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV
+https://www.youtube.com/watch?v=9xUXTFzDDCo&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=2
+https://www.youtube.com/watch?v=XCsVDvvlz4E&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=3
+https://www.youtube.com/watch?v=UtXKFaLAbXM&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=4
+https://www.youtube.com/watch?v=Yp_qfB1FA0Y&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=5
