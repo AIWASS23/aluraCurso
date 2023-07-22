@@ -1,0 +1,59 @@
+Gestures
+
+Gestures são qualquer método de interação que um usuário tem com informações em seu dispositivo usando o 
+toque. Em outras palavras, os gestos descrevem como você interage com uma tela usando o dedo ou uma 
+caneta. Gestures comuns incluem:
+
+
+Swipe 
+É um movimento breve com a ponta do dedo ou caneta na tela, horizontal ou verticalmente. Por exemplo, os 
+usuários costumam deslizar do lado direito da tela do telefone para a esquerda, a fim de se mover entre as 
+telas de um aplicativo. Swipes também são comumente usados para interagir com um carrossel de conteúdo.
+
+Tap 
+Um tap é um toque breve na tela com a ponta do dedo ou caneta. Os toques podem ser personalizados desde o 
+uso de um dedo até quatro dedos. Tocar com um único dedo costuma ser usado para selecionar um item na tela. 
+Tocar com dois dedos pode ser usado como um atalho para fazer o menu de contexto (também conhecido como 
+menu do botão direito) aparecer.
+
+Drag 
+É tocar e segurar na tela, continuando a pressionar enquanto move a ponta do dedo ou caneta pela tela. 
+Por exemplo, os usuários podem arrastar um item em uma tela para movê-lo para dentro e para fora da vista. 
+Arrastar é frequentemente usado para o menu principal de notificação em telefones celulares.
+
+Pinch
+É o movimento de dois dedos se fechando ou se afastando um do outro. Uma pitada permite que os usuários 
+dimensionem itens em uma tela, como aumentar ou diminuir o zoom em um site, mapa ou foto.
+
+Gestures e sistemas operacionais
+
+Você já pegou emprestado o telefone de um amigo e achou difícil usá-lo? A simples tarefa de tirar uma foto 
+pode ser complicada quando você não sabe qual gesto abre o menu do celular! À medida que os telefones 
+celulares evoluíram, os sistemas operacionais se tornaram mais característicos para os fabricantes.
+
+Isso porque há uma diferença na filosofia de design para gestures entre o iOS da Apple e o Android do Google. 
+Mais especificamente, o iOS é baseado no Diretrizes de Interface Humana, ou HIG para abreviar, enquanto o 
+Android é baseado em Design material. O HIG e o Material Design fornecem aos designers e desenvolvedores 
+diretrizes para os gestos usados em seu sistema operacional específico. Como designers, é nosso trabalho 
+entender essas diretrizes, para que possamos criar designs fáceis de usar e que atendam às expectativas do 
+usuário. Por exemplo, pense em como você desfaz o texto em seu celular. Para desfazer texto em um 
+dispositivo Apple iOS, deslize três dedos do lado direito da tela para a esquerda. Para desfazer o texto 
+em um dispositivo Android, toque e segure o texto para selecioná-lo e pressione a tecla Delete. Essas são 
+diferenças importantes a serem consideradas ao criar designs!
+
+Motion 
+É uma forma de animar elementos de design estáticos para focar a atenção do usuário e contar histórias. O 
+Motion pode tornar aplicativos e sites mais atraentes e fáceis de usar, como chamar a atenção para o ponto 
+focal de um site ou ver um menu desaparecer quando você o fecha.
+
+https://www.nngroup.com/articles/animation-purpose-ux/#:~:text=Summary%3A%20Animation%20in%20UX%20must,metaphors%2C%20and%20to%20enhance%20signifiers.&text=Share%20this%20article%3A&text=Motion%20is%20most%20often%20appropriate,induce%20delight%20or%20entertain%20users
+https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+https://developer.apple.com/design/human-interface-guidelines/
+https://material.io/
+https://material.io/design/interaction/gestures.html
+
+prototyping in Figma
+
+https://help.figma.com/hc/en-us/articles/360040315773
+https://help.figma.com/hc/en-us/articles/360040035834
+https://help.figma.com/hc/en-us/articles/360040035874
