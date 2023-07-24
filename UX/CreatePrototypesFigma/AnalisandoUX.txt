@@ -1,0 +1,18 @@
+Reúna os dados em um só lugar:
+
+Organize os dados
+Encontrar temas
+Tenha insights
+ 
+- Transformando observações em insights
+- Reúna os dados em um só lugar e organize os dados
+- Criando diagramas de afinidade (para organizar dados).
+- Encontre padrões e temas (em dados de pesquisa).
+- Crie insights, mantendo-os
+- Qualidades de insights fortes
+
+https://www.coursera.org/learn/conduct-ux-research/lecture/h2sLN/developing-insights
+https://www.coursera.org/learn/conduct-ux-research/lecture/SgLb3/gather-and-organize-data
+https://www.coursera.org/learn/conduct-ux-research/supplement/5FfQh/learn-more-about-creating-affinity-diagrams
+https://www.coursera.org/learn/conduct-ux-research/lecture/e8nfr/patterns-and-themes-in-research-data
+https://www.coursera.org/learn/conduct-ux-research/lecture/51JCS/qualities-of-strong-insights

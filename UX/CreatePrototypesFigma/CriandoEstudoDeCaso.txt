@@ -1,0 +1,43 @@
+1. Sua função no projeto
+Declare seu papel no projeto. No mundo real, você mencionará os membros da equipe que colaboraram em um 
+projeto de design com você e listará o papel que cada um de vocês desempenhou ao dar vida aos designs. 
+
+2. O objetivo do projeto
+Declare o objetivo do seu projeto com base nas descobertas da pesquisa.
+
+3. Seu público-alvo
+Descreva os usuários para os quais você tentou resolver um problema ou ajudou em seu projeto de design.
+
+4. Principais desafios ou restrições
+Apresente os desafios. Alguns desafios comuns incluem coisas como orçamento ou restrições de tempo.
+
+5. Pesquisa realizada.
+Mencione os detalhes do estudo de pesquisa. Que método de pesquisa você usou e por que o escolheu? Que 
+questões os dados revelaram que o levaram ao estudo? Como foi o estudo de pesquisa?
+
+6. Conceitos iniciais ou estratégia de design
+Descreva seu processo de design e as decisões que você tomou que contribuíram para esse design. Este é um
+bom lugar para apoiar suas decisões com dados de quaisquer descobertas de pesquisa ou resultados de um 
+estudo de usabilidade que informou seu pensamento de design.
+
+7. Seus esboços ou wireframes
+Mostre visuais do seu design. Isso inclui esboços de papel, wireframes e protótipos de baixa fidelidade do 
+seu design.
+
+8. Resultados de qualquer teste de usuário
+Discuta os resultados do teste do usuário. Neste ponto, você deseja ajudar outras pessoas a entender por 
+que os problemas ocorreram e o que os testes de usabilidade mostraram como resultado. Em outras palavras, 
+o que você aprendeu?
+
+9. Seus designs finais polidos
+Apresente seu projeto. Você incluirá um mockup e/ou um protótipo de alta fidelidade de seu design aqui 
+para impressionar seu público.
+
+10. Conclusão
+Declare sua conclusão e possíveis próximos passos. Esta é sua chance de falar sobre o que você aprendeu ao 
+longo do processo de design e abordar a direção futura do produto ou possíveis iterações.
+
+https://blog.prototypr.io/trip-tribe-a-tale-of-ux-auditing-and-designing-through-gifs-4a878d405765
+https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/
+https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-study-template/
+https://www.shabnamkashani.com/augmented-reality-project-with-google

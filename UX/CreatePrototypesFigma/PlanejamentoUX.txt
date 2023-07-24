@@ -1,0 +1,22 @@
+Planejar um estudo de pesquisa de UX focado em seu protótipo de alta fidelidade, abordando cada um dos 
+sete elementos de um plano de pesquisa, criando um plano de pesquisa à medida que avança.
+
+Um plano de pesquisa eficaz contém seis elementos:
+1. Histórico do projeto: 
+Uma breve explicação de por que você está fazendo a pesquisa e o que deseja aprender com ela.
+
+2. Perguntas de pesquisa: 
+Perguntas que você planeja responder como resultado do estudo de usabilidade.
+
+3. Principais indicadores de desempenho, ou KPIs: 
+Indicadores que avaliam o progresso em direção aos seus objetivos de pesquisa.
+
+4. Metodologia: 
+A maneira como você conduzirá sua pesquisa.
+
+5. Participantes: 
+As pessoas que participarão de sua pesquisa.
+
+6. Roteiro: 
+Um roteiro de entrevista que contém tarefas e perguntas para os participantes.
+
