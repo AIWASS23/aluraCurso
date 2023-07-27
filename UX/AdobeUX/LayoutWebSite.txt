@@ -1,0 +1,88 @@
+Ao projetar sites, é fundamental organizar os elementos de forma a acolher os usuários e orientá-los 
+enquanto navegam em cada página.
+
+Layout de coluna única
+
+O layout de coluna única apresenta apenas uma coluna para o conteúdo do site, o que o torna uma das opções 
+de layout mais simples. Os layouts de coluna única costumam ser o design padrão para versões móveis de 
+sites responsivos, pois as telas dos celulares são estreitas e não têm espaço para várias colunas de 
+conteúdo. Além disso, um layout de coluna única permite fácil rolagem em telefones celulares. Os layouts 
+de coluna única também podem ser usados em sites do tamanho de laptops e desktops. Esse layout é 
+especialmente bom para enfatizar um elemento principal em uma página, como um logotipo, um vídeo ou um 
+bloco inteiro de texto. Lembre-se de que, com um layout de coluna única, os elementos tendem a ser 
+organizados logicamente. Os sites que usam esse layout geralmente apresentam navegação na parte superior 
+da página, seguida de conteúdo e, em seguida, um rodapé na parte inferior da página.
+
+Layout de várias colunas
+
+O layout de várias colunas tem duas ou mais colunas para conteúdo. Muitos sites de desktop usam várias 
+colunas para aproveitar ao máximo o espaço na tela. Ao criar um site responsivo, a versão do 
+site para celular pode usar um layout de coluna única, enquanto a versão para desktop pode usar um layout 
+de várias colunas, pois há mais espaço para adicionar elementos. Ao criar um site com várias colunas, 
+lembre-se dos elementos e princípios de design visual. Por exemplo, você deseja dispor os elementos dentro 
+de cada coluna com base na hierarquia, cor e variedade. Uma dica profissional: em muitos sites com várias 
+colunas, uma coluna de conteúdo à esquerda ou à direita é usada para espaço publicitário.
+
+Layout da caixa
+
+O layout da caixa consiste em caixas ou quadrados de vários tamanhos e proporções. Esse layout normalmente 
+é encontrado em páginas iniciais de sites e é uma ótima maneira de organizar vários elementos. Quando as 
+caixas são do mesmo tamanho e espaçadas uniformemente, os usuários darão às caixas a mesma importância. 
+Como alternativa, algumas caixas podem ser maiores ou espaçadas das demais para chamar a atenção do 
+usuário para aquela caixa, que pode mostrar uma imagem ou item específico. Os layouts de caixa são muito 
+comuns em sites de comércio eletrônico, onde, cada caixa se concentra em um tema ou produto específico. 
+Algumas caixas têm caixas menores dentro delas relacionadas ao mesmo tema ou produto.
+
+Layout de imagem em destaque
+
+O layout de imagem em destaque coloca o foco do usuário em uma única imagem ou vídeo que geralmente ocupa 
+toda a página. Por causa disso, o layout de imagem em destaque costuma ser chamado de layout de imagem 
+única. O layout de imagem em destaque é popularmente usado em sites que desejam criar uma primeira 
+impressão forte, porque os humanos são naturalmente atraídos por imagens. Ao usar esse layout, 
+certifique-se de que a imagem ou vídeo em destaque esteja vinculado à mensagem do produto e seja de alta 
+qualidade. O layout da imagem em destaque geralmente é acompanhado por uma barra de navegação superior 
+fixa ou “adesiva” que permanece no lugar enquanto os usuários rolam a página.
+
+Layouts assimétricos
+
+Os layouts assimétricos são intencionalmente desequilibrados entre os diferentes lados de uma página para 
+dar ênfase. Este layout de site pode ser útil para destacar certos elementos de design, como imagens ou 
+manchetes de texto, ou para dividir o conteúdo por ordem de importância. O sucesso de layouts assimétricos 
+depende de padrões naturais de rastreamento ocular. Um padrão de rastreamento ocular descreve a maneira 
+pela qual os usuários com visão típica seguem o conteúdo da página de um site. Dois padrões comuns de 
+rastreamento ocular assimétrico são o formato F e o formato Z.
+
+Um padrão de rastreamento ocular em forma de F significa que os usuários provavelmente procurarão conteúdo 
+na página seguindo o formato da letra F. O layout da página de um site seguindo o padrão de rastreamento 
+ocular em forma de F é útil ao apresentar muito material, como texto, já que os usuários verificam as 
+informações com base na hierarquia.
+
+Um padrão de rastreamento ocular em forma de Z significa que os usuários provavelmente navegarão pelo 
+conteúdo da página seguindo a forma da letra Z, para usuários que leem da esquerda para a direita. Um 
+layout de site seguindo esse padrão natural chama a atenção do usuário para todas as informações do site, 
+com base na ordem de importância.
+
+Layout de grade de cartões
+
+Um layout de grade de cartões apresenta uma série de cartões que fornecem visualizações de conteúdo mais 
+detalhado. Um cartão é uma forma retangular que inclui informações curtas e relacionadas. Pense nisso como 
+a forma e o tamanho de uma carta de baralho, mas em um design digital! À primeira vista, o layout da grade 
+de cartões pode parecer semelhante ao layout da caixa, mas os dois são bem diferentes! No layout da caixa, 
+cada caixa é um item independente. No layout da grade de cartões, os cartões são correlacionados dentro da 
+mesma lista inter-relacionada. Pense no layout da caixa como pôsteres separados para programas de TV em 
+diferentes gêneros, enquanto o layout da grade de cartões é uma coleção de filmes de comédia. Um layout de 
+grade de cartões geralmente visualiza o conteúdo detalhado. Esse layout é frequentemente encontrado em 
+blogs de culinária, serviços de streaming e outros sites com muito conteúdo, como YouTube e Pinterest. Em 
+um layout de grade de cartões, os cartões são geralmente semelhantes em tamanho. O tamanho dos cartões 
+pode se adaptar ao tamanho da tela para a qual você está projetando, o que torna os cartões ótimos ao 
+criar sites responsivos.
+
+Layout de bolo de camada em camadas
+
+Um layout de bolo de camada em camadas tem linhas individuais, ou camadas, que são empilhadas umas sobre 
+as outras. Dentro de cada linha, pode haver um número diferente de colunas e elas não precisam ser 
+consistentes. O layout de bolo de camada em camadas é frequentemente usado em design de site responsivo, 
+porque se adapta ao tamanho da tela do usuário. As camadas mudam com base no dispositivo que está sendo 
+usado.
+
+https://xd.adobe.com/ideas/principles/web-design/11-website-layouts-that-made-content-shine-in-2019/
