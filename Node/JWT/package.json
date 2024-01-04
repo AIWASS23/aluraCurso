@@ -1,5 +1,5 @@
 {
-  "name": "blog-do-codigo",
+  "name": "jwt",
   "version": "1.0.0",
   "description": "Um blog simples em Node.js",
   "main": "server.js",
