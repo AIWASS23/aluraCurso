@@ -66,3 +66,79 @@ passport.use(
     }
   )
 )
+
+/*
+
+Modulo ES
+
+import { use } from 'passport';
+import { Strategy as LocalStrategy } from 'passport-local';
+import { Strategy as BearerStrategy } from 'passport-http-bearer';
+
+import { buscaPorEmail, buscaPorId } from './usuarios-modelo';
+
+import { InvalidArgumentError } from '../erros';
+
+import { compare } from 'bcrypt';
+import { JsonWebTokenError, verify } from 'jsonwebtoken';
+
+import { contemToken } from '../../redis/manipula-blacklist';
+
+function verificaUsuario(usuario) {
+  if (!usuario) {
+    throw new InvalidArgumentError('Não existe usuário com esse e-mail!');
+  }
+}
+
+async function verificaTokenNaBlacklist(token) {
+  const tokenNaBlacklist = await contemToken(token);
+  if (tokenNaBlacklist) {
+    throw new JsonWebTokenError('Token inválido por logout!');
+  }
+}
+
+async function verificaSenha(senha, senhaHash) {
+  const senhaValida = await compare(senha, senhaHash);
+  if (!senhaValida) {
+    throw new InvalidArgumentError('E-mail ou senha inválidos!');
+  }
+}
+
+use(
+  new LocalStrategy(
+    {
+      usernameField: 'email',
+      passwordField: 'senha',
+      session: false
+    },
+    async (email, senha, done) => {
+      try {
+        const usuario = await buscaPorEmail(email);
+        verificaUsuario(usuario);
+        await verificaSenha(senha, usuario.senhaHash);
+
+        done(null, usuario);
+      } catch (erro) {
+        done(erro);
+      }
+    }
+  )
+);
+
+use(
+  new BearerStrategy(
+    async (token, done) => {
+      try {
+        await verificaTokenNaBlacklist(token);
+        const payload = verify(token, process.env.CHAVE_JWT);
+        const usuario = await buscaPorId(payload.id);
+        done(null, usuario, { token: token });
+      } catch (erro) {
+        done(erro);
+      }      
+    }
+  )
+)
+
+
+*/

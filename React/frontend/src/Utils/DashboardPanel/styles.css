@@ -1,0 +1,34 @@
+.panel__container {
+    padding: 1.3rem 1.7rem 3.6rem;
+    margin: 4rem 2rem;
+    width: 27rem;
+
+    background-color: var(--white);
+}
+
+.panel__container.\.panel__error {
+    background-color: var(--red-error-dashboard);
+}
+
+.panel__title {
+    color: var(--green-sidemenu);
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.panel__info {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+    text-align: center;
+
+    margin-top: 3rem;
+
+    color: var(--blue-dark);
+}
+
+.panel__container.\.panel__error>.panel__info {
+    color: var(--red-cancel-button);
+}

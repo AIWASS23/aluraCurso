@@ -1,0 +1,26 @@
+.info__container-medidores {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: 8rem;
+}
+
+.container__column {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
+
+.--ptz-true, .--ptz-false {
+  font-weight: 500;
+}
+
+.--ptz-true {
+  color: var(--green-primary);
+}
+
+.--ptz-false {
+  color: var(--red-cancel-button);
+}

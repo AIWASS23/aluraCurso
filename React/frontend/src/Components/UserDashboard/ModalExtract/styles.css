@@ -1,0 +1,79 @@
+.extract__background {
+    position: fixed;
+    inset: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #D9D9D970;
+}
+
+.extract__container {
+    background-color: var(--gray-primary);
+    border-radius: 6px;
+    box-shadow: 0px 32px 48px -2px rgba(14, 31, 53, 0.2);
+    opacity: 0.96;
+    
+    display: flex;
+    flex-direction: column;
+
+    position: fixed;
+    z-index: 1;
+
+    min-width: 40rem;
+    margin: auto;
+    padding: 2rem 2rem 5rem;
+
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.extract__close-button {
+    display: flex;
+    flex-direction: row-reverse;
+
+    cursor: pointer;
+}
+
+.extract__title {
+    color: var(--green-sidemenu);
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+
+    margin: 2rem 0;
+}
+
+.extract__dates {
+    margin: 2rem 0 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.extract__list {
+    max-height: 50vh;
+    padding: 0 1rem;
+
+    overflow-y: auto;
+}
+
+.extract__list-item {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 1.2rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--gray-extract-list);
+
+    font-size: 1.6rem;
+}
+
+.extract__list-item>h3 {
+    font-weight: 500;
+}
+
+.extract__list-item>span {
+    font-weight: 300;
+}

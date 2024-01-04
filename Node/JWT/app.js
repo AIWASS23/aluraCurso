@@ -11,3 +11,23 @@ app.use(
 );
 
 module.exports = app;
+
+/*
+
+modulo ES
+
+import express from 'express';
+const app = express();
+import { urlencoded } from 'body-parser';
+
+import { estrategiasAutenticacao } from './src/usuarios';
+
+app.use(
+  urlencoded({
+    extended: true
+  })
+);
+
+export default app;
+
+*/

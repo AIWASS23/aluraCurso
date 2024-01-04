@@ -1,0 +1,29 @@
+.main {
+    background-color: var(--gray-primary);
+    
+    padding: 6.3rem 8rem 4rem 4rem;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    position: relative;
+}
+
+.main__title {
+    color: var(--blue-dark);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.4rem;
+    font-weight: 500;
+    align-self: flex-start;
+}
+
+@media screen and (max-width: 816px) {
+    .main {
+        padding: 6.3rem 1rem 4rem;
+    }
+
+    .main__title {
+        align-self: center;
+    }
+}

@@ -1,0 +1,42 @@
+.tableMedidores__container {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 5rem;
+}
+
+.tableMedidores__header {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.tableMedidores__body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+.tableMedidores__body>.tableMedidores__row {
+  background-color: var(--gray-light);
+  margin: 0.3rem 0;
+  padding: 2rem 0.9rem;
+}
+
+.tableMedidores__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tableMedidores__item {
+  width: 10rem;
+}
+
+.tableMedidores__item.--larger {
+  width: 30rem;
+}
+
+.tableMedidores__item.--center {
+  text-align: center;
+}

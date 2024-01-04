@@ -1,0 +1,161 @@
+.userList__container {
+  position: relative;
+  height: 100%;
+  margin-top: 5rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.userList__container, .userList__table {
+  display: flex;
+  flex-direction: column;
+}
+
+.userList__legend,
+.userList__field,
+.userList__profile,
+.userList__actions,
+.userList__archiveButton,
+.userList__unarchiveButton,
+.archiveButton {
+  display: flex;
+  align-items: center;
+}
+
+.userList__field,
+.archiveButton {
+  justify-content: space-between;
+}
+
+.userList__legend {
+  gap: 7rem;
+}
+
+.userList__legend,
+.userList__archiveButton,
+.userList__unarchiveButton {
+  justify-content: flex-end;
+  font-size: 1.2rem;
+}
+
+.archiveButton {
+  gap: 2rem;
+}
+
+.userList__name,
+.archiveButton,
+.unarchiveButton {
+  cursor: pointer;
+}
+
+.unarchiveButton {
+  padding: 0.9rem 6.5rem;
+}
+
+.userList__legend {
+  font-weight: 300;
+}
+
+.userList__field {
+  border-radius: 4px;
+
+  margin: 1rem 0;
+  padding: 1.5rem;
+  width: 100%;
+
+  background-color: var(--gray-light);
+}
+
+.userList__profile {
+  min-width: 13rem;
+}
+
+.userList__photo {
+  border-radius: 50%;
+  
+  padding: 0.5rem;
+
+  background-color: var(--gray-user-profile);
+}
+
+.userList__photo img {
+  max-width: 3rem;
+}
+
+.userList__name {
+  font-size: 1.4rem;
+  font-weight: 500;
+
+  margin: 0 1rem 0;
+
+  position: relative;
+}
+
+.userList__actions {
+  margin-right: 2rem;
+  gap: 9rem;
+}
+
+.userList__archiveButton,
+.userList__unarchiveButton {
+  font-weight: 500;
+}
+
+/* COLORS */
+
+.legend__block,
+.userList__name {
+  color: var(--blue-dark);
+}
+
+.legend__archive,
+.userList__archiveButton {
+  color: var(--red-cancel-button);
+}
+
+.unarchiveButton {
+  border: 1px solid var(--green-confirm-button);
+  color: var(--green-confirm-button);
+}
+
+.legend__unarchive {
+  margin: 0 -2rem 0 -0.5rem;
+  color: var(--green-unarchive-users);
+}
+
+/* Filtro de busca */
+
+.userList__search {
+  border: 1px solid var(--blue-dark);
+  border-radius: 4px;
+  
+  display: flex;
+  align-items: center;
+  align-self: center;
+  justify-content: space-between;
+
+  padding: 1.6rem 1.8rem;
+
+  margin-top: -9rem;
+  margin-bottom: 7rem;
+}
+
+.search-user__input {
+  all: unset;
+
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin-right: 2rem;
+  width: 35rem;
+}
+
+/* Footer - botão adicionar usuário */
+
+.userList__footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.userList__top-button {
+  margin-bottom: 4rem;
+}

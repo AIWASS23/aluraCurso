@@ -1,0 +1,16 @@
+.error__message {
+    color: var(--red-cancel-button);
+    
+    font-size: 1.4rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+
+.--login {
+    margin-top: -10px;
+
+    font-size: 1.6rem;
+    font-weight: 500;
+
+    color: var(--red-error-login);
+}

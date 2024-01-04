@@ -36,3 +36,5 @@ process.on('SIGINT', () =>
 );
 
 module.exports = db;
+
+// export default db; modulo ES

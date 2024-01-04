@@ -16,3 +16,12 @@ module.exports = {
   InvalidArgumentError: InvalidArgumentError,
   InternalServerError: InternalServerError
 };
+
+/*
+
+Modulo ES
+
+export const InvalidArgumentError = InvalidArgumentError;
+export const InternalServerError = InternalServerError;
+
+*/

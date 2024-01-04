@@ -1,0 +1,37 @@
+.gradient__right, .gradient__left {
+    position: absolute;
+}
+
+.gradient__left {
+    left: 0;
+}
+
+.gradient__right {
+    right: 0;
+}
+
+.--upper {
+    top: 0;
+}
+
+.--down {
+    bottom: 0;
+}
+
+@media screen and (max-height: 670px) {
+    .gradient__left, .gradient__right {
+        width: 30rem;
+    }
+}
+
+@media screen and (max-width: 1180px){
+    .gradient__right.--down {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .gradient__right.--upper {
+        display: none;
+    }
+}

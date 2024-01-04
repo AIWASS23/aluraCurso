@@ -1,0 +1,39 @@
+.userList__container {
+  position: relative;
+  height: 100%;
+}
+
+.tableReadings__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tableClientes__header-item {
+  display: block;
+}
+
+.tableClientes__header-item,
+.tableClientes__item { 
+  text-align: center;
+  width: 15rem;
+}
+
+.tableClientes__item {
+  font-size: 1.2rem;
+}
+
+.tableClientes__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.--cliente-nome,
+.tableClientes__header.--cliente-nome {
+  width: 35rem;
+}
+
+.--tabela-clientes {
+  width: 68vw;
+}

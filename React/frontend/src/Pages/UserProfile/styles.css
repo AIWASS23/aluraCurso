@@ -1,0 +1,72 @@
+.info__input {
+  all: unset;
+}
+
+.userProfile__container {
+  display: flex;
+  flex-direction: column;
+
+  font-family: 'Ubuntu', sans-serif;
+
+  margin-top: 10vh;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+
+  margin-bottom: 8.5rem;
+}
+
+.header__username {
+  margin-left: 5rem;
+
+  font-size: 2.4rem;
+  font-weight: 500;
+}
+
+.info__container {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+
+  color: var(--gray-dark);
+}
+
+.info__field {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  font-size: 2.4rem;
+}
+
+.info__label {
+  font-weight: 500;
+}
+
+.info__input {
+  font-weight: 300;
+}
+
+.userProfile__buttons {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+
+  margin-top: 4rem;
+  width: 70vw;
+}
+
+.button__back {
+  border: 1px solid var(--green-confirm-button);
+  color: var(--green-confirm-button);
+  padding: 1.2rem 6rem;
+  font-size: 1.6rem;
+}
+
+.button__edit {
+  display: flex;
+  justify-content: flex-end;
+}

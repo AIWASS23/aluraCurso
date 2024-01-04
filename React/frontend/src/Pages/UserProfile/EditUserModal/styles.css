@@ -1,0 +1,81 @@
+.formUser__input {
+    all: unset;
+}
+
+.formUser__container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formUser__header {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn__add {
+    align-self: flex-end;
+    cursor: pointer;
+    margin-top: -2rem;
+}
+
+.formUser__form {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+
+    margin-top: 3rem;
+}
+
+.formUser__field {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+
+    background-color: var(--white);
+
+    padding: 0.7rem 1.6rem;
+
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+
+.formUser__label {
+    color: var(--gray-form-label);
+    font-size: 1.4rem;
+}
+
+.formUser__input {
+    color: var(--gray-dark);
+    font-size: 1.6rem;
+}
+
+.formUser__buttons__field {
+    display: flex;
+    gap: 4.2rem;
+
+    margin-top: 7rem;
+}
+
+.optionListContainer {
+    width: 0;
+}
+
+@media screen and (max-width: 816px) {
+    .formUser__header {
+        align-self: center;
+    }
+    
+    .formUser__field {
+        width: 70vw;
+    }
+
+    .formUser__buttons__field {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .formUser__buttons__field .button{
+        padding: 1.6rem 5rem;
+    }
+}

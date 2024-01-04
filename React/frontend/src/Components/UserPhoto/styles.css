@@ -1,0 +1,26 @@
+.userphoto, .photo__selected {
+    display: flex;
+    flex-direction: column;
+}
+
+.photo__container {
+    padding: 0;
+    background-color: var(--gray-user-profile);
+    border-radius: 50%;
+
+    max-width: 16.9rem 16.9rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photo__user {
+    border-radius: 50%;
+}
+
+.btn__add {
+    align-self: flex-end;
+    cursor: pointer;
+    margin-top: -2rem;
+}

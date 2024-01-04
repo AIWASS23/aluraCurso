@@ -1,0 +1,20 @@
+.home__page {
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* position: fixed;
+    inset: 0; */
+
+    background: linear-gradient(143.99deg, #2D862D 13.08%, #00406A 94.46%);
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1180px) {
+    .home__page {
+        padding-bottom: 5rem;
+    }
+}

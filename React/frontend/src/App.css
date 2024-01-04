@@ -1,0 +1,51 @@
+.form__header {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-bottom: 8rem;
+}
+
+.form__subtitle {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 2.4rem;
+}
+
+.--flex__center {
+    align-items: center;
+}
+
+.button {
+    padding: 1.6rem 10.9rem;
+
+    border-radius: 4px;
+    
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    transition: 0.5s;
+    opacity: 0.8;
+}
+
+.--confirm, .--cancel {
+    color: var(--white);
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.--confirm {
+    background-color: var(--green-confirm-button);
+}
+
+.--cancel {
+    background-color: var(--red-cancel-button);
+}
+
+.--inline {
+    display: flex;
+    align-items: center;
+}

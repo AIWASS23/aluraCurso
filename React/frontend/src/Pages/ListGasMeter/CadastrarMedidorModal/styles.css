@@ -1,0 +1,33 @@
+.formRegisterGasMeter__container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  margin-top: 5rem;
+}
+
+.formUser__row {
+  display: flex;
+}
+
+.formUser__field.--checkbox {
+  background-color: var(--gray-primary);
+  color: var(--green-sidemenu);
+
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+.hidden__checkbox {
+  display: none;
+}
+
+.formUser__input.--percentual-variacao {
+  width: 3rem;
+}

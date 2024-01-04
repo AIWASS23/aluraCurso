@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Roboto+Mono:wght@700&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+:root {
+  --white: #ffffff;
+  --gray-light: #eeeeee;
+  --gray-primary: #f8f8f8;
+  --gray-user-profile: #C4C4C4;
+  --gray-extract-list: #CECECE;
+  --gray-form-label: #ADA7C1;
+  --gray-dark: #3B464A;
+  --dark: #232323;
+  --red-cancel-button: #EB5757;
+  --red-error-login: #ff7a7a;
+  --red-error-dashboard: #FEEBEB;
+  --green-primary: #49AB6C;
+  --green-unarchive-users: #219653;
+  --green-confirm-button: #2D862D;
+  --green-sidemenu: #2D862D;
+  --blue-dark: #00406A;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  font-size: 62.5%;
+}
+
+button, h1, h2, h3, a, p, ul, figure {
+  all: unset;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button, a {
+  cursor: pointer;
+}
+
+/* ===== Remover setas do input type=number ====== */
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+input[type=file] {
+  display: none;
+}
+
+/* ===== MUI Autocomplete Styles ===== */
+
+.css-12m6cdi-MuiAutocomplete-root .MuiAutocomplete-input:focus {
+  all: unset;
+}
+
+.css-12m6cdi-MuiAutocomplete-root .MuiAutocomplete-input,
+.css-12m6cdi-MuiAutocomplete-root .MuiAutocomplete-input:focus {
+  border: none !important;
+  color: var(--gray-dark);
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+
+/* ===== Datepicker Styles ====== */
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root,
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root,
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root,
+.css-11i52bn-MuiTypography-root,
+.css-11i52bn-MuiTypography-root,
+.css-1w13o7u-MuiTypography-root,
+.css-1yy0aak-MuiTypography-root.Mui-selected,
+.css-195y93z-MuiButtonBase-root-MuiPickersDay-root.Mui-selected,
+.css-1wvgxus-MuiCalendarPicker-viewTransitionContainer,
+button.MuiButtonBase-root.MuiPickersDay-root.MuiPickersDay-dayWithMargin.css-ub1r1,
+button.MuiButtonBase-root.MuiPickersDay-root.MuiPickersDay-dayWithMargin.MuiPickersDay-today.css-wed0tz,
+button.MuiTypography-root.MuiTypography-subtitle1.PrivatePickersMonth-root.css-1l4irwy,
+button.MuiTypography-root.MuiTypography-h5.PrivatePickersMonth-root.Mui-selected.css-f4m3aa,
+.css-m1gykc {
+  font-size: 1.6rem !important;
+}
+
+.css-m1gykc {
+  text-align: center;
+}
+
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root {
+  max-width: 16rem;
+}
+
+.css-1smlk3z-MuiPaper-root  {
+  height: 32rem;
+}
+
+.css-1wvgxus-MuiCalendarPicker-viewTransitionContainer {
+  max-height: 25rem;
+}
+
+/* Global styles */
+
+.--cursor-pointer {
+  cursor: pointer;
+}
+
+.--hidden {
+  display: none !important;
+}
+
+/* FLEXBOX */
+
+.flex__justify-flex-end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* BOTÕES */
+
+.botao__cadastrar {
+  background: var(--green-primary);
+  color: var(--white);
+  
+  border-radius: 4px;
+  
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  padding: 1.5rem 3rem;
+  margin-top: 5rem;
+  
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 95rem) {
+  html {
+    font-size: 60%;
+  }
+}
+
+@media only screen and (max-width: 65rem) {
+  html {
+    font-size: 58%;
+  }
+}

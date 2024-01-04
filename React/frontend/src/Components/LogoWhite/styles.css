@@ -1,0 +1,25 @@
+.logo__white {
+    position: absolute;
+    left: 70px;
+    top: 83px;
+    z-index: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .logo__white {
+        left: 35%;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .logo__white {
+        left: 30%;
+    }
+}
+
+@media screen and (max-height: 480px) {
+    .logo__white {
+        left: 0;
+        top: 0;
+    }
+}

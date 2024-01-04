@@ -1,0 +1,99 @@
+.modal__background {
+    position: fixed;
+    inset: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal__container {
+    background-color: var(--gray-primary);
+    border-radius: 6px;
+    box-shadow: 0px 32px 48px -2px rgba(14, 31, 53, 0.2);
+    opacity: 0.96;
+
+    max-width: 40vw;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10rem 21rem;
+
+    position: fixed;
+    z-index: 1;
+    top: 20vh;
+    left: 20vw;
+}
+
+.modal__exit {
+    position: absolute;
+    top: 23px;
+    right: 23px;
+    cursor: pointer;
+}
+
+.modal__message {
+    font-family: 'Ubuntu', sans-serif;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    text-align: center;
+}
+
+.modal__title {
+    color: var(--green-sidemenu);
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.modal__subtitle {
+    margin-top: 3rem;
+
+    color: var(--gray-dark);
+    font-weight: 400;
+    font-size: 3.2rem;
+}
+
+.--recover-password {
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 1140px) {
+    .modal__container {
+        margin-top: 5rem;
+        padding: 12rem 18rem;
+    }
+}
+
+@media screen and (max-width: 924px) {
+    .modal__container {
+        padding: 10rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .modal__container {
+        padding: 5rem;
+    }
+
+    .modal__exit {
+        top: 1rem;
+        right: 1rem;
+    }
+
+    .modal__exit img {
+        max-width: 3rem;
+    }
+
+    .modal__title {
+        font-size: 3rem;
+    }
+
+    .modal__subtitle {
+        font-size: 2.5rem;
+    }
+}

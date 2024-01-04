@@ -1,0 +1,9 @@
+.inputImageLabel {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  background: #2d862d;
+  cursor: pointer;
+  width: auto;
+  padding: 1rem;
+}

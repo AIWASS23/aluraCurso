@@ -1,0 +1,59 @@
+.dashboard__button {
+    display: flex;
+    flex-direction: row-reverse;    
+}
+
+.dashboard__title {
+    color: var(--blue-dark);
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.dashboard__panels {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.button__sync {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    cursor: pointer;
+
+    padding: 0.8rem 0.4rem;
+    margin: 4.6rem 0;
+    max-width: 22rem;
+}
+
+.sync__title {
+    color: var(--green-sidemenu);
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.button__medition {
+    color: var(--white);
+    background-color: var(--green-confirm-button);
+    
+    border-radius: 4px;
+
+    padding: 1.6rem 4rem;
+    margin-top: 14rem;
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.button__medition:hover {
+    transition: 0.5s;
+    opacity: 0.8;
+}
