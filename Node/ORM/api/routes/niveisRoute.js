@@ -1,5 +1,5 @@
-const { Router } = require('express')
-const NivelController = require('../controllers/NivelController')
+import { Router } from 'express'
+import NivelController from '../controllers/NivelController.js'
  
 const router = Router()
 router
@@ -8,4 +8,4 @@ router
  .post('/niveis', NivelController.criaNivel)
  .put('/niveis/:id', NivelController.atualizaNivel)
  .delete('/niveis/:id', NivelController.apagaNivel)
-module.exports = router
+export default router

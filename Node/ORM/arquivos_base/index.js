@@ -1,12 +1,12 @@
-const bodyParser = require('body-parser')
+import { json } from 'body-parser'
  
-const pessoas = require('./pessoasRoute')
-const niveis = require('./niveisRoute')
-const turmas = require('./turmasRoute')
+import pessoas from './pessoasRoute'
+import niveis from './niveisRoute'
+import turmas from './turmasRoute'
 
-module.exports = app => {
+export default app => {
  app.use(
-   bodyParser.json(),
+   json(),
    pessoas,
    niveis,
    turmas

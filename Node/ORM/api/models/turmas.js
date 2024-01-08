@@ -1,18 +1,24 @@
 'use strict';
-module.exports = (sequelize, DataTypes) => {
+import { DataTypes } from 'sequelize'; // Certifique-se de importar DataTypes, se necessário
+
+const Turmas = (sequelize, DataTypes) => {
   const Turmas = sequelize.define('Turmas', {
     data_inicio: DataTypes.DATEONLY
   }, {});
+  
   Turmas.associate = function(models) {
     Turmas.hasMany(models.Matriculas, {
       foreignKey: 'turma_id'
-    })
+    });
     Turmas.belongsTo(models.Pessoas, {
       foreignKey: 'docente_id'
-    })
+    });
     Turmas.belongsTo(models.Niveis, {
       foreignKey: 'nivel_id'
-    })
+    });
   };
+
   return Turmas;
 };
+
+export default Turmas; // Exporta a função que define o modelo 'Turmas'

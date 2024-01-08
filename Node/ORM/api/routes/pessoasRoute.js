@@ -1,5 +1,5 @@
-const { Router } = require('express')
-const PessoaController = require('../controllers/PessoaController')
+import { Router } from 'express'
+import PessoaController from '../controllers/PessoaController.js'
 
 const router = Router()
 
@@ -13,4 +13,4 @@ router.post('/pessoas/:estudanteId/matricula', PessoaController.criaMatricula)
 router.put('/pessoas/:estudanteId/matricula/:matriculaId',  PessoaController.atualizaMatricula)
 router.delete('/pessoas/:estudanteId/matricula/:matriculaId',  PessoaController.apagaMatricula)
 
-module.exports = router
+export default router
